@@ -1,0 +1,1713 @@
+{
+    "AppContext": {
+        "appContext": {
+            "language": "en",
+            "region": "VN",
+            "appId": 1180,
+            "appType": "t",
+            "wid": "7271079549320234498",
+            "odinId": "7271079145760965633",
+            "nonce": "0J9EK216Vtv62iGHD5gyQ",
+            "botType": "others",
+            "requestId": "16929320700312746465",
+            "clusterRegion": "ALL_SG",
+            "abTestVersion": {
+                "versionName": "71338445,70508271,71065282,71283847,71289349,71325544,71357215,71359320,71397995,71422063,71436492,71437354,71439290,71448062,71448198,71450210,71451359,71465653,71488726,71497538,71501489,70405643,71057832,71200802",
+                "parameters": {
+                    "creator_center_connect": {
+                        "vid": "v1"
+                    },
+                    "qr_sso_popup": {
+                        "vid": "v4"
+                    },
+                    "use_inbox_notice_count_api": {
+                        "vid": "v2"
+                    },
+                    "mobile_search_test": {
+                        "vid": "v2"
+                    },
+                    "share_button_part1_test": {
+                        "vid": "v1"
+                    },
+                    "video_feed_redesign": {
+                        "vid": "v1"
+                    },
+                    "video_serverpush": {
+                        "vid": "v1"
+                    },
+                    "has_system_notification_inbox_mobile": {
+                        "vid": "v2"
+                    },
+                    "webapp_switch_account": {
+                        "vid": "v1"
+                    },
+                    "enable_ml_model": {
+                        "vid": "v1"
+                    },
+                    "studio_web_eh_entrance": {
+                        "vid": "v1"
+                    },
+                    "xg_volume_test": {
+                        "vid": "v2"
+                    },
+                    "xgplayer_preload_config": {
+                        "vid": "v4"
+                    },
+                    "mobile_vodkit": {
+                        "vid": "v1"
+                    },
+                    "video_bitrate_adapt": {
+                        "vid": "v1"
+                    },
+                    "browser_login_redirect": {
+                        "vid": "v2"
+                    },
+                    "use_follow_v2": {
+                        "vid": "v1"
+                    },
+                    "one_column_player_size": {
+                        "vid": "v1"
+                    },
+                    "sign_up_webapp_region_change": {
+                        "vid": "v1"
+                    },
+                    "volume_normalize": {
+                        "vid": "v1"
+                    },
+                    "browser_mode_creator_tab_3": {
+                        "vid": "v4"
+                    },
+                    "webapp_login_email_phone": {
+                        "vid": "v1"
+                    },
+                    "profile_ui_opt": {
+                        "vid": "v1"
+                    },
+                    "has_system_notification_inbox": {
+                        "vid": "v2"
+                    },
+                    "confirm_logout": {
+                        "vid": "v2"
+                    },
+                    "periodic_login_popup_interval": {
+                        "vid": "v2"
+                    },
+                    "should_highlight_hashtag": {
+                        "vid": "v2"
+                    },
+                    "login_modal_ui_revamp": {
+                        "vid": "v1"
+                    },
+                    "search_video": {
+                        "vid": "v1",
+                        "botVid": "v1"
+                    },
+                    "enable_not_interested": {
+                        "vid": "v2"
+                    },
+                    "add_kap_entry": {
+                        "vid": "v2"
+                    },
+                    "browse_mode_autoplay_test": {
+                        "vid": "v1"
+                    },
+                    "comment_refactor_test": {
+                        "vid": "v3"
+                    },
+                    "cover_image_format": {
+                        "vid": "v1"
+                    },
+                    "creator_center_test": {
+                        "vid": "v2"
+                    },
+                    "desktop_app_test": {
+                        "vid": "v2"
+                    },
+                    "desktop_ui_opt": {
+                        "vid": "v4"
+                    },
+                    "desktop_ui_reply": {
+                        "vid": "v3"
+                    },
+                    "enhance_video_consumption_test": {
+                        "vid": "v3"
+                    },
+                    "explore_test": {
+                        "vid": "v3"
+                    },
+                    "favorite_test": {
+                        "vid": "v1"
+                    },
+                    "increase_detail_page_cover_quantity_test": {
+                        "vid": "v3"
+                    },
+                    "kep_new_ui_login": {
+                        "vid": "v2"
+                    },
+                    "kep_video_sort_exp": {
+                        "vid": "v1"
+                    },
+                    "live_abr_version": {
+                        "vid": "v2"
+                    },
+                    "live_anchor_banner_style_test": {
+                        "vid": "v1"
+                    },
+                    "live_csr": {
+                        "vid": "v2"
+                    },
+                    "live_csr_skeleton": {
+                        "vid": "v2"
+                    },
+                    "live_dark_mode": {
+                        "vid": "v1"
+                    },
+                    "live_end_improved_metrics": {
+                        "vid": "v2"
+                    },
+                    "live_golive_entrance": {
+                        "vid": "v2"
+                    },
+                    "live_historical_comments": {
+                        "vid": "v0"
+                    },
+                    "live_lcp_perf_optimize": {
+                        "vid": "v3"
+                    },
+                    "live_player_icon": {
+                        "vid": "v2"
+                    },
+                    "live_player_mute_text": {
+                        "vid": "v2"
+                    },
+                    "live_player_switch_button": {
+                        "vid": "v2"
+                    },
+                    "live_recharge_by_amount": {
+                        "vid": "v1"
+                    },
+                    "live_room_age_restriction": {
+                        "vid": "v2"
+                    },
+                    "live_studio_download_refactor_pc": {
+                        "vid": "v2"
+                    },
+                    "live_top_viewers": {
+                        "vid": "v2"
+                    },
+                    "optimise_browser_mode": {
+                        "vid": "v2"
+                    },
+                    "pc_video_playlist_test": {
+                        "vid": "v3"
+                    },
+                    "photo_test": {
+                        "vid": "v2"
+                    },
+                    "search_add_live": {
+                        "vid": "v2"
+                    },
+                    "search_add_related_search": {
+                        "vid": "v2"
+                    },
+                    "search_bar_style_opt": {
+                        "vid": "v3"
+                    },
+                    "search_entry_comment_top": {
+                        "vid": "v2"
+                    },
+                    "search_entry_comment_word": {
+                        "vid": "v2"
+                    },
+                    "search_entry_search_bar": {
+                        "vid": "v2"
+                    },
+                    "search_keep_sug_show": {
+                        "vid": "v2"
+                    },
+                    "search_transfer_guesssearch": {
+                        "vid": "v2"
+                    },
+                    "search_transfer_history": {
+                        "vid": "v2"
+                    },
+                    "search_video_lab": {
+                        "vid": "v3"
+                    },
+                    "seo_breadcrumb_detail": {
+                        "vid": "v2"
+                    },
+                    "sidenav_test": {
+                        "vid": "v2"
+                    },
+                    "translation_reduce": {
+                        "vid": "v2"
+                    },
+                    "ttlive_broadcast_topic_version_two": {
+                        "vid": "v2"
+                    },
+                    "ui_layout_alignment": {
+                        "vid": "v3"
+                    },
+                    "video_detail_search_bar": {
+                        "vid": "v2"
+                    },
+                    "webapp_aa": {
+                        "vid": "v2"
+                    },
+                    "webapp_exp": {
+                        "vid": "v2"
+                    },
+                    "webapp_explore_category": {
+                        "vid": "v2"
+                    },
+                    "webapp_recommend_language": {
+                        "vid": "v2"
+                    },
+                    "webapp_video_detail_page_related_mask": {
+                        "vid": "v2"
+                    }
+                }
+            },
+            "csrfToken": "JCeXpMrc-xqVVeWCgOxM2GS69a4qdnA12f-I",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+            "encryptedWebid": "1%7CsUbI82hHAYE5BswlmyLZTVEZP_f-z30lDWDHH32LjoU%7C1692931197%7Cc2b74aa4d18b6d12c99bcc1230884fb8b40ffb855254d6ae7c3488126698e528",
+            "host": "www.tiktok.com"
+        },
+        "initialized": true,
+        "lang": "en",
+        "sideNavActive": false
+    },
+    "BizContext": {
+        "bizContext": {
+            "os": "windows",
+            "isMobile": false,
+            "isAndroid": false,
+            "isIOS": false,
+            "jumpType": "t",
+            "navList": [
+                {
+                    "title": "Company",
+                    "children": [
+                        {
+                            "title": "About",
+                            "href": "https://www.tiktok.com/about?lang=en"
+                        },
+                        {
+                            "title": "Newsroom",
+                            "href": "https://newsroom.tiktok.com/"
+                        },
+                        {
+                            "title": "Contact",
+                            "href": "https://www.tiktok.com/about/contact?lang=en"
+                        },
+                        {
+                            "title": "Careers",
+                            "href": "https://careers.tiktok.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "Programs",
+                    "children": [
+                        {
+                            "title": "TikTok for Good",
+                            "href": "https://www.tiktok.com/forgood"
+                        },
+                        {
+                            "title": "Advertise",
+                            "href": "https://www.tiktok.com/business/?attr_source=tt_official_site&attr_medium=tt_official_site_guidance&refer=tiktok_web"
+                        },
+                        {
+                            "title": "Developers",
+                            "href": "https://developers.tiktok.com/?refer=tiktok_web"
+                        },
+                        {
+                            "title": "TikTok Rewards",
+                            "href": "https://www.tiktok.com/tiktok-rewards/en"
+                        },
+                        {
+                            "title": "TikTok Embeds",
+                            "href": "https://www.tiktok.com/embed"
+                        }
+                    ]
+                },
+                {
+                    "title": "Support",
+                    "children": [
+                        {
+                            "title": "Help Center",
+                            "href": "https://support.tiktok.com/en"
+                        },
+                        {
+                            "title": "Safety Center",
+                            "href": "https://www.tiktok.com/safety?lang=en"
+                        },
+                        {
+                            "title": "Creator Portal",
+                            "href": "https://www.tiktok.com/creators/creator-portal/en-us/"
+                        },
+                        {
+                            "title": "Community Guidelines",
+                            "href": "https://www.tiktok.com/community-guidelines?lang=en"
+                        },
+                        {
+                            "title": "Transparency",
+                            "href": "https://www.tiktok.com/transparency"
+                        },
+                        {
+                            "title": "Accessibility",
+                            "href": "https://www.tiktok.com/accessibility"
+                        }
+                    ]
+                },
+                {
+                    "title": "Legal",
+                    "children": [
+                        {
+                            "title": "Terms of Use",
+                            "key": "terms-of-service",
+                            "href": "https://www.tiktok.com/legal/terms-of-service?lang=en"
+                        },
+                        {
+                            "title": "Privacy Policy",
+                            "key": "privacy-policy-row",
+                            "href": "https://www.tiktok.com/legal/privacy-policy-row?lang=en"
+                        }
+                    ]
+                }
+            ],
+            "kapLinks": [
+                {
+                    "title": "Category",
+                    "children": [
+                        {
+                            "lang": [
+                                "en"
+                            ],
+                            "links": [
+                                {
+                                    "title": "Dance",
+                                    "href": "https://www.tiktok.com/channel/dance"
+                                },
+                                {
+                                    "title": "Arts",
+                                    "href": "https://www.tiktok.com/channel/arts"
+                                },
+                                {
+                                    "title": "Food and Drink",
+                                    "href": "https://www.tiktok.com/channel/food-and-drink"
+                                },
+                                {
+                                    "title": "Tourism",
+                                    "href": "https://www.tiktok.com/channel/tourism"
+                                },
+                                {
+                                    "title": "Production and Manufacturing",
+                                    "href": "https://www.tiktok.com/channel/production-and-manufacturing"
+                                },
+                                {
+                                    "title": "Vehicles and Transportation",
+                                    "href": "https://www.tiktok.com/channel/vehicles-and-transportation"
+                                },
+                                {
+                                    "title": "Relationship",
+                                    "href": "https://www.tiktok.com/channel/relationship"
+                                },
+                                {
+                                    "title": "TikTok Style",
+                                    "href": "https://www.tiktok.com/channel/tiktok-style"
+                                },
+                                {
+                                    "title": "Athletics",
+                                    "href": "https://www.tiktok.com/channel/athletics"
+                                },
+                                {
+                                    "title": "Hobbies",
+                                    "href": "https://www.tiktok.com/channel/hobbies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "config": {
+                "featureFlags": {
+                    "feature_bar": true,
+                    "business_account_open": true,
+                    "feature_tt4b_ads": true,
+                    "support_multiline_desc": true,
+                    "pc_video_playlist": true,
+                    "feature_mobile_ui_opt_stage2": true,
+                    "desktop_app": true
+                },
+                "desktopAppDownloadLink": {
+                    "mac": "https://lf-pc-app.ttwstatic.com/obj/tiktok-pc-app-sg/tiktok-v1.0.1-darwin-universal.dmg",
+                    "win": "https://lf-pc-app.ttwstatic.com/obj/tiktok-pc-app-sg/tiktok-v1.0.1-win32-ia32-default.exe"
+                },
+                "signUpOpen": true,
+                "cookieBanner": {
+                    "load_dynamically": true,
+                    "decline_btn_staged_rollout_area": [
+                        "ALL"
+                    ],
+                    "resource": {
+                        "prefix": "/pns/tiktok-cookie-banner",
+                        "themes": [
+                            "default",
+                            "ttm"
+                        ],
+                        "esm": "/pns/tiktok-cookie-banner/{{VERSION}}/default.esm.js",
+                        "nomodule": "/pns/tiktok-cookie-banner/{{VERSION}}/default.js",
+                        "version": "1.0.0.201"
+                    },
+                    "i18n": {
+                        "cookieBannerTitle": "cookie_title",
+                        "cookieBannerTitleNew": "cookie_title_new",
+                        "cookieBannerSubTitle": "cookie_subtitle",
+                        "cookieBannerSubTitleNew": "cookie_subtitle_new",
+                        "cookieBannerSubTitleV2": "cookie_subtitle_v3",
+                        "cookieBannerBtnManage": "cookie_btn_manage",
+                        "cookieBannerBtnAccept": "cookie_btn_accpet",
+                        "cookieBannerBtnDecline": "cookie_btn_decline",
+                        "cookiesBannerDetails": "cookies_banner_details",
+                        "cookiesBannerCookiesPolicy": "cookies_banner_cookies_policy",
+                        "cookiesBannerAccept": "cookies_banner_accept",
+                        "webDoNotSellSettingsSavedToast": "web_do_not_sell_settings_saved_toast",
+                        "cookieSettingManageYourCookieTitle": "cookie_banner_category_manage",
+                        "cookieSettingSave": "save_settings",
+                        "cookieSettingAnalyticsAndMarketing": "cookie_banner_subcategory_cookies",
+                        "cookieSettingNecessary": "cookie_setting_page_nc_title",
+                        "cookieSettingNecessarySubtitle": "cookie_setting_page_nc_subtitle",
+                        "cookieSettingNecessaryV2": "cookie_banner_subcategory_essential",
+                        "cookieSettingNecessarySubtitleV2": "cookies_essential_desc",
+                        "cookieSettingAnalyticsAndMarketingSubtitle": "cookie_setting_page_aam_subtitle",
+                        "cookieSettingAnalyticsAndMarketingSubtitleV2": "cookie_analytics_marketing_desc",
+                        "cookieManageTip": "cookie_manage_desc"
+                    }
+                },
+                "isGrayFilter": false,
+                "nickNameControlDay": "7"
+            },
+            "domains": {
+                "kind": "t",
+                "captcha": "",
+                "imApi": "https://im-api-sg.tiktok.com",
+                "imFrontier": "wss://im-ws-sg.tiktok.com/ws/v2",
+                "mTApi": "https://t.tiktok.com",
+                "rootApi": "https://www.tiktok.com",
+                "secSDK": "",
+                "slardar": "mon-va.byteoversea.com",
+                "starling": "https://starling-oversea.byteoversea.com",
+                "tea": "https://mcs-sg.tiktok.com",
+                "libraWebSDK": "https://vmweb-sg.byteoversea.com",
+                "webcastApi": "https://webcast.tiktok.com",
+                "webcastRootApi": "https://webcast.tiktok.com",
+                "pipoApi": "https://f-p.sgsnssdk.com",
+                "tcc": "https://sf16-tcc-tos-sg.byteoversea.com/obj/tcc-config-web-alisg/",
+                "aweme": "https://api.tiktok.com",
+                "locationApi": "https://location-sg.byteintl.com"
+            },
+            "downloadLink": {
+                "microsoft": {
+                    "visible": true,
+                    "normal": "https://www.microsoft.com/store/apps/9NH2GPH4JZS4"
+                },
+                "apple": {
+                    "visible": true,
+                    "normal": "https://www.tiktok.com/download-link/af/id1235601864"
+                },
+                "amazon": {
+                    "visible": true,
+                    "normal": "https://www.amazon.com/dp/B07KR1RJL2/"
+                },
+                "google": {
+                    "visible": true,
+                    "normal": "https://www.tiktok.com/download-link/af/com.ss.android.ugc.trill"
+                }
+            },
+            "deviceLimitRegisterExpired": true,
+            "subdivisions": [
+                "Thanh pho Ha Noi"
+            ],
+            "geo": [
+                "1581129"
+            ],
+            "geoCity": {
+                "City": "Hoan Kiem",
+                "Subdivisions": "Thanh pho Ha Noi",
+                "OriginalSubdivisions": [
+                    {
+                        "GeoNameID": "1581129",
+                        "ASCIName": "Thanh pho Ha Noi",
+                        "Name": "Ha Noi"
+                    }
+                ],
+                "SubdivisionsArr": [
+                    "Thanh pho Ha Noi"
+                ]
+            },
+            "isGoogleBot": false,
+            "isBingBot": false,
+            "isBot": false,
+            "isSearchEngineBot": false,
+            "isTTP": false,
+            "dateFmtLocale": {
+                "name": "en",
+                "months": [
+                    "January",
+                    "February",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September",
+                    "October",
+                    "November",
+                    "December"
+                ],
+                "monthsShort": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun",
+                    "Jul",
+                    "Aug",
+                    "Sep",
+                    "Oct",
+                    "Nov",
+                    "Dec"
+                ],
+                "weekdays": [
+                    "Sunday",
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "weekdaysShort": [
+                    "Sun",
+                    "Mon",
+                    "Tues",
+                    "Wed",
+                    "Thurs",
+                    "Fri",
+                    "Sat"
+                ],
+                "weekdaysMin": [
+                    "Su",
+                    "Mo",
+                    "Tu",
+                    "We",
+                    "Th",
+                    "Fr",
+                    "Sa"
+                ],
+                "longDateFormat": {
+                    "LT": "h:mm A",
+                    "LTS": "h:mm:ss A",
+                    "L": "MM/DD/YYYY",
+                    "LL": "MMMM D, YYYY",
+                    "LLL": "MMMM D, YYYY HH:mm",
+                    "LLLL": "dddd MMMM D, YYYY HH:mm",
+                    "l": "M/D/YYYY",
+                    "ll": "MMM D, YYYY",
+                    "lll": "MMM D, YYYY h:mm A",
+                    "llll": "ddd MMM D, YYYY h:mm A",
+                    "LL-Y": "MMMM D"
+                },
+                "meridiem": {
+                    "am": "am",
+                    "pm": "pm",
+                    "AM": "AM",
+                    "PM": "PM"
+                }
+            },
+            "videoPlayerConfig": {
+                "fallback": false
+            },
+            "playbackNormalizePath": {
+                "path": [
+                    "/foryou",
+                    "/following"
+                ]
+            },
+            "bitrateConfig": {
+                "bitrateLower": 200000,
+                "bitrateRange": [
+                    200000,
+                    2500000
+                ],
+                "bitrateUpper": 2000000,
+                "mode": "buffer-info",
+                "paramBf": 0.3,
+                "paramBp": 0.7,
+                "paramLower": 0.5,
+                "paramUpper": 1.4,
+                "paramUpperBl": 0.4,
+                "paramVl1": 0.7,
+                "paramVl2": 1,
+                "paramVlLower": 0.5,
+                "paramVlUpper": 0.8,
+                "slidingWindowCountThreshold": 10,
+                "slidingWindowExtraction": "weighted_median",
+                "slidingWindowType": "by_weight",
+                "slidingWindowWeight": "size",
+                "slidingWindowWeightThreshold": 10000000
+            },
+            "searchVideoForLoggedin": false,
+            "studioDownloadEntrance": {
+                "regions": [
+                    "BY",
+                    "TJ",
+                    "TM",
+                    "KZ",
+                    "GB",
+                    "DE",
+                    "ES",
+                    "FR",
+                    "UZ",
+                    "KG",
+                    "MD",
+                    "AC",
+                    "AD",
+                    "AF",
+                    "AG",
+                    "AI",
+                    "AL",
+                    "AM",
+                    "AO",
+                    "AQ",
+                    "AS",
+                    "AU",
+                    "AW",
+                    "AX",
+                    "BA",
+                    "BB",
+                    "BD",
+                    "BF",
+                    "BG",
+                    "BI",
+                    "BJ",
+                    "BL",
+                    "BM",
+                    "BN",
+                    "BQ",
+                    "BS",
+                    "BT",
+                    "BV",
+                    "BW",
+                    "BZ",
+                    "CA",
+                    "CC",
+                    "CD",
+                    "CF",
+                    "CG",
+                    "CI",
+                    "CK",
+                    "CM",
+                    "CN",
+                    "CS",
+                    "CU",
+                    "CV",
+                    "CW",
+                    "CX",
+                    "CY",
+                    "DK",
+                    "DM",
+                    "DR",
+                    "EA",
+                    "EE",
+                    "EH",
+                    "EN",
+                    "ET",
+                    "FJ",
+                    "FK",
+                    "FM",
+                    "FO",
+                    "GA",
+                    "GD",
+                    "GE",
+                    "GF",
+                    "GG",
+                    "GH",
+                    "GI",
+                    "GL",
+                    "GN",
+                    "GP",
+                    "GQ",
+                    "GS",
+                    "GU",
+                    "GW",
+                    "GY",
+                    "HK",
+                    "HR",
+                    "HT",
+                    "IC",
+                    "IE",
+                    "IL",
+                    "IM",
+                    "IN",
+                    "IO",
+                    "IS",
+                    "JE",
+                    "KE",
+                    "KH",
+                    "KI",
+                    "KN",
+                    "KY",
+                    "LA",
+                    "LC",
+                    "LI",
+                    "LK",
+                    "LR",
+                    "LS",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "ME",
+                    "MF",
+                    "MG",
+                    "MH",
+                    "MK",
+                    "ML",
+                    "MM",
+                    "MN",
+                    "MO",
+                    "MP",
+                    "MQ",
+                    "MS",
+                    "MT",
+                    "MU",
+                    "MV",
+                    "MW",
+                    "MZ",
+                    "NA",
+                    "NC",
+                    "NE",
+                    "NF",
+                    "NG",
+                    "NJ",
+                    "NO",
+                    "NR",
+                    "NU",
+                    "NZ",
+                    "PF",
+                    "PG",
+                    "PK",
+                    "PM",
+                    "PN",
+                    "PR",
+                    "PW",
+                    "QS",
+                    "RE",
+                    "RW",
+                    "SB",
+                    "SC",
+                    "SH",
+                    "SI",
+                    "SJ",
+                    "SL",
+                    "SM",
+                    "SN",
+                    "SR",
+                    "ST",
+                    "SX",
+                    "SZ",
+                    "TC",
+                    "TF",
+                    "TG",
+                    "TK",
+                    "TL",
+                    "TO",
+                    "TP",
+                    "TS",
+                    "TV",
+                    "TZ",
+                    "UG",
+                    "UM",
+                    "VA",
+                    "VC",
+                    "VG",
+                    "VI",
+                    "VU",
+                    "WF",
+                    "WS",
+                    "XA",
+                    "XB",
+                    "XK",
+                    "XX",
+                    "YJ",
+                    "YT",
+                    "ZA",
+                    "ZG",
+                    "ZM",
+                    "ZN",
+                    "ZW",
+                    "ZZ",
+                    "ES",
+                    "TR",
+                    "AZ",
+                    "MA",
+                    "LB",
+                    "DZ",
+                    "ER",
+                    "TN",
+                    "SS",
+                    "BR",
+                    "MX",
+                    "TH",
+                    "ID",
+                    "MY",
+                    "VN",
+                    "PH",
+                    "SG",
+                    "KR",
+                    "JP",
+                    "EG",
+                    "SY",
+                    "PS",
+                    "JO",
+                    "IQ",
+                    "DJ",
+                    "KM",
+                    "SO",
+                    "TD",
+                    "OM",
+                    "QA",
+                    "KW",
+                    "AE",
+                    "BH",
+                    "SA",
+                    "YE",
+                    "LY",
+                    "SD",
+                    "MR",
+                    "LT",
+                    "JM",
+                    "CH",
+                    "IR",
+                    "AN",
+                    "FI",
+                    "PY",
+                    "AR",
+                    "GR",
+                    "UY",
+                    "CR",
+                    "DO",
+                    "PE",
+                    "IT",
+                    "TT",
+                    "SV",
+                    "CZ",
+                    "BE",
+                    "CO",
+                    "TW",
+                    "HN",
+                    "EC",
+                    "SK",
+                    "NP",
+                    "RS",
+                    "NI",
+                    "SE",
+                    "GT",
+                    "CL",
+                    "NL",
+                    "RO",
+                    "HU",
+                    "VE",
+                    "AT",
+                    "PL",
+                    "PA",
+                    "BO",
+                    "GM",
+                    "PT"
+                ],
+                "userRegions": [
+                    "US",
+                    "AS",
+                    "GU",
+                    "MP",
+                    "PR",
+                    "VI",
+                    "UM"
+                ],
+                "allRegions": false
+            },
+            "liveSuggestConfig": {
+                "isBlockedArea": false,
+                "isRiskArea": false
+            },
+            "liveAnchorEntrance": {
+                "liveCenter": false,
+                "creatorHub": true,
+                "liveStudio": false
+            },
+            "liveStudioEnable": false,
+            "xgplayerInitHost": {
+                "group1": [
+                    "v16-webapp.tiktok.com",
+                    "v16m-webapp.tiktokcdn-us.com"
+                ],
+                "group2": [
+                    "v16-webapp-prime.tiktok.com",
+                    "v16-webapp-prime.us.tiktok.com",
+                    "v19-webapp-prime.us.tiktok.com",
+                    "v19-webapp-prime.tiktok.com",
+                    "v16-webapp-prime-test-ttp.us.tiktok.com",
+                    "v19-webapp-prime-test-ttp.us.tiktok.com",
+                    "v16-webapp-prime-test.tiktok.com",
+                    "v19-webapp-prime-test.tiktok.com",
+                    "webapp-va.tiktok.com",
+                    "webapp-sg.tiktok.com",
+                    "webapp-i18n.tiktok.com",
+                    "video-useast5.us.tiktok.com"
+                ]
+            },
+            "videoOrder": {
+                "videoOrder": [
+                    {
+                        "property": "QualityType",
+                        "detail": [
+                            10,
+                            28,
+                            30
+                        ]
+                    },
+                    {
+                        "property": "Bitrate",
+                        "order": "desc"
+                    }
+                ]
+            },
+            "searchLiveForLoggedin": true,
+            "canUseQuery": false,
+            "bitrateSelectorConfigs": {
+                "configs": [
+                    {
+                        "paramBf": 0.3,
+                        "paramBp": 0.5,
+                        "paramUpper": 1.5,
+                        "paramLower": 0.6,
+                        "paramUpperBl": 0.7,
+                        "paramVl1": 0.8,
+                        "paramVl2": 3,
+                        "paramVlUpper": 0.9,
+                        "paramVlLower": 0.7,
+                        "bitrateUpper": 4000000,
+                        "bitrateLower": 200000,
+                        "slidingWindowType": "by_weight",
+                        "slidingWindowWeight": "size",
+                        "slidingWindowWeightThreshold": 20000000,
+                        "slidingWindowCountThreshold": 30,
+                        "slidingWindowExtraction": "weighted_median",
+                        "bitrateRange": [
+                            20000,
+                            25000000
+                        ],
+                        "mode": "bandwidth",
+                        "quality_filter": {},
+                        "white_list": [],
+                        "autoBitrateParams": {
+                            "paramA": 0,
+                            "paramB": 1.537664e-08,
+                            "paramC": 0.470864,
+                            "paramD": 1280000,
+                            "minBitrate": 200000
+                        },
+                        "defaultBitrate": 1000000
+                    },
+                    {
+                        "paramBf": 0.3,
+                        "paramBp": 0.5,
+                        "paramUpper": 1.5,
+                        "paramLower": 0.6,
+                        "paramUpperBl": 0.7,
+                        "paramVl1": 0.8,
+                        "paramVl2": 3,
+                        "paramVlUpper": 0.9,
+                        "paramVlLower": 0.7,
+                        "bitrateUpper": 4000000,
+                        "bitrateLower": 200000,
+                        "slidingWindowType": "by_weight",
+                        "slidingWindowWeight": "size",
+                        "slidingWindowWeightThreshold": 20000000,
+                        "slidingWindowCountThreshold": 30,
+                        "slidingWindowExtraction": "weighted_median",
+                        "bitrateRange": [
+                            20000,
+                            25000000
+                        ],
+                        "mode": "buffer-info1",
+                        "quality_filter": {},
+                        "white_list": [],
+                        "autoBitrateParams": {
+                            "paramA": 0,
+                            "paramB": 1.537664e-08,
+                            "paramC": 0.470864,
+                            "paramD": 1280000,
+                            "minBitrate": 200000
+                        },
+                        "defaultBitrate": 1000000
+                    }
+                ]
+            },
+            "idc": "sg1"
+        },
+        "initialized": true
+    },
+    "SEOState": {
+        "metaParams": {
+            "title": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#ouki... | oukitel | TikTok",
+            "keywords": "oukitel,s\u1ea1c nhanh",
+            "description": "65.2K Likes, 1.7K Comments. TikTok video from Long Qu\u1eafn Qu\u00e1 (@longquanqua): \"D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#oukitel#dienthoai#smartphone#trungquoc #learnontiktok#tiktok#molitech#moligroup\". oukitel. nh\u1ea1c n\u1ec1n - moli.tech - Long Qu\u1eafn Qu\u00e1.",
+            "canonicalHref": "https://www.tiktok.com/@longquanqua/video/7124979557538565378",
+            "robotsContent": "index, follow, max-image-preview:large",
+            "applicableDevice": "pc, mobile"
+        },
+        "jsonldList": [
+            [
+                "BreadcrumbList",
+                {
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "item": {
+                                "@type": "Thing",
+                                "@id": "https://www.tiktok.com",
+                                "name": "TikTok"
+                            }
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "item": {
+                                "@type": "Thing",
+                                "@id": "https://www.tiktok.com/@longquanqua",
+                                "name": "Long Qu\u1eafn Qu\u00e1 (@longquanqua) | TikTok"
+                            }
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "item": {
+                                "@type": "Thing",
+                                "@id": "https://www.tiktok.com/@longquanqua/video/7124979557538565378",
+                                "name": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#ouki... | oukitel | TikTok"
+                            }
+                        }
+                    ]
+                }
+            ],
+            [
+                "VideoObject",
+                {}
+            ]
+        ],
+        "abtest": {
+            "pageId": "72719790341975166",
+            "vidList": [],
+            "parameters": {
+                "video_non_tdk_phase2": {
+                    "vid": "v2"
+                },
+                "video_page_serp_compliance": {
+                    "vid": "v2"
+                },
+                "video_tdk_phase2": {
+                    "vid": "v2"
+                }
+            }
+        },
+        "loading": false,
+        "canonical": "https://www.tiktok.com/@longquanqua/video/7124979557538565378",
+        "pageType": 999,
+        "launchMode": "direct",
+        "trafficType": "no_referrer",
+        "keywordMergeStatus": {},
+        "useNewUI": false
+    },
+    "ItemList": {
+        "video": {
+            "list": [
+                "7124979557538565378"
+            ],
+            "browserList": [
+                "7124979557538565378"
+            ],
+            "loading": false,
+            "statusCode": 0,
+            "hasMore": true,
+            "cursor": "0",
+            "preloadList": [
+                {
+                    "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/527cb22dc3ca48e99673f777071801e3/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2088&bt=1044&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmNTVnOmg2aDZnN2ZnaTk7OEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiNiXzM0LWBhNi8xMS9eNV42YSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=e48f640dafc6e1a463711d72042b7d85&tk=tt_chain_token",
+                    "id": ""
+                }
+            ],
+            "keyword": "7124979557538565378"
+        }
+    },
+    "ItemModule": {
+        "7124979557538565378": {
+            "id": "7124979557538565378",
+            "desc": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#oukitel#dienthoai#smartphone#trungquoc #learnontiktok#tiktok#molitech#moligroup",
+            "createTime": "1658917800",
+            "scheduleTime": 0,
+            "video": {
+                "id": "",
+                "height": 1024,
+                "width": 576,
+                "duration": 110,
+                "ratio": "540p",
+                "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/63aed71c6e8a464a9d9c56b7886e05ba_1658917803?x-expires=1692950400&x-signature=GijNpSDprzqTicmjV%2Fc4cYr%2FrM4%3D",
+                "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/991a24e824b54997b4dc6abc072feaca_1658917805?x-expires=1692950400&x-signature=EXRZXOVwankqAt%2BRmUL9nGF%2FLC0%3D",
+                "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ebc384c40c3648b088ad592dab7e5e94_1658917808?x-expires=1692950400&x-signature=hxQJ%2FcNXNu%2FS59YCzLlGhpy7Nz8%3D",
+                "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/527cb22dc3ca48e99673f777071801e3/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2088&bt=1044&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmNTVnOmg2aDZnN2ZnaTk7OEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiNiXzM0LWBhNi8xMS9eNV42YSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=e48f640dafc6e1a463711d72042b7d85&tk=tt_chain_token",
+                "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/5250ba84bc3e403990632f9437f7e65e/?a=1988&ch=0&cr=3&dr=0&lr=tiktok&cd=0%7C0%7C1%7C3&cv=1&br=2330&bt=1165&cs=0&ds=3&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmaGVmPDw5OjczNDs7PDxlNUBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiNhYjYvYi42XjQxM15jNC0vYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=397c15bb1acee27405d98cfb7938db34&tk=tt_chain_token",
+                "shareCover": [
+                    ""
+                ],
+                "reflowCover": "",
+                "bitrate": 1069151,
+                "encodedType": "normal",
+                "format": "mp4",
+                "videoQuality": "normal",
+                "encodeUserTag": "",
+                "codecType": "h264",
+                "definition": "540p",
+                "subtitleInfos": [],
+                "zoomCover": {
+                    "240": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/63aed71c6e8a464a9d9c56b7886e05ba_1658917803~tplv-efzqqlc8t1-1:240:240.jpeg?x-expires=1692950400&x-signature=N4f0tNaxvfMxyXILBv%2Bhpu34g9c%3D",
+                    "480": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/63aed71c6e8a464a9d9c56b7886e05ba_1658917803~tplv-efzqqlc8t1-1:480:480.jpeg?x-expires=1692950400&x-signature=tl7bw1IvGfdDojM2yFEsxZv58iY%3D",
+                    "720": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/63aed71c6e8a464a9d9c56b7886e05ba_1658917803~tplv-efzqqlc8t1-1:720:720.jpeg?x-expires=1692950400&x-signature=SEAnZlxSRUGTbEVLu%2BiEC%2B32%2FWA%3D",
+                    "960": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/63aed71c6e8a464a9d9c56b7886e05ba_1658917803~tplv-efzqqlc8t1-1:960:960.jpeg?x-expires=1692950400&x-signature=k6%2BeOVbda5BcBxNW0G2aIjbvpsc%3D"
+                },
+                "volumeInfo": {
+                    "Loudness": -10.7,
+                    "Peak": 1
+                },
+                "bitrateInfo": [
+                    {
+                        "GearName": "normal_540_0",
+                        "Bitrate": 1069151,
+                        "QualityType": 20,
+                        "PlayAddr": {
+                            "Uri": "v10025g50000cbgg5bjc77u38h0tu46g",
+                            "UrlList": [
+                                "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/527cb22dc3ca48e99673f777071801e3/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2088&bt=1044&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmNTVnOmg2aDZnN2ZnaTk7OEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiNiXzM0LWBhNi8xMS9eNV42YSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=e48f640dafc6e1a463711d72042b7d85&tk=tt_chain_token",
+                                "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/527cb22dc3ca48e99673f777071801e3/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2088&bt=1044&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmNTVnOmg2aDZnN2ZnaTk7OEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiNiXzM0LWBhNi8xMS9eNV42YSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=e48f640dafc6e1a463711d72042b7d85&tk=tt_chain_token"
+                            ],
+                            "DataSize": "14818706",
+                            "UrlKey": "v10025g50000cbgg5bjc77u38h0tu46g_h264_540p_1069151",
+                            "FileHash": "c76035c016ef27590a9108d46b70e35c",
+                            "FileCs": "c:0-90782-1f41"
+                        },
+                        "CodecType": "h264"
+                    },
+                    {
+                        "GearName": "adapt_lower_720_1",
+                        "Bitrate": 678891,
+                        "QualityType": 14,
+                        "PlayAddr": {
+                            "Uri": "v10025g50000cbgg5bjc77u38h0tu46g",
+                            "UrlList": [
+                                "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/e0140caed11a4044a7cae317edabd8d1/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1324&bt=662&cs=2&ds=3&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=14&rc=aHIxaDFybndmOTZlaGk3Nzw2OTU4ZTlnNEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMzXjJiNTEzXmExMC5jYy4uYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=3cc89c9e9cd12002e48de18cd6693cb7&tk=tt_chain_token",
+                                "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/e0140caed11a4044a7cae317edabd8d1/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1324&bt=662&cs=2&ds=3&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=14&rc=aHIxaDFybndmOTZlaGk3Nzw2OTU4ZTlnNEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMzXjJiNTEzXmExMC5jYy4uYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=3cc89c9e9cd12002e48de18cd6693cb7&tk=tt_chain_token"
+                            ],
+                            "DataSize": "9409604",
+                            "UrlKey": "v10025g50000cbgg5bjc77u38h0tu46g_bytevc1_720p_678891",
+                            "FileHash": "685f4555cc3f3ab34467eca4e1000902",
+                            "FileCs": "c:0-92437-ea31"
+                        },
+                        "CodecType": "h265_hvc1"
+                    },
+                    {
+                        "GearName": "lower_540_0",
+                        "Bitrate": 626970,
+                        "QualityType": 24,
+                        "PlayAddr": {
+                            "Uri": "v10025g50000cbgg5bjc77u38h0tu46g",
+                            "UrlList": [
+                                "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/3473087a7b23451c900a2139ea3213e7/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1224&bt=612&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=4&rc=aHIxaDFybndmNWRmPDs6aTNpPGk2OzlnaUBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMzLy8tYjRiNjUxYjUwYi9eYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=3ddbee48c2efbd082b14396dd039a1f8&tk=tt_chain_token",
+                                "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/3473087a7b23451c900a2139ea3213e7/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1224&bt=612&cs=0&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=4&rc=aHIxaDFybndmNWRmPDs6aTNpPGk2OzlnaUBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMzLy8tYjRiNjUxYjUwYi9eYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=3ddbee48c2efbd082b14396dd039a1f8&tk=tt_chain_token"
+                            ],
+                            "DataSize": "8689970",
+                            "UrlKey": "v10025g50000cbgg5bjc77u38h0tu46g_h264_540p_626970",
+                            "FileHash": "ac4a846fb2dce1ed8747d4d093776c6a",
+                            "FileCs": "c:0-90950-c7f2"
+                        },
+                        "CodecType": "h264"
+                    },
+                    {
+                        "GearName": "adapt_540_1",
+                        "Bitrate": 594532,
+                        "QualityType": 28,
+                        "PlayAddr": {
+                            "Uri": "v10025g50000cbgg5bjc77u38h0tu46g",
+                            "UrlList": [
+                                "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/95fc499b39a441fb820a0f7551ffd600/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1160&bt=580&cs=2&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=11&rc=aHIxaDFybndmZGhnZWdpNzc3OjZpOjs2ZEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMxXy4tXy02NjExYWAtNC5eYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=15627710b12a46e3a7d871dd68e8735b&tk=tt_chain_token",
+                                "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/95fc499b39a441fb820a0f7551ffd600/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1160&bt=580&cs=2&ds=6&ft=_RwJrBgkq8Zmo4qEEc_vjj~6_AhLrus&mime_type=video_mp4&qs=11&rc=aHIxaDFybndmZGhnZWdpNzc3OjZpOjs2ZEBpajd3azY6ZmVqZTMzODgzNEBvYF90aHFmOiMxXy4tXy02NjExYWAtNC5eYSMzci01cjRnMmRgLS1kLy1zcw%3D%3D&btag=e00090000&expire=1692953780&l=202308250254292FE8A4839F8205093DAA&ply_type=2&policy=2&signature=15627710b12a46e3a7d871dd68e8735b&tk=tt_chain_token"
+                            ],
+                            "DataSize": "8240363",
+                            "UrlKey": "v10025g50000cbgg5bjc77u38h0tu46g_bytevc1_540p_594532",
+                            "FileHash": "93ee7cbbd01f77319a0082264d384231",
+                            "FileCs": "c:0-92429-ef22"
+                        },
+                        "CodecType": "h265_hvc1"
+                    }
+                ]
+            },
+            "author": "longquanqua",
+            "music": {
+                "id": "7124997708921703169",
+                "title": "nh\u1ea1c n\u1ec1n - moli.tech",
+                "playUrl": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/0c0f4d6277a34865b8a89d7087a7a3e1/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=t2PAl-Inz7TXIccfiyq8Z&mime_type=audio_mpeg&qs=6&rc=aHIxaDFybndmOzM5ZDY1ODc4Mzk1ZmgzOEBpM2pkPDk6ZmRrZTMzODU8NEBvYF90aHFmOiNhNjU2LV8xNTAxNl81YDVgYSNoYW9ycjRnNGRgLS1kMS1zcw%3D%3D&btag=e00090000&expire=1692935780&l=202308250254292FE8A4839F8205093DAA&ply_type=3&policy=3&signature=2ec0b886e773a9e83fdae152b9c8863a&tk=0",
+                "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=E90B6Cs1hu%2BfClWow660G7eFVp8%3D",
+                "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=RPhAaVJez5OeSjzOJy%2FxBw%2B95kM%3D",
+                "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=g75NjwfM96ItBbwMEkAnotUOHa0%3D",
+                "authorName": "Long Qu\u1eafn Qu\u00e1",
+                "original": false,
+                "duration": 110,
+                "scheduleSearchTime": 0,
+                "collected": false,
+                "preciseDuration": {
+                    "preciseDuration": 110.759,
+                    "preciseShootDuration": 110.759,
+                    "preciseAuditionDuration": 110.759,
+                    "preciseVideoDuration": 110.759
+                }
+            },
+            "challenges": [
+                {
+                    "id": "76013780",
+                    "title": "oukitel",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "1607911407427585",
+                    "title": "congnghe",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "1690039275940866",
+                    "title": "molitech",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "7086",
+                    "title": "hot",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "18391385",
+                    "title": "trungquoc",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "1669629440570370",
+                    "title": "moligroup",
+                    "desc": "",
+                    "profileLarger": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/d07d9891792950ca22de02585f2c85e2.jpeg",
+                    "profileMedium": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/d07d9891792950ca22de02585f2c85e2.jpeg",
+                    "profileThumb": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/d07d9891792950ca22de02585f2c85e2.jpeg",
+                    "coverLarger": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/2d203fb03e8c6c5dbd1557ae5f33f11e.jpeg",
+                    "coverMedium": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/2d203fb03e8c6c5dbd1557ae5f33f11e.jpeg",
+                    "coverThumb": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/2d203fb03e8c6c5dbd1557ae5f33f11e.jpeg"
+                },
+                {
+                    "id": "143278",
+                    "title": "smartphone",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "1601955734006785",
+                    "title": "dienthoai",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                },
+                {
+                    "id": "1636483010861062",
+                    "title": "LearnOnTikTok",
+                    "desc": "Discover something new and #LearnOnTikTok",
+                    "profileLarger": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/e3096f6c8ff0f3797731475ecdde4822.png",
+                    "profileMedium": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/e3096f6c8ff0f3797731475ecdde4822.png",
+                    "profileThumb": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/e3096f6c8ff0f3797731475ecdde4822.png",
+                    "coverLarger": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/f71c1358c7fdaf57bd2fbe6dc36c7014.png",
+                    "coverMedium": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/f71c1358c7fdaf57bd2fbe6dc36c7014.png",
+                    "coverThumb": "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/f71c1358c7fdaf57bd2fbe6dc36c7014.png"
+                },
+                {
+                    "id": "23428",
+                    "title": "tiktok",
+                    "desc": "",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": ""
+                }
+            ],
+            "stats": {
+                "diggCount": 65200,
+                "shareCount": 1475,
+                "commentCount": 1655,
+                "playCount": 1700000,
+                "collectCount": "3398"
+            },
+            "warnInfo": [],
+            "originalItem": false,
+            "officalItem": false,
+            "textExtra": [
+                {
+                    "awemeId": "",
+                    "start": 65,
+                    "end": 73,
+                    "hashtagId": "76013780",
+                    "hashtagName": "oukitel",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 73,
+                    "end": 83,
+                    "hashtagId": "1601955734006785",
+                    "hashtagName": "dienthoai",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 83,
+                    "end": 94,
+                    "hashtagId": "143278",
+                    "hashtagName": "smartphone",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 94,
+                    "end": 104,
+                    "hashtagId": "18391385",
+                    "hashtagName": "trungquoc",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 52,
+                    "end": 56,
+                    "hashtagId": "7086",
+                    "hashtagName": "hot",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 56,
+                    "end": 65,
+                    "hashtagId": "1607911407427585",
+                    "hashtagName": "congnghe",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 105,
+                    "end": 119,
+                    "hashtagId": "1636483010861062",
+                    "hashtagName": "learnontiktok",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 119,
+                    "end": 126,
+                    "hashtagId": "23428",
+                    "hashtagName": "tiktok",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 126,
+                    "end": 135,
+                    "hashtagId": "1690039275940866",
+                    "hashtagName": "molitech",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                },
+                {
+                    "awemeId": "",
+                    "start": 135,
+                    "end": 145,
+                    "hashtagId": "1669629440570370",
+                    "hashtagName": "moligroup",
+                    "type": 1,
+                    "subType": 0,
+                    "isCommerce": false
+                }
+            ],
+            "secret": false,
+            "forFriend": false,
+            "digged": false,
+            "itemCommentStatus": 0,
+            "takeDown": 0,
+            "effectStickers": [],
+            "privateItem": false,
+            "stickersOnItem": [],
+            "shareEnabled": true,
+            "comments": [],
+            "duetDisplay": 0,
+            "stitchDisplay": 0,
+            "indexEnabled": true,
+            "locationCreated": "VN",
+            "suggestedWords": [
+                "oukitel",
+                "s\u1ea1c nhanh"
+            ],
+            "contents": [
+                {
+                    "desc": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#oukitel#dienthoai#smartphone#trungquoc #learnontiktok#tiktok#molitech#moligroup",
+                    "textExtra": [
+                        {
+                            "awemeId": "",
+                            "start": 65,
+                            "end": 73,
+                            "hashtagId": "76013780",
+                            "hashtagName": "oukitel",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 73,
+                            "end": 83,
+                            "hashtagId": "1601955734006785",
+                            "hashtagName": "dienthoai",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 83,
+                            "end": 94,
+                            "hashtagId": "143278",
+                            "hashtagName": "smartphone",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 94,
+                            "end": 104,
+                            "hashtagId": "18391385",
+                            "hashtagName": "trungquoc",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 52,
+                            "end": 56,
+                            "hashtagId": "7086",
+                            "hashtagName": "hot",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 56,
+                            "end": 65,
+                            "hashtagId": "1607911407427585",
+                            "hashtagName": "congnghe",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 105,
+                            "end": 119,
+                            "hashtagId": "1636483010861062",
+                            "hashtagName": "learnontiktok",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 119,
+                            "end": 126,
+                            "hashtagId": "23428",
+                            "hashtagName": "tiktok",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 126,
+                            "end": 135,
+                            "hashtagId": "1690039275940866",
+                            "hashtagName": "molitech",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        },
+                        {
+                            "awemeId": "",
+                            "start": 135,
+                            "end": 145,
+                            "hashtagId": "1669629440570370",
+                            "hashtagName": "moligroup",
+                            "type": 1,
+                            "subType": 0,
+                            "isCommerce": false
+                        }
+                    ]
+                }
+            ],
+            "collected": false,
+            "channelTags": [],
+            "nickname": "Long Qu\u1eafn Qu\u00e1",
+            "authorId": "7106335462700909569",
+            "authorSecId": "MS4wLjABAAAAeXlPwIdnziNzYVZ2SmvScb1_A27tcyTI0f4angyBOjiZycSvbiKXDHKarpz1fnUE",
+            "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=g75NjwfM96ItBbwMEkAnotUOHa0%3D",
+            "downloadSetting": 0,
+            "authorPrivate": false,
+            "capcutAnchorsOriginal": [],
+            "capcutAnchors": []
+        }
+    },
+    "UserModule": {
+        "users": {
+            "longquanqua": {
+                "id": "7106335462700909569",
+                "shortId": "",
+                "uniqueId": "longquanqua",
+                "nickname": "Long Qu\u1eafn Qu\u00e1",
+                "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=E90B6Cs1hu%2BfClWow660G7eFVp8%3D",
+                "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=RPhAaVJez5OeSjzOJy%2FxBw%2B95kM%3D",
+                "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3bd674720253b439c34cb21d99a8e4a2.jpeg?x-expires=1693101600&x-signature=g75NjwfM96ItBbwMEkAnotUOHa0%3D",
+                "signature": "Xo\u1eafn t\u00edt c\u1ea3 l\u00ean\n\u260e\ufe0f 0909.811.146\n\u2709\ufe0f booking@molinetwork.com",
+                "createTime": 0,
+                "verified": false,
+                "secUid": "MS4wLjABAAAAeXlPwIdnziNzYVZ2SmvScb1_A27tcyTI0f4angyBOjiZycSvbiKXDHKarpz1fnUE",
+                "ftc": false,
+                "relation": 0,
+                "openFavorite": false,
+                "commentSetting": 0,
+                "duetSetting": 0,
+                "stitchSetting": 0,
+                "privateAccount": false,
+                "secret": false,
+                "isADVirtual": false,
+                "roomId": "",
+                "uniqueIdModifyTime": 0,
+                "ttSeller": false,
+                "downloadSetting": 0,
+                "recommendReason": "",
+                "nowInvitationCardUrl": "",
+                "nickNameModifyTime": 0,
+                "isEmbedBanned": false,
+                "canExpPlaylist": false
+            }
+        },
+        "stats": {}
+    },
+    "VideoPage": {
+        "statusCode": 0
+    },
+    "SharingMetaState": {
+        "value": {
+            "al:ios:url": "snssdk1180://aweme/detail/7124979557538565378?q=ice.29s&t=1692930308516",
+            "al:android:url": "snssdk1180://aweme/detail/7124979557538565378?q=ice.29s&t=1692930308516",
+            "al:ios:app_store_id": "1235601864",
+            "al:ios:app_name": "TIKTOK",
+            "al:android:app_name": "TIKTOK",
+            "al:android:package": "com.ss.android.ugc.trill",
+            "og:site_name": "TikTok",
+            "og:type": "website",
+            "og:title": "Long Qu\u1eafn Qu\u00e1 on TikTok",
+            "og:description": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#oukitel#dienthoai#smartphone#trungquoc #learnontiktok#tiktok#molitech#moligroup",
+            "fb:app_id": "1862952583919182",
+            "twitter:app:id:iphone": "1235601864",
+            "twitter:app:id:googleplay": "com.ss.android.ugc.trill",
+            "twitter:card": "summary",
+            "twitter:site": "TikTok",
+            "twitter:title": "Long Qu\u1eafn Qu\u00e1 on TikTok",
+            "twitter:description": "D\u00e0nh cho anh em l\u00e0m bi\u1ebfng s\u1ea1c ! c\u1ea3 th\u00e1ng s\u1ea1c 1 l\u1ea7n. #hot#congnghe#oukitel#dienthoai#smartphone#trungquoc #learnontiktok#tiktok#molitech#moligroup",
+            "og:image": "",
+            "twitter:image": "",
+            "og:image:width": "undefined",
+            "og:image:height": "undefined"
+        }
+    }
+}

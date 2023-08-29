@@ -1,0 +1,37 @@
+{
+    "https://www.tiktok.com/@kingfunny22/video/7258960793255890202": {
+        "AuthorID": "https://www.tiktok.com/@kingfunny22",
+        "AuthorName": "King Funny",
+        "CreateTime": "2023-07-23 17:35:22",
+        "Hastag": [
+            "https://www.tiktok.com/tag/ironman",
+            "https://www.tiktok.com/tag/motivation",
+            "https://www.tiktok.com/tag/viral",
+            "https://www.tiktok.com/tag/fix",
+            "https://www.tiktok.com/tag/broken",
+            "https://www.tiktok.com/tag/light"
+        ],
+        "Content": "HOW TO FIX A BROKEN LIGHT!\n\n#ironman #motivation #viral #fix #broken #light",
+        "Music": "https://www.tiktok.com/music/son-original-7258960804526967578",
+        "Like count": "417",
+        "Love count": "43",
+        "Share count": "98",
+        "Comment count": "2",
+        "Comment": {
+            "7269171612413903658": {
+                "Author ID": "https://www.tiktok.com/@user8873886135917",
+                "Author Name": "user8873886135917",
+                "Time CMT": "3d ago",
+                "ContentCMT": "to",
+                "Like": "0"
+            },
+            "7259257267076334342": {
+                "Author ID": "https://www.tiktok.com/@semiumoshood1",
+                "Author Name": "semiumoshood208",
+                "Time CMT": "7-24",
+                "ContentCMT": "hi",
+                "Like": "1"
+            }
+        }
+    }
+}
