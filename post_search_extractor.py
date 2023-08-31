@@ -1,37 +1,17 @@
+### LIBRARY  ###
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
+from selenium  import webdriver
 from typing import Callable, List, Optional, Tuple
 from selenium.webdriver.common.by import By
 import time
-# from post_filter import check
 from puzzle import Puzzle
 from post_model import Post
 from utils.common_utils import CommonUtils
 from post_tiktok_etractor import PostTikTokExtractor, PostCommentExtractor
-import json
 import re
-
-### LIBRARY  ###
-from selenium  import webdriver
-import time
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
-import json
-import datetime
-from puzzle import Puzzle
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from unidecode import unidecode
-
 # from login import TiktokLogin
-from selenium.webdriver.chrome.options import Options
-
-import random
-from selenium.webdriver.common.keys import Keys
-import pickle
-import csv
-
-
 
 
 options = webdriver.ChromeOptions()
@@ -46,7 +26,7 @@ options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
 # options.add_experimental_option("excludeSwitches", ["enable-automation"])
 # options.add_argument("--log-level=3")
-driver = webdriver.Chrome(options=options)
+# driver = webdriver.Chrome(options=options)
 
 
 puzzle = Puzzle
@@ -73,16 +53,17 @@ class PostElementIterator:
         
 
 class PostSearchExtractor:
-    # driver: WebDriver
+    driver: WebDriver
     TIKTOK_SEARCH_LINK: str = "https://www.tiktok.com/search/video?q="
     posts: List[Post] = []
     callback: Optional[Callable[[Post], None]] = None
+    # driver = webdriver.Chrome(options=options)
     
-    def __init__(self, driver, keyword: str, keyword_noparse: List, callback: Optional[Callable[[Post], None]] = None):
+    def __init__(self, driver : WebDriver, keyword: str, keyword_noparse: List, callback: Optional[Callable[[Post], None]] = None):
         self.url = f"{self.TIKTOK_SEARCH_LINK}{keyword}"
         self.callback = callback
         self.driver =  driver
-        self.driver.get(self.url)
+        self.driver.get(url = self.url)
         # self.driver.implicitly_wait(1000)
         self.keyword_noparse = keyword_noparse
         self.keyword = keyword
@@ -97,7 +78,7 @@ class PostSearchExtractor:
         print('---> GET LINK LIST <---')
         # self.driver.get(self.url)
         try:
-            time.sleep(20)
+            time.sleep(3)
             self.driver.find_element(By.Xpath, '//*[@id="tiktok-verify-ele"]/div/div[1]/div[2]/div')
             puzzle.puzzleSolver()
             return self.get_links_post()
@@ -154,9 +135,7 @@ class PostSearchExtractor:
                         vidList.append(link)
                     else:
                         print(f"Filter out link {link}")
-                        continue
-                    
-                
+                        continue 
             vidList = vidList
             return vidList
         
@@ -204,14 +183,9 @@ class PostSearchExtractor:
                         with open('dataCrawled.txt', 'a') as f:
                             f.write(vid)
                             f.write("\n")
-                        # folder_path = 'dataCrawled'
-                        # file_name = f'link{self.i}'
-
-                        # Tạo đường dẫn đến tệp tin JSON
                         
                         with open("result.txt", "a", encoding="utf-8") as file:
                             file.write(f"{str(post)}\n")
-                            # NguyenNH: in màu cho dễ debug
                             if post.is_valid:
                                 file.write(f"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷\n")
                             else:
@@ -295,8 +269,9 @@ class PostSearchExtractor:
 
 def main():
     # driver.quit()
+    driver = webdriver.Chrome(options=options)
     driver.get("https://www.tiktok.com")
-    post_crawl = PostSearchExtractor(driver, keyword="captain america", keyword_noparse=[])
+    post_crawl = PostSearchExtractor(driver = driver, keyword="captain america", keyword_noparse=[])
     post_crawl.post_extract()
     
     

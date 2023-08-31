@@ -82,6 +82,10 @@ class PostExtractor(ABC):
         pass
     
     @abstractmethod
+    def extract_post_type(self):
+        pass
+    
+    @abstractmethod
     def extract_post_source_id(self):
         pass
 
@@ -104,7 +108,9 @@ class PostExtractor(ABC):
         music = self.extract_post_music()
         duration = self.extract_post_duration()
         view = self.extract_post_view()
+        type = self.extract_post_type()
         source_id = self.extract_post_source_id()
+
         
         # comments = self.extract_post_comments()
         # image_links = self.extract_post_photos()
@@ -125,6 +131,7 @@ class PostExtractor(ABC):
         post. music = music
         post.duration = duration
         post.view = view
+        post.type = type
         post.source_id = source_id
 
         # post.image_url = image_links

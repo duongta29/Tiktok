@@ -8,14 +8,7 @@ import datetime
 from puzzle import Puzzle
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
 from login import TiktokLogin
-from selenium.webdriver.chrome.options import Options
-
-import random
-from selenium.webdriver.common.keys import Keys
-import pickle
-import csv
 
 
 

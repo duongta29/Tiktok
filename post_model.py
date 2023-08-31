@@ -70,7 +70,9 @@ class Comment:
         self.view = 0
         # self.description = ""
         # self.video = ""
+        self.type = ""
         self.source_id = ""
+        
         
     #Hàm xác định xem post được crawl đủ hay chưa
     def is_valid(self) -> bool:

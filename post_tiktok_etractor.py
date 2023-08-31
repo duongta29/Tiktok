@@ -13,6 +13,7 @@ import re
 import time
 import traceback
 from post_model import Post
+from utils.format_time import format_time
 # from selenium_utils import SeleniumUtils
 
 class PostTikTokExtractor(PostExtractor):
@@ -104,6 +105,10 @@ class PostTikTokExtractor(PostExtractor):
         view = int(self.infor_text["ItemModule"][self.id]["stats"]["playCount"])
         return view
     
+    def extract_post_type(self):
+        type = "post"
+        return type
+    
     
     def extract_post_source_id(self):
         source_id = self.id
@@ -150,6 +155,7 @@ class PostCommentExtractor(PostExtractor):
 
     def extract_post_created_time(self):
         createTime = self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/span[1]').text
+        createTime = format_time(createTime)
         return createTime
 
     def extract_post_content(self):
@@ -198,6 +204,10 @@ class PostCommentExtractor(PostExtractor):
     def extract_post_view(self):
         view = None
         return view
+    
+    def extract_post_type(self):
+        type = "comment"
+        return type
     
     
     def extract_post_source_id(self):
