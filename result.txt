@@ -75940,3 +75940,5067 @@ time_crawl=2023-08-31 14:27:19
 id=7270050463297454854
 
 ##################################################################################################################################################################################
+type=post
+source_id=7255182131863784709
+view=2100000
+duration=222
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Do%C3%A3n-V%C4%83n-T%C3%ACnh-7255182380212718341
+hastag=['#xuhuongtiktok']
+domain=www.tiktok.com
+share=1037
+love=1072
+comment=2135
+like=22700
+content=chuyến bay giải cứu#xuhuongtiktok
+created_time=2023-07-13 13:12:09
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/202f140404bfaab6e4188ea39b7e463a~c5_100x100.jpeg?x-expires=1693641600&x-signature=mAofThwvee8TGdreBsHYjTBcCoo%3D
+author_link=https://www.tiktok.com/@tinhmoto01
+author=Doãn Văn Tình
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:52:14
+id=7255182131863784709
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=115
+content=Tin anh Hưng 🥰🥰
+created_time=2023-07-14 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/20768463ff40edae7737e51b8b49a634~c5_100x100.jpg?x-expires=1693555200&x-signature=LbgPsUh28UUXwoEYvBdIRhbWi6E%3D
+author_link=https://www.tiktok.com/@quynhanh2819
+author=Hoàn Lê Đình
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:05
+id=7255635464912175877
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1193
+content=Mồm thằng này dẻo lắm . Chả ai đi tặng rượu ko cả . 😂😂😂
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/fd935c146585ddbe65e23a69d7ae26e0.jpg?x-expires=1693555200&x-signature=SZmbXf03H6F3F1DVaZUulnlkaoY%3D
+author_link=https://www.tiktok.com/@nhat151192
+author=Chelsea
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:06
+id=7255250408712356614
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=730
+content=nghe giọng thôi đã k muốn tin :)) mà giọng này làm chức to được thì chắc do thầy cúng giỏi r :))
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3adb2706aa30871afc3522091b046705.jpg?x-expires=1693555200&x-signature=bUPqLUuSJMF67pdf2k68Igapf3s%3D
+author_link=https://www.tiktok.com/@trungjin265
+author=Trung Jin
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:06
+id=7255279236738908934
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=207
+content=Cựu điều tra viên bộ CA k fải tay ngang nha
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7800509a78644e83461d57fc5b231450~c5_100x100.jpg?x-expires=1693555200&x-signature=43%2FmpWVcsTI%2FCHE9%2BnZOl5mG9S4%3D
+author_link=https://www.tiktok.com/@gold_k6
+author=Gold Kê
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:06
+id=7255252372943078150
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=373
+content=Ông này có nghề rồi . Vô tội thôi
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2875ef6efcbded67acaae77e6c328f73~c5_100x100.jpg?x-expires=1693555200&x-signature=aQi22n6MjoAbUjJ2xnpk9GYPAjE%3D
+author_link=https://www.tiktok.com/@user2306874243056
+author=Mr T
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:06
+id=7255252706498593541
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=324
+content=4 chai rượu vàng (hắn đọc thiếu dấu huyền) có giá trị 2,6 triệu đô (USD)😳
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7211702815893717019~c5_100x100.jpg?x-expires=1693555200&x-signature=8kwrMqDNxLv9pGhOs3j6p1w5qpY%3D
+author_link=https://www.tiktok.com/@qungtrile
+author=Ai Thế Nhỉ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:07
+id=7255203837702800133
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=303
+content=rất khôn ngoan và sảo quyệt
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5574426e74c6e8fed4c7f37df3fefb79~c5_100x100.jpg?x-expires=1693555200&x-signature=yUcebgZtVYp2FsJPdmepgZt0Two%3D
+author_link=https://www.tiktok.com/@nguyenbinh.84
+author=Binh Duy Anh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:07
+id=7255225538313650950
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=261
+content=nó trả lời quá logic, nếu khai ko nhận vali là đứt, vì có lx làm chứng. còn bảo có nhận vali, trong vali có riệu thì là chuyện khác
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@user792431646
+author=Nguyen Ngoc Tuyen375
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:07
+id=7255321307428455173
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=220
+content=Hề . Như oan , vô can , thật thà , ngây thơ + Cận + hiền lành
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1688753475934209.jpg?x-expires=1693555200&x-signature=lY6Qt8X%2BvWb%2FBz%2B%2BdqX1azu4Fkg%3D
+author_link=https://www.tiktok.com/@hhoooojbv345
+author=Huy Lê36503
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:07
+id=7255223004635398917
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=185
+content=Học an ninh ra nên khai mà nếu sau này ko điều tra ra dc số tiền đó ở đâu thì ông này hoàn toàn vô tội ko có tội gì
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/061c7ece1088c165fcdf23b5536e2f2e~c5_100x100.jpg?x-expires=1693555200&x-signature=3NIPrdk51lew65BALBGNrxr141w%3D
+author_link=https://www.tiktok.com/@fans.missgrand.vn2023
+author=BeautyQueen
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:07
+id=7255246413855933189
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=121
+content=khả năng cao giống như phim sinh tử : có người đến mua 4 chai rượu vang 2.6 triệu đô
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1597464835525634.jpg?x-expires=1693555200&x-signature=geYgRrGb3pKVyZmBN%2B%2Fx0Ki4QNg%3D
+author_link=https://www.tiktok.com/@ngotiendung19
+author=Ngô Tiến Dũng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:08
+id=7255250587770618630
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=128
+content=ông chủ toạ nói giọng nhẹ nhàng nhỉ
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/84d6052425e20f83ca7837d67ee52847~c5_100x100.jpg?x-expires=1693555200&x-signature=8%2BJJL23WxcFvG%2FXy8LZAwVd2GZI%3D
+author_link=https://www.tiktok.com/@tuyen_anh62
+author=Tuyếnanh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:08
+id=7255258959714829061
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=100
+content=thường ngày nó hét ra lửa mà sao bây giờ nó ngoan vậy
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7246280870938705925~c5_100x100.jpg?x-expires=1693555200&x-signature=oSGpBDCJDIJbXuZsDK%2BgsliFpzA%3D
+author_link=https://www.tiktok.com/@lylec73
+author=12345678
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:08
+id=7255329349993792261
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=75
+content=chết ông pgđ công an hà nội giờ bán nhà mà bù 2tr6 này thôi, điều tra viên cao cấp làm gì cũng tính kĩ trước rồi. Chứng minh đưa như nào hơi khó .
+created_time=2023-07-14 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7002137077177401370.jpg?x-expires=1693555200&x-signature=itstZaVh9tKCFoT0lzQY%2BR6TqUw%3D
+author_link=https://www.tiktok.com/@quyennnnnnnnnnnnnnnnnnn
+author=Quyềnn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:08
+id=7255353937874699014
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=42
+content=Rựu vang được đúc bằng vàng ròng đúc đặc hả 🤣
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/163d9786eb8472baf311f4c9bfbc7495~c5_100x100.jpg?x-expires=1693555200&x-signature=qOCuRrQk9jSbqXY%2Bt7PKHkXqjPs%3D
+author_link=https://www.tiktok.com/@duongthanthong
+author=Dương thần thông
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:08
+id=7255257773913981701
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=9
+content=Quà cho bác sĩ ông này ko đưa mà lại bày ở nhà nghe đã vô lý😂😂😂
+created_time=2023-07-13 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/40540c1d5d61974789d9d00fc1fa1f12~c5_100x100.jpg?x-expires=1693555200&x-signature=ZGofB%2BO%2FKD03dEPJKnQmZzBXRq4%3D
+author_link=https://www.tiktok.com/@momo240118
+author=Mỡ Mỡ Review
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:09
+id=7255265304103502598
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=dạ kính thưa hdxx trong cặp là 4 cân gạo ạ
+em đại lý gạo
+created_time=2023-08-09 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7028056811571773467.jpg?x-expires=1693555200&x-signature=DIrbL0y13jnuvenXgOmGDgt1Cok%3D
+author_link=https://www.tiktok.com/@laplapdo
+author=lập lập đỗ .
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:09
+id=7265351671508632322
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Mâu thuẫn chiếc cặp ko tìm thấy kkk
+created_time=2023-07-30 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0201586ccc1dbd95aa3f069c513b999d~c5_100x100.jpg?x-expires=1693555200&x-signature=qTvUJDQaUl9g3h%2F2j4xhFLLkJi4%3D
+author_link=https://www.tiktok.com/@aphuong328
+author=anh phương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:09
+id=7261602307116106498
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lời khai thât trơ chẻn,
+created_time=2023-07-28 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e6215c98844e5bbf030ed1702a9b3825~c5_100x100.jpg?x-expires=1693555200&x-signature=LTUfo%2F90A6%2FRtnBi%2BhlbJS98NXU%3D
+author_link=https://www.tiktok.com/@user4305815394187
+author=M Đat
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:09
+id=7260914439883424519
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=xử thà bỏ xót.. chứ không đế bị oan..mình chỉ đề nghị vậy thôi..vì oan đau cả đời..
+created_time=2023-07-26 00:00:00
+avatar=https://p16-sg.tiktokcdn.com/img/user-avatar-alisg/jhhkpvwiqgisfyb91y74rxirhpbcr5tv~120x256.image
+author_link=https://www.tiktok.com/@xuanthanh582
+author=XUan Thanh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7260107608383079169
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu vang thì đích thân ông đi lấy à. ông rảnh quá v
+created_time=2023-07-26 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@vuha_2019
+author=VuHa
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7260006804414300946
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tri ân....lạ nhỉ.
+created_time=2023-07-26 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7131007031351181339~c5_100x100.jpg?x-expires=1693555200&x-signature=Ng8W4MD0vzkyQg1MQy4AbCebWxc%3D
+author_link=https://www.tiktok.com/@userclxoxb5v4d
+author=N. Bình
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7259816117856682770
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bị bệnh mà tặng rượu 😂
+created_time=2023-07-24 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0a6ca5aa3b644a8e07069d691815776~c5_100x100.jpg?x-expires=1693555200&x-signature=qb2usQJcA27rC34Xuv%2BfLRa2E2A%3D
+author_link=https://www.tiktok.com/@yumiii898
+author=Bé Gạo68
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7259319782032786177
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=vụ án xảy ra tại Việt Nam mà quy đổi ngoại tệ như vậy là không xanh chín rồi . Xử ở Việt Nam phải quy đổi sang Việt Nam Đồng chứ
+created_time=2023-07-24 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/fd201623aa9aa1123d1fd81caad42e35~c5_100x100.jpg?x-expires=1693555200&x-signature=0L6hPADhayQGUA%2BXSv5nuMBJZEg%3D
+author_link=https://www.tiktok.com/@hen270792
+author=🌱🌷Hến Ⓜ️🅱️
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7259240674239005442
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu bỏ cặp số chi cho mệt vậy..
+created_time=2023-07-23 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/be67fab74b16c999dcb46027413e8fe8.jpg?x-expires=1693555200&x-signature=Yk0TkmtG%2FResuzuXdG%2FTzM4Ks4A%3D
+author_link=https://www.tiktok.com/@mr.siro838813
+author=Mr.Siro838813
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:10
+id=7258956751177057029
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Đúng rồi rượu vang
+created_time=2023-07-23 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@fc99885677443
+author=Login
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:11
+id=7258871200935674629
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tôi khẳng định 4 chai rượu vang
+created_time=2023-07-23 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b8f18d49643390dbbbe0f3253cab6cb~c5_100x100.jpg?x-expires=1693555200&x-signature=3IpOTVeRLzY4wFTqWPnr7QdBdVc%3D
+author_link=https://www.tiktok.com/@hoangvanhung198o
+author=Hoàng Văn Hưng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:11
+id=7258868882206524166
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Oan rồi, 2,6 tr đô coi như mất hút
+created_time=2023-07-23 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e3392ab26ad91cb1485c37a725d375bf~c5_100x100.jpg?x-expires=1693555200&x-signature=3iuBaY2VssMrI2FfFW2eUbRhN2I%3D
+author_link=https://www.tiktok.com/@userzk38oz093c
+author=Thân Canh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:11
+id=7258861590946284294
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tôi thì thấy pl phải có bằng chứng
+created_time=2023-07-22 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/367fc1d04bfec75f350ad13c65dd2465~c5_100x100.jpg?x-expires=1693555200&x-signature=DlmwYGvgYFVdxePDtQIp8na%2FB8Q%3D
+author_link=https://www.tiktok.com/@tongthongklinh
+author=TổngThống/Klinh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:11
+id=7258621673619292933
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=là ruu vang toà ko có chứng cứ
+created_time=2023-07-22 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/367fc1d04bfec75f350ad13c65dd2465~c5_100x100.jpg?x-expires=1693555200&x-signature=DlmwYGvgYFVdxePDtQIp8na%2FB8Q%3D
+author_link=https://www.tiktok.com/@tongthongklinh
+author=TổngThống/Klinh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:11
+id=7258621578185966342
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=khai dõ thế còn hỏi gì nưa
+created_time=2023-07-22 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/65fee6ad0950f78d3f6718e02c500814~c5_100x100.jpg?x-expires=1693555200&x-signature=hvF6rMALZ%2BdSzUh988VFW97DvP4%3D
+author_link=https://www.tiktok.com/@kien198q
+author=Trung Kien
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:12
+id=7258613912571167494
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Giao dịch mãi rồi.lần nào chả nhận ở cổng cơ quan.cảm ơn bác sĩ mà phải báo lịch cho ông kia để tặng 4 chai rượu.
+created_time=2023-07-21 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0ccfadfffaafd3bdadb0fa07f90f1898~c5_100x100.jpg?x-expires=1693555200&x-signature=r983PNcnXjqD67eDTNb4B%2FKJGXk%3D
+author_link=https://www.tiktok.com/@ton_hot_tv
+author=Ton hót TV
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:12
+id=7258311495883244294
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=xử lý nghiêm vào.
+created_time=2023-07-20 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fcbbd3a005a3f54289c321b16a26252~c5_100x100.jpg?x-expires=1693555200&x-signature=XztHgY4ckqzA2laPnMK1MwBAsLs%3D
+author_link=https://www.tiktok.com/@user1661160672483
+author=user1661160672483
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:12
+id=7257768046474199813
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Dạ, vâng, ạ,….😅
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6540499581e1003ffbc941f5dc0321d5~c5_100x100.jpg?x-expires=1693555200&x-signature=mdTRLpwGvGiLQ8URspTL9uKcmQI%3D
+author_link=https://www.tiktok.com/@minhanhmanh2
+author=Comt dạo
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:12
+id=7257561498787021574
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Hỏi rất là dễ mắc mưu nhưng Hưng trả lời rất tốt.
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1602782227294209.jpg?x-expires=1693555200&x-signature=dlHxnBd85cZ4J8hMPbyDoridBVM%3D
+author_link=https://www.tiktok.com/@viettien031191
+author=Viết Tiến
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:12
+id=7257542907833238278
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 thằng ngồi trên chiếc mà tiền còn biến mất chứ còn hỏi tiền đi đâu
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/80d1cb32592d8a87ea7f3e6b249e76fe~c5_100x100.jpg?x-expires=1693555200&x-signature=PbuAoq4fCMsdsy7LdJ32l4CwvjQ%3D
+author_link=https://www.tiktok.com/@tqduyy
+author=👉Quang (👀) Duy💥
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257518755626107649
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ông này biết quá nhiều lại thay bộ máy mới nên bị ngáng chân.
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/dfd9ce1cb8d8805d2ca01e13328694e6~c5_100x100.jpg?x-expires=1693555200&x-signature=3kbQNCSklLctpaWYNtaCIYGazCI%3D
+author_link=https://www.tiktok.com/@user38089059
+author=💜💜PL
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257497878700049158
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=làm to thế tặng rượu vang 😂ai tin .ông là trùm r .đã chuẩn bị hết phương án đối phó😂
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1662516379457537.jpg?x-expires=1693555200&x-signature=aQa9NSBf%2FVViCNpikAQNRLlCNvE%3D
+author_link=https://www.tiktok.com/@user7294782893124
+author=user7294782893124
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257496972473647877
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=cuối năm dọn nhà giờ kB cặp ở đâu? chính là nó. câu này. là câu này
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4b1c9e9a946b17b3a40f6553f236d21~c5_100x100.jpg?x-expires=1693555200&x-signature=5wlxQ%2FQxDFeMyohE8yP88Fm73ho%3D
+author_link=https://www.tiktok.com/@tuanvan643
+author=Tuấn Văn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257472966857655046
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=3
+content=rượu vang bỏ cặp số nói nghe buồn cười nhỉ
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/49526b91e435e63ec753ba8f3152b3c2~c5_100x100.jpg?x-expires=1693555200&x-signature=Rd0UCFqVhvojb4Ss9ygEiBB2Shk%3D
+author_link=https://www.tiktok.com/@tuananh30092020
+author=Lê Tuấn Anh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257448514299462406
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Nghĩ 2,6 triệu đô để trong cặp,,, cặp j chứa dc hay vậy
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/efbb42a4799304d3f3f842cef7ae4cf8.jpg?x-expires=1693555200&x-signature=C3NrjLBOutvulire63BhE3my2hY%3D
+author_link=https://www.tiktok.com/@user699802416
+author=giàu sẽ đổi tên👌
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:13
+id=7257435974917079815
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ông kia ăn hết rồi đỗ tội cho ông Hưng
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7249753622287843334~c5_100x100.jpg?x-expires=1693555200&x-signature=iFVlG8RnAxcm80%2FdxHXvm9UX2qk%3D
+author_link=https://www.tiktok.com/@cmthanhphong
+author=cmthanhphong
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:14
+id=7257432664423678726
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Thằng này tl khôn khéo lưu loát lắm. Học quá thuộc bài rồi
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1682940983001090.jpg?x-expires=1693555200&x-signature=4lSZPaXCvqj46cHle5F%2FXBlIcik%3D
+author_link=https://www.tiktok.com/@nguyenthanghn
+author=Nguyễn Quang Thắng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:14
+id=7257411529779151622
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Chúng nó học luật nên biết luật cãi giỏi lắm
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@user8616617613136
+author=Tien
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:14
+id=7257398934359507718
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=nghe như trong phim
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f003f5c354ece0bf3d6406533e890b16.jpg?x-expires=1693555200&x-signature=GYByZt9KEXiXm3gD73R2WLVSXr8%3D
+author_link=https://www.tiktok.com/@nguyen_toan1995
+author=nguyễn toàn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:14
+id=7257242452356399874
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ai nhìn thấy 2.6tr usd . ở chỗ nào hình ảnh đâu.
+created_time=2023-07-19 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/296a235a14631af9872f690893e0c3c7~c5_100x100.jpg?x-expires=1693555200&x-signature=rDQkeJ6jjpAazSohgK206Gdtiew%3D
+author_link=https://www.tiktok.com/@thch.s.ty0
+author=thích sờ ty
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:15
+id=7257235456734970629
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Xem cuốn hơn phim
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7de3b760ac069ce86367419825f1a47b~c5_100x100.jpg?x-expires=1693555200&x-signature=HOkY5DHds9q9gJr0HNF9c5R4D30%3D
+author_link=https://www.tiktok.com/@doatnguyen1991
+author=Đoạt Nguyễn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:15
+id=7257189522839601925
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Những tên tội phạm nguy hiểm nhất là nhữg tên có IQ rất cao 😅😅😅
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/e07e2b5352849bb52477ce4028d9b8a9~c5_100x100.jpg?x-expires=1693555200&x-signature=s1GDVHnxi59XHTIwVMJIvhPIg28%3D
+author_link=https://www.tiktok.com/@akubopeiu
+author=Kubo Ken
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:15
+id=7257180515109962502
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vô lý
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8246eb0ce6ced95e98f61aa6f94f2189~c5_100x100.jpg?x-expires=1693555200&x-signature=j%2BGITYQ1ZX%2FsF8F8u3WyTvgg%2BR8%3D
+author_link=https://www.tiktok.com/@athanh716
+author=a.thanh716
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:16
+id=7257168486602261253
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ủa vậy nếu trong xe có camera hành trình thì xem được chứ nhỉ.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7168621163819008026~c5_100x100.jpg?x-expires=1693555200&x-signature=DQVX1Lfx3KLlgJqgKpJ9TI9fKSk%3D
+author_link=https://www.tiktok.com/@yenchi14022018
+author=hienhoang6161
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:16
+id=7257162009795035909
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=vali đựng rượu vang,vô lý
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c73d227174f1ec6120ae66aeb9b87ae2~c5_100x100.jpg?x-expires=1693555200&x-signature=jt54f4tJJ1Sf0sRcP%2F4iuazNfZo%3D
+author_link=https://www.tiktok.com/@anhminhtran917
+author=Trần AnhMinh37NA....07japan
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:16
+id=7257156348738159362
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=K mấy ai đựng rượi trong cặp
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/5652237da8c630a4f50c2d6be5fe1373~c5_100x100.jpg?x-expires=1693555200&x-signature=f4Rw%2F%2B0WSFYJZVS%2BzcB1t2s07xU%3D
+author_link=https://www.tiktok.com/@nguoitronggio68
+author=Gió
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:16
+id=7257156306627937030
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ông này dễ bị cno thù cho nên nó gài rồi.dễ lắm.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6065c42ed6432c7e3792a2e325031f99~c5_100x100.jpg?x-expires=1693555200&x-signature=%2BEmS54w4lnlZqUVRzuMxMuHWuFk%3D
+author_link=https://www.tiktok.com/@cao._.do._.1102...tt_tb
+author=NEM
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:16
+id=7257153779920110341
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu vang đó ai uống, giờ ở đâu? 😁
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/18ecf066869a8ef89348e9d3112dd16c.jpg?x-expires=1693555200&x-signature=q8%2F16VHZsjNvsj9e5z7rRusHkLs%3D
+author_link=https://www.tiktok.com/@diogenesvn
+author=Diogenesvn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:17
+id=7257138483218629381
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Uống hết sao được 😂😂😂
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1681540410300417.jpg?x-expires=1693555200&x-signature=jwupUsBzjtZnYib%2BIoGyH5OQnkY%3D
+author_link=https://www.tiktok.com/@phamvanquang1994
+author=Pham van Quang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:17
+id=7257128848244376326
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=2tr600k mày thấy à ^^
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a717e481047b659d568db40b21ac6e08~c5_100x100.jpg?x-expires=1693555200&x-signature=zdoXRyFs5h5gvCPmstClaJwX9rA%3D
+author_link=https://www.tiktok.com/@sury1988
+author=VanToanDong
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:17
+id=7257128226120008454
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Xét góc độ cũng có thể xảy ra vì nhờ vả mà làm rõ hết đi
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3304f5ccb2c868a41f1b37ab99c87851.jpg?x-expires=1693555200&x-signature=qL4YdntUIzovdpl5fL%2BQ3qyqNdU%3D
+author_link=https://www.tiktok.com/@tienngosinhtien
+author=Tien Ngo Sinh tiên
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:17
+id=7257124667306443525
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=sợ nhất những người nói ngọt như mía lùi nó lật mặt quá bất ngờ luôn
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7202940822059384859~c5_100x100.jpg?x-expires=1693555200&x-signature=DSY2wiLye0sX9c%2Bu3Vq5beUy2cw%3D
+author_link=https://www.tiktok.com/@lehuulamlam
+author=Lê Lâm
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:18
+id=7257119195254375174
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Rồi riệu vang nhãn hiệu gì và sử dụng như nào chả hỏi tiếp nhỉ😁😁
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7038913797755600897.jpg?x-expires=1693555200&x-signature=M70UU43Lu%2BO6jIIZJq5jNPYFq98%3D
+author_link=https://www.tiktok.com/@dy9qpx1cucon
+author=Pan và Bơ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:18
+id=7257118962650612486
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Cứ vòng vo đi 1 cái đầu của hắn sao lại đc cả 1 đội điều tra. Trừ khi có cái ô to chỉ đường dẫn lối thì thua.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1623806031642625.jpg?x-expires=1693555200&x-signature=jYRZyEBX7fBEWJ3LC5XVvFNPbqI%3D
+author_link=https://www.tiktok.com/@MS4wLjABAAAAtOCQZu5Qf-RCK7AU44VmnXeHrX3nJ4SCCK5Od-Wyso4MH51AiLutoNQu0jQgHygB
+author=Joker
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:18
+id=7257109026416198406
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Chạy án ns ko cần tiền
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/178a85e44ae0212146d12e0608f53c93.jpg?x-expires=1693555200&x-signature=n%2BmdMtdOsFb3BrZkytVbcO7DaEc%3D
+author_link=https://www.tiktok.com/@camy.shop2k6
+author=Gọi E là yêu ❤️ phương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:18
+id=7257107283463848706
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Quá xuất sắc nhân tài
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fe1cdcf58ad5ba74850bd159a1d3d790~c5_100x100.jpg?x-expires=1693555200&x-signature=nFInyake91PnbAKDb78pAeJgGs0%3D
+author_link=https://www.tiktok.com/@user761034261943
+author=Trang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:19
+id=7257103926338552581
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tin a hưng 🥰
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c5d37ea84ca6e25932834a57f3c8948d~c5_100x100.jpg?x-expires=1693555200&x-signature=ddYcDNCQyx54KJynPoYSG1WAiNo%3D
+author_link=https://www.tiktok.com/@user1578720477625
+author=HOÀ BÌNH
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:19
+id=7257100798303224581
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=thăm ốm mà tặng rượu😳
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/584cda6982706a64327ef912ec649f47~c5_100x100.jpg?x-expires=1693555200&x-signature=UZDUwIn8Hdr%2F6N2eQefybH7M%2BNE%3D
+author_link=https://www.tiktok.com/@thao_31101
+author=Thao3110
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:19
+id=7257086056826307333
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=mấy thằng đeo kiếng rất nguy hiểm
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/11f1460fe1f81fdc073a0132aee17945~c5_100x100.jpg?x-expires=1693555200&x-signature=M94HXZdCKVoTrnwgiSxi%2FnDbTgY%3D
+author_link=https://www.tiktok.com/@giangluong038
+author=🔥❌Đào Minh Lương ❌🔥
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:19
+id=7257082836619690754
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Nhẹ nhàng ngoan ngoãn đáng eo thế!
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/bd677303b9ec8826bed80a23c76ef641~c5_100x100.jpg?x-expires=1693555200&x-signature=icsP%2FxThTpDLGL42A4aOQzVCrNY%3D
+author_link=https://www.tiktok.com/@hong_le_1978
+author=Nguyễn Thị Hồng Lê
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:20
+id=7257079064186569478
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vang chống dịch
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/6f26352cc4eb7481def829e2dba2a8e3~c5_100x100.jpg?x-expires=1693555200&x-signature=iX2IUFbPtCIfIejLVy8fSma%2FPM8%3D
+author_link=https://www.tiktok.com/@usergp0xz4bd8f
+author=Phạm Hằng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:20
+id=7257076418855863045
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=@Hươngg mớii tậpp chơii tiktokk mồm dẻo
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/cc124c36841d8030e4fbfcd8c5acc106~c5_100x100.jpg?x-expires=1693555200&x-signature=ZPgyrDhuy6w86HFKSqkxn6kZto0%3D
+author_link=https://www.tiktok.com/@_phuonggg98
+author=Phuong
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:20
+id=7257075087391163142
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=liệu có bao giờ cặp tiền bị tráo thành rượu k mng
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/88d3741cddf0f6433c407aa22ac65c4d.jpg?x-expires=1693555200&x-signature=UgX04PiMhcwOkjXBO5Na31BTKac%3D
+author_link=https://www.tiktok.com/@minnphuong
+author=❤️ Một mét 53 ❤️
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:20
+id=7257069054635475717
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vang mà phải bỏ cặp luôn trời
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/ab17e8e3a4bfd5371e4fcbc7ffc7e7c4.jpg?x-expires=1693555200&x-signature=Vam8R9%2FIs1npb8dM38bBV8r2QVM%3D
+author_link=https://www.tiktok.com/@lan171719830
+author=lan điện 1983
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:21
+id=7257059344691364613
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Mới ra viện chậm 1 ngày là đi mà tặng 4 chai rượu vang. Ae thân thiết điện hỏi thăm đồ kk. Ko cần nghe câu tl nghe cách tl là ko ổn rồi
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0e935a3584d8710b3d944adcd3088b0d~c5_100x100.jpg?x-expires=1693555200&x-signature=5AVWfRqR2iuf1HKjC8P7YrMmg84%3D
+author_link=https://www.tiktok.com/@cuocchoivn
+author=Tâm Tào
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:21
+id=7257054621875815174
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=bẻ lời khai hay thật sự đầu nhảy số khiếp
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7d45282c62f1d513049d89453146a805~c5_100x100.jpg?x-expires=1693555200&x-signature=4cws4zLPmCD8U16O%2F2uwVAisY1A%3D
+author_link=https://www.tiktok.com/@lvmao5
+author=lvmao
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:21
+id=7257050604928336646
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=cứ lấy cái cặp bỏ bốn chai rượu van xem có vừa ko và giá trị 4 chai rượu van trị giá bao nhiêu tiền và nhận mức tiền như vậy thì đủ cơ sở hối lộ chưa
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7068672758078504986~c5_100x100.jpg?x-expires=1693555200&x-signature=YyFcXPIENMU4%2FabsfVOiqH465Ng%3D
+author_link=https://www.tiktok.com/@userjw1q0g0fey
+author=Nguyễn Tấn Khoa170
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:21
+id=7257049097529852677
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Cho em xin cái chai😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7094995061212971009.jpg?x-expires=1693555200&x-signature=9zOy7V5jK%2F48NC1%2FeJgNr%2FlIfGw%3D
+author_link=https://www.tiktok.com/@phuvo8761
+author=Phu Vo8761
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:21
+id=7257047771592196865
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Dạ. Vâng ạ 😂😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/977415a79c6ac06bcc4ea4fa90ae60b2.jpg?x-expires=1693555200&x-signature=r96PByUVLEEoKY%2BkgIZacM88Sj8%3D
+author_link=https://www.tiktok.com/@hgvan299
+author=Nấm nhỏ 🍄🍄
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:22
+id=7257046308631560961
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=eo ôi ngây ngô thế 😳😳
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c725d0c0bed0b1c45d6c829f4c6fb5de~c5_100x100.jpg?x-expires=1693555200&x-signature=hpr16nsipAsUq75wuU6Mqgfa5XU%3D
+author_link=https://www.tiktok.com/@xuxu.pet
+author=TrầnThuỳLinh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:22
+id=7257038810205668102
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=2 triệu 600k đô cứ cho là toàn tờ 100 thì có 26k tờ cặp đấy chắc to phết nhỉ
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/44131dc84a97561d67a73617cb92e5cd~c5_100x100.jpg?x-expires=1693555200&x-signature=kYjc40FfAakqK6CFD0FBU8LBa5Q%3D
+author_link=https://www.tiktok.com/@quanngocdung
+author=Quản Ngọc Dũng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:22
+id=7257038274241184518
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Có tính toán
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7001132649502900251.jpg?x-expires=1693555200&x-signature=5Zyg4Wj5rbOxOjiHxYMqoS1IhBU%3D
+author_link=https://www.tiktok.com/@hoaian1368
+author=Hoài An
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:22
+id=7257036127168611077
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Trong điều tra trọng trứng hơn trọng cung
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1679730912105473.jpg?x-expires=1693555200&x-signature=3qbj%2Fhfcqa4RSvJeUSkD28mvJLI%3D
+author_link=https://www.tiktok.com/@hoangkhai250698
+author=Hoàng Khải
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:23
+id=7257034498612855558
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Các bác ơi , lúc nó làm nó đã tính rồi , vì vậy nên giờ mới cứng miệng hên thì không sao , còn không thì dựa cột
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/39c853606f32628f76a25fa8e108d2c1~c5_100x100.jpg?x-expires=1693555200&x-signature=GSKwFa8e32C9BIsPfP86m7NbDcg%3D
+author_link=https://www.tiktok.com/@toan66660
+author=Nguyễn An Toàn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:23
+id=7257033963897864966
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Y chang phim luôn trời
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a3771dbb7559768918b7f99d85e95427~c5_100x100.jpg?x-expires=1693555200&x-signature=oP%2FWnM8t0p6ggK%2FxCccECUszdpU%3D
+author_link=https://www.tiktok.com/@photonguyennam
+author=Photo Nguyen Nam
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:23
+id=7257032509086941957
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=usd mà nó ép thành nước bỏ vào chay rượu vang 😂😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/2b598a5b5a9ddb500e7a6d91a7e32e4f~c5_100x100.jpg?x-expires=1693555200&x-signature=p%2BFVWf3lAVaeTCtvKcCoixVvGjc%3D
+author_link=https://www.tiktok.com/@tinh863
+author=Tín 1997
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:23
+id=7257029591650304774
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=triệu hồi conan vô trị mấy tội phạm hay cãi😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/006a46261dc13bf46201cf56f1d7f21f~c5_100x100.jpg?x-expires=1693555200&x-signature=5GxXsJ3rxP7%2BIDsMQDDj49WF1k8%3D
+author_link=https://www.tiktok.com/@zeroraplol
+author=Zero Rap LoL
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:23
+id=7257028166974309125
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Đi 1 bước tính trước cả ngàn bước rồi, bây h mà k có bằng chứng thì ổng sẵn sàng đấu miệng tới mùa quýt 😎
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/2536b3690954db15af6493778daa4a37~c5_100x100.jpg?x-expires=1693555200&x-signature=HYlmSWBOFnOyliZGgRgdR86f9Z4%3D
+author_link=https://www.tiktok.com/@mei082017
+author=Cỏ May
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:24
+id=7257027618645902086
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Vậy bác sĩ nào đã đc mờii cơm và uống rượu vang.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c07d86571570c4d98d27a40f4347e880~c5_100x100.jpg?x-expires=1693555200&x-signature=VIgcOg%2BVfQzjsJAjuju470%2BGASA%3D
+author_link=https://www.tiktok.com/@usermd5uie6azi
+author=duong thai vu
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:24
+id=7257021758477124357
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Ông này k nhận tiền mới lạ
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eea88ac7cff8264b3c39b84010d083af~c5_100x100.jpg?x-expires=1693555200&x-signature=Pbj5Rk57xYtWZ4EkKsLrmwlHBN0%3D
+author_link=https://www.tiktok.com/@nangvintage.22
+author=Nắng Vintage
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:24
+id=7257016268833145605
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=có ăn có học nó khác
+nhiều cty ở vn toàn né luật hoặc lách luật cả
+ô này ko oan nhưng mak ô khôn ngoan
+created_time=2023-07-18 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/f0473d67a244b1902196e07fb338986b.jpg?x-expires=1693555200&x-signature=0dPjf8HTbm5EvbGzPcdUwpG7kc4%3D
+author_link=https://www.tiktok.com/@tlinh2k0
+author=lineM6
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:24
+id=7257015708340880134
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=xem phim CSHS giữa đời thực
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/cae60e7cf67436725076df508c5f4960~c5_100x100.jpg?x-expires=1693555200&x-signature=nbTH7jObCvQYJmuQjJ9t5hap4Ak%3D
+author_link=https://www.tiktok.com/@38vinhluan38
+author=shop 194
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:25
+id=7257009936487154438
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Chai rượu chống dịch 🤣
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/3d80b2b389362d1354c61cbece8d6516~c5_100x100.jpg?x-expires=1693555200&x-signature=2bx1%2F78yiOmK1ux5WEJP1nVsKqY%3D
+author_link=https://www.tiktok.com/@tyleerngo
+author=Loco
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:25
+id=7256994747595080453
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=giờ sao chứng minh được trong vali là gì mới quan trọng
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/3c889c5d67e16da52827b2a71cee343e~c5_100x100.jpg?x-expires=1693555200&x-signature=5c60B%2Fuq9VEjbTtvnE5RATxCVEs%3D
+author_link=https://www.tiktok.com/@sonnguyen0994
+author=Thanh Sơn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:25
+id=7256989418446881542
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Giỏi
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1657321675795458.jpg?x-expires=1693555200&x-signature=u44qv62ZWsvmEfZUOkvjsiETgwE%3D
+author_link=https://www.tiktok.com/@haidao1992
+author=Trần Hải Đào
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:25
+id=7256988677593940742
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=nguồn gốc tiền là của ai ..... rồi có trả lại cho ..... đc hok 😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/6cf18026422be6af0e99b73e3d1cb74b~c5_100x100.jpg?x-expires=1693555200&x-signature=KD%2FSPDyLz8ka8pA1iM%2FCc8MOwX0%3D
+author_link=https://www.tiktok.com/@hung_manh_daklak
+author=Hùng mạnh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:26
+id=7256985239254287109
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=@hujinying5: Mấy bác hay uống rượu cho em hỏi chút: có khi nào bỏ rượu vang trong chiếc cặp kín để làm quà ko?
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6995436831454003226.jpg?x-expires=1693555200&x-signature=WNx6jHSulWrXJcmwYYWPGVHtqgY%3D
+author_link=https://www.tiktok.com/@hujinying5
+author=hujinying5
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:26
+id=7256984178151441158
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Một số tiền lớn như vậy chắc chắn sẽ có người mang ra ngân hàng để chuyển vào tk hay gửi tiết kiệm,có thể là bà con hay người thân.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1695590030434306.jpg?x-expires=1693555200&x-signature=7Pcu3xtxZ%2FZ2WRYa35IgoINtPyQ%3D
+author_link=https://www.tiktok.com/@quanghungtran88
+author=Trần Quang Hưng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:26
+id=7256983794091229957
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=cứ cho là ông Hưng nhận 800k USD đi vậy 1800k usd còn lại thì đi đâu, cái này cũng cần phải làm rõ.
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7213007063482368026~c5_100x100.jpg?x-expires=1693555200&x-signature=Byuo4G16VvVUE1jq6OomUFFFuCA%3D
+author_link=https://www.tiktok.com/@phpsa4
+author=Thiết Mộc Quân
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:26
+id=7256974532852843270
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=60 tỷ đi đâu 😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1639947425777665.jpg?x-expires=1693555200&x-signature=GnfZidqs%2BPuQkIQDnnoK0iNBWxs%3D
+author_link=https://www.tiktok.com/@canhchuong68
+author=Cảnh Chương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:26
+id=7256973074434769666
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=khéo cả nước bị ông này rắc mũi😂😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fceba54b95924ecf22807f4e9addd3a8.jpg?x-expires=1693555200&x-signature=gNi3MZTtaiDBoGYfCBqfNtrK6dk%3D
+author_link=https://www.tiktok.com/@dinh_tam96
+author=Đình Tâm
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:27
+id=7256965509119476498
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Rượu vang đựng trong hộp gỗ đủ sang trọng rồi đựng trong cặp số chắc chắn như cặp nguyên thủ ấy nhỉ :😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/0e96e40482456ca9d1b58babfafc682a.jpg?x-expires=1693555200&x-signature=k88oO%2BjSmor4cpNrBy7PzQQVS%2B0%3D
+author_link=https://www.tiktok.com/@hoanganh_dg
+author=hungvuxmxt
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:27
+id=7256949017657524997
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ông nài nhớ ghê thận
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9e17332a585a40d3076d0931aeb90cb2~c5_100x100.jpg?x-expires=1693555200&x-signature=1SxxEb%2FCl5weX%2BaqSzLPiSpsxH8%3D
+author_link=https://www.tiktok.com/@useratzdojnr0c
+author=😗
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:27
+id=7256948117429437190
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=rượu vang ma dấu kĩ thế, bỏ vào cả vali 😂
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/cae60e7cf67436725076df508c5f4960~c5_100x100.jpg?x-expires=1693555200&x-signature=nbTH7jObCvQYJmuQjJ9t5hap4Ak%3D
+author_link=https://www.tiktok.com/@38vinhluan38
+author=shop 194
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:27
+id=7256942264353047302
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=hỏi xem 4 chai rượu nó nhận không
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78dc32ab296d064dd70716264edee902~c5_100x100.jpg?x-expires=1693555200&x-signature=9NNXovSIgMkFyM4UjG0FMMBlvHM%3D
+author_link=https://www.tiktok.com/@ptdh93
+author=shop phạmtùng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:28
+id=7256902601635480326
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tui không biết gì hết xin bác nhẹ tay giúp e
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/918e83d22c242d337d4b04df58e5bf2f~c5_100x100.jpg?x-expires=1693555200&x-signature=wqUUFB%2BP3GMZPU4XrsnMbwJKoUs%3D
+author_link=https://www.tiktok.com/@phutinh839
+author=Duy Khải
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:28
+id=7256841840455729925
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=đụng tay nghề cao rồi
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a8575c664ef96824396a350665bfbbae~c5_100x100.jpg?x-expires=1693555200&x-signature=jXEfTYpnaivpn%2Fl2xGMSxNaAE%2BQ%3D
+author_link=https://www.tiktok.com/@kenlun1121
+author=🌹💚🌹
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:28
+id=7256840135772799750
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=khi vừa lên xe bị cáo có nói với tài xế là dc ông anh cho 4 chai rượu.mà hỏi lại mở cặp ra tài xế có biết 4 chai rượu ko thì kêu ko rõ
+created_time=2023-07-18 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1600175683823618.jpg?x-expires=1693555200&x-signature=9IAw773NVpsN2iJX4PIeG7zP1vo%3D
+author_link=https://www.tiktok.com/@miutenpk
+author=Nam Chung
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:28
+id=7256834576449782534
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=cả thiên tài chứ đúa😳
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f03a580fb2ac0e13e4ef5d329d58330~c5_100x100.jpg?x-expires=1693555200&x-signature=zJiUuO9hMhav77GKLPaGVHn5IpA%3D
+author_link=https://www.tiktok.com/@user6qz7314gdi
+author=BumZima
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:28
+id=7256826908603908869
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=chủ tọa hỏi chập cái vấp liền 😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/873405242e8f13adde33c6bad022d441~c5_100x100.jpg?x-expires=1693555200&x-signature=ly4n06RmVPSrxc18cRGfgN6f1JA%3D
+author_link=https://www.tiktok.com/@phuoclee01
+author=L"H Phước
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:29
+id=7256823828243464965
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=chsi rượu vsng kích cỡ bn mà đưng dc 4 chai
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ef3275b96ec36c5cfe6d8ee495f0d448~c5_100x100.jpg?x-expires=1693555200&x-signature=yzL%2FSGCdLRev0zt0AffCURMsNJY%3D
+author_link=https://www.tiktok.com/@thuyanlanchi
+author=Thúy An Lan Chi
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:29
+id=7256820020527940358
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=Nghe vướng vướng dần rồi đấy, chủ toạ hỏi đỉnh ghê !
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/505a0a40b37e479191939142997fd8d1.jpg?x-expires=1693555200&x-signature=zRDUGEal6vIiisGtJjqPsKlIASA%3D
+author_link=https://www.tiktok.com/@khahaiduong
+author=Mật Mật
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:29
+id=7256807270628836101
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=K thấy bị cao mô cười hè😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@user583200855
+author=user2934380341693
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:29
+id=7256804824111432449
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lại luôn
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/61cea23124c6eb7f28db7dad3a324fe8.jpg?x-expires=1693555200&x-signature=6NVsXduirE117euUoJdPsLH9dGw%3D
+author_link=https://www.tiktok.com/@tranthanhvan68kg
+author=thanh vân
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:29
+id=7256786519096378118
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=giọng ông này nghe nhẹ nhàng
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7130255466772299803~c5_100x100.jpg?x-expires=1693555200&x-signature=lAoMiRQOlncvw8fVaFogEosMiH8%3D
+author_link=https://www.tiktok.com/@bongnie578
+author=bongnie578
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:30
+id=7256762948411556613
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=nghe k tin được
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d24cf9428326afa017a37456bd16e781~c5_100x100.jpg?x-expires=1693555200&x-signature=qsetN4rvMmYnuG2PqwJDOFv3kL8%3D
+author_link=https://www.tiktok.com/@dinhloi993
+author=Loi Phan
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:30
+id=7256761115010368262
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Khôn hết phần thiên hạ 😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9d05d7a0ea4f2917e906a07f0ca9e856~c5_100x100.jpg?x-expires=1693555200&x-signature=Q0W1w2zjZuFWG9kI4gYvq9IY%2FZ4%3D
+author_link=https://www.tiktok.com/@win.nguyenn
+author=Win
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:30
+id=7256756508976530181
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=thuộc bài gê
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/843d9ceb7574b7ab0fe265a4b930d07c.jpg?x-expires=1693555200&x-signature=zbBP4r78ZUazpKpdaMKKp%2FLaPnQ%3D
+author_link=https://www.tiktok.com/@phuongnhu477
+author=ongong
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:30
+id=7256747634538742533
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Nói mà không có tí sơ hở
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7058615899351154714.jpg?x-expires=1693555200&x-signature=mXJATfh8i05C2Pb70x2615Kq6SE%3D
+author_link=https://www.tiktok.com/@1210chuyen
+author=Văn Chuyên
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:30
+id=7256747296350716677
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Có sự thoả hợp của ng khác mới khai như thế.
+created_time=2023-07-17 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/eedade44552226f956dd981ec99c1506.jpg?x-expires=1693555200&x-signature=%2F0KvhNmnsrgynggbiacStJR86%2Fc%3D
+author_link=https://www.tiktok.com/@ongnoi038
+author=Ong noi
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:31
+id=7256746278939788038
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rất nhẹ nhàng😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d61ca4e2db7f3edd839ffeb5509a4e5f~c5_100x100.jpg?x-expires=1693555200&x-signature=tDYatkgsFtQYbAzDaud2LX02KxA%3D
+author_link=https://www.tiktok.com/@homedethuong
+author=✅ Hổ mẹ dễ thương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:31
+id=7256745252907238149
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=chuẩn
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d78999ce52238511fd0fac0fa222a364~c5_100x100.jpg?x-expires=1693555200&x-signature=D89a8SxDUwgL%2FBQDZeEfoPeY0Yo%3D
+author_link=https://www.tiktok.com/@bloxfruitshihe
+author=Blox fruits
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:31
+id=7256744141156778758
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=bị covid thì phải bị mất trí nhớ chứ . sao ông này nhớ kỹ thế nhỉ
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/078a3a54be5d83dda568b88637ca45c1~c5_100x100.jpg?x-expires=1693555200&x-signature=jGwxDiCBi78l8vXy0ByyiYRfA%2Fk%3D
+author_link=https://www.tiktok.com/@duinsu1
+author=Đen
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:31
+id=7256744073767404294
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=vâng ạ vâng ạ
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/74b1285da74963d17b52a3991ecdf2e1.jpg?x-expires=1693555200&x-signature=GISv1fMAXMxWThI%2BbW0N%2FNTWyD8%3D
+author_link=https://www.tiktok.com/@nhaxe89
+author=Quách Tùng Lâm
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:31
+id=7256734763352146694
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu thôi chi co tre con nó tin thôi
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@user2847162753222
+author=Dam55
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:32
+id=7256730113609810694
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=bị ông lái xe lấy mất rồi 🤣🤣🤣🤣
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a29e5ae3768d885867c29ccbc3d83905~c5_100x100.jpg?x-expires=1693555200&x-signature=GBJPtzfyNEiv%2BcSHYcyl2DAaogE%3D
+author_link=https://www.tiktok.com/@thanhien
+author=thanhien
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:32
+id=7256727170108703493
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rồi chuẩn bị có mấy ng làm clip xem tướng số đi tù
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/8a110f7364b19160ccb1f2f30f2f3395.jpg?x-expires=1693555200&x-signature=pAIt9XhUezKdByn2cMyfnSMDcsk%3D
+author_link=https://www.tiktok.com/@zplaye
+author=zPLAYE
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:32
+id=7256722923220845317
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=2tr600k USD đâu ít , mà chả không rượu vang 🥰
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/3787cdb653ea2e56313f3b84d6faa403~c5_100x100.jpg?x-expires=1693555200&x-signature=4iQ8gnpGqWi18ULhgU1XQ0lP12w%3D
+author_link=https://www.tiktok.com/@sataradjidji
+author=Satara Điđi
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:32
+id=7256693354451501829
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=A hưng vô tội mình nghĩ thế
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7142972014964244506~c5_100x100.jpg?x-expires=1693555200&x-signature=MwV%2FFCs19wOqvss2ZN1aDl2XkuE%3D
+author_link=https://www.tiktok.com/@danphong981
+author=danphong981
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:32
+id=7256688413536371462
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Đã bảo là riệu vang cong cứ hỏi kkkk
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/4be1de6367dd77714aa75b1b38a2de2b.jpg?x-expires=1693555200&x-signature=ZUF7ESpol0dI7cCd4uP50W7Took%3D
+author_link=https://www.tiktok.com/@bonnguyen270
+author=Đời bạc
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:33
+id=7256685130717889285
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=Tào tháo nói " không cần biết sai hay đúng nhưng đã chối thì phải chối đến chết
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fcf99d43b806d013af245b6d9c70c0cf~c5_100x100.jpg?x-expires=1693555200&x-signature=wM8atvRmFzKe8fcxD27x9GZ7h0c%3D
+author_link=https://www.tiktok.com/@user1922jrbz3o
+author=ㅤ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:33
+id=7256681510173360902
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=On gioi! Chac moi chuyen se on het thoi!
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/74ad07e2c5369c37138d4f80069410ef~c5_100x100.jpg?x-expires=1693555200&x-signature=snMehkRFdPo%2FoJtqPJFti6v2MhU%3D
+author_link=https://www.tiktok.com/@simone10119
+author=Simon - Mars
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:33
+id=7256673847045702406
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lời khai rất nhẹ nhàng,
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1641127111481346.jpg?x-expires=1693555200&x-signature=u0iQg948VRJlj9HDx4XQiNg2BsY%3D
+author_link=https://www.tiktok.com/@user168729545010150
+author=khi nào có ny thì để tên thật
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:33
+id=7256673809083646725
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Cặp nào đựng 4 chai rượu vang ???
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b4eb721f5ce3a3d46a984e932741085~c5_100x100.jpg?x-expires=1693555200&x-signature=wgu4sXygswkIRQmdfYAZTd6FKsg%3D
+author_link=https://www.tiktok.com/@xuhao93hp
+author=Xu hào
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:33
+id=7256659746009678597
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lương Lẹo vì có kính nghiệm
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8df388debf3ec140d85b5676f7fc8d4~c5_100x100.jpg?x-expires=1693555200&x-signature=UZns10IT4sUXJe3aC8Mpl6Jbwps%3D
+author_link=https://www.tiktok.com/@userc90heuhibn
+author=kẻ làng thang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:34
+id=7256657167213331206
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tăng Tội Vu Không cho Ông Phó 🤣
+created_time=2023-07-17 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ee37707232a734de5ab55c46d78c49e8.jpg?x-expires=1693555200&x-signature=ga1qWeKv%2Fbn9uko8eXSsAhnPDGY%3D
+author_link=https://www.tiktok.com/@xenangmrnam
+author=Xe nâng Mr Nam
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:34
+id=7256657108786660102
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu Vang😂😂😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@0989ltl
+author=0989ltl
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:34
+id=7256652088879694598
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tiếp đi bạn
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7d039a4f9f83b3c0345a797ae89a3b70~c5_100x100.jpg?x-expires=1693555200&x-signature=Pj3gUdBG27iNUK0GuAbNOv%2BXrfI%3D
+author_link=https://www.tiktok.com/@user4zqzssy3mc
+author=vô thường
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:34
+id=7256649850615120645
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Gửi sang ng khác hết rồi🤣🤣
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7f21080838982aac81c46b38b1d3ab5d.jpg?x-expires=1693555200&x-signature=mEcyeC%2FijjZUAKLYQp6NODBsbCY%3D
+author_link=https://www.tiktok.com/@sailormoom16
+author=user9595651120484
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:34
+id=7256649773137871622
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=người kanh với người kanh nói còn không hiểu
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/838a256463b3bacdb8015a277400cfb3.jpg?x-expires=1693555200&x-signature=mQnfGGEj6yqeXGs6usPGZdEmykY%3D
+author_link=https://www.tiktok.com/@kheevlam51
+author=kheevlam
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:35
+id=7256645661998826246
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=phản biện chắc chắn quá
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7235098836376420357~c5_100x100.jpg?x-expires=1693555200&x-signature=%2BmtD2JTIXxDLgefz4aDQ3EqXKiw%3D
+author_link=https://www.tiktok.com/@mtnhcabinbo
+author=mtnhcabinbo
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:35
+id=7256642587657749253
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bị ốm uống rượu vang ak. Quà vãi nhỉ
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5f86c92ec40050090f8e081f2f86454d.jpg?x-expires=1693555200&x-signature=2rFuct1dVAwX9Yb%2BkxcBTxt3298%3D
+author_link=https://www.tiktok.com/@hotelmaivila
+author=❤Hồ Hưng❤
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:35
+id=7256642604807602950
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ông lái xe lấy rồi😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/44b5f9099332c875c33af2b54692c60b~c5_100x100.jpg?x-expires=1693555200&x-signature=w5l3CzFmT808PibghyrT3gfb6Lo%3D
+author_link=https://www.tiktok.com/@thithuythu
+author=Hibye
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:35
+id=7256633935038513925
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=dạ vâng ngoan thế
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/db31ee034d9410698f20ef02664b68bb~c5_100x100.jpg?x-expires=1693555200&x-signature=9SFMA6hWSKmkBtkABOVWCFwK6xo%3D
+author_link=https://www.tiktok.com/@dong_cam_cong_kho
+author=Nhật Thiên
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:35
+id=7256632631005053702
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=tôi vẫn tin chú hưng
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7239286432182435845~c5_100x100.jpg?x-expires=1693555200&x-signature=GjMYSxsp3JjgcRuXNxizLU%2FLOvs%3D
+author_link=https://www.tiktok.com/@thanh.mai071
+author=Thanh mai
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:36
+id=7256629234541118214
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Đúng là nhà nước thì tiền đô la chứ k tài khoản nha😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ddfe375e8370dd12f5373638a817d0cb~c5_100x100.jpg?x-expires=1693555200&x-signature=mNKHrCGNS8nrEvoq%2FNj3NlcVqg8%3D
+author_link=https://www.tiktok.com/@user5729653315518
+author=Thu phương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:36
+id=7256626266768851717
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vang trị giá vài tỏi và mệnh giá gióng như tiền
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/43dc41fdc8ba06d82022d33af4d21950~c5_100x100.jpg?x-expires=1693555200&x-signature=DLEum3EU0aDSlAL5GJgqc5gVAig%3D
+author_link=https://www.tiktok.com/@therio2303
+author=Nhà Máy Tôn Phước Lộc
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:36
+id=7256625534271931142
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Vậy là ông này ngta biết ổng nghiện rượu nên ngta tặng
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9d008e18ac4212737eae285c66ed97ec~c5_100x100.jpg?x-expires=1693555200&x-signature=kyeej%2BD0m0o5%2BPpZpII4HPFOco0%3D
+author_link=https://www.tiktok.com/@user2s36p7mii0
+author=Anh Bảy
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:36
+id=7256623071971902214
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=đứng trc vành móng ngựa no dạ thay thương
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1652445022972930.jpg?x-expires=1693555200&x-signature=1h5fFeuj3BLgg85ccYp6ZFKVVWg%3D
+author_link=https://www.tiktok.com/@user7768870351210
+author=Ngộ Đạo
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:36
+id=7256622999545627397
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=dạ là 4 chai rượu vangggggg ạ😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/dc106e002d82930bd4101600b8611c74~c5_100x100.jpg?x-expires=1693555200&x-signature=datCA8odsGiY4wiwthQcIZsfG%2Bk%3D
+author_link=https://www.tiktok.com/@vanthuantran_1994
+author=BeBay
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256616537897304838
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu vang để trong cặp 😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1656718283853825.jpg?x-expires=1693555200&x-signature=FSt0Z2a7CweAPQLlmlUZrXZqctc%3D
+author_link=https://www.tiktok.com/@user24241779854373
+author=Linh vũ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256615566504887046
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ong này khôn vd
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1656718283853825.jpg?x-expires=1693555200&x-signature=FSt0Z2a7CweAPQLlmlUZrXZqctc%3D
+author_link=https://www.tiktok.com/@user24241779854373
+author=Linh vũ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256615282838995717
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tính hết rồi. Cả kể có đi tù thì bảo toàn 2t6$ đi tù vẫn làm vua 😂 sau ra tù vẫn là vua
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a259112c763c5fcf783249a2609120c~c5_100x100.jpg?x-expires=1693555200&x-signature=vX9Qdma7hZ%2Bo3uC%2FqXfaZUbzkfs%3D
+author_link=https://www.tiktok.com/@cachepomdua558899
+author=CaChepOmDua558899
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256613833279210245
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=sao j da vang ngoan vay
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@user1823360561009
+author=bokinhvan
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256609285315314438
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Người giỏi
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/4e20e4699c72562789eb20fa6fab8d38~c5_100x100.jpg?x-expires=1693555200&x-signature=Bp84rQuglzdT5K%2BqHfoK9mGfbp8%3D
+author_link=https://www.tiktok.com/@ngoclien868
+author=Ngọc Liên
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:37
+id=7256606566581158662
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=vô lý diệu vang sao lại đựng vào cặp 😃😃😃
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5f3c4585a72b4ac4a59679e6e91932be~c5_100x100.jpg?x-expires=1693555200&x-signature=QJXZ0iyzbvPbBrNAr6%2Fv7EeB9PU%3D
+author_link=https://www.tiktok.com/@thanhnguyenvan835
+author=Thanh Nguyen Van7056
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:38
+id=7256604080096133894
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vang để trong cặp 😁😁
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/049ccd2e3f3b6087cc36c4046a72140b~c5_100x100.jpg?x-expires=1693555200&x-signature=AafhoVgtbJqkh0IEKxCBq%2FQaprg%3D
+author_link=https://www.tiktok.com/@minhhieu2611
+author=hieupersie
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:38
+id=7256599623732626182
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Vừa xem a Tuấn khai xong xem đén a này nói nghe buồn cừoi
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/507b0563edb4a956567c6ddc0be7e826~c5_100x100.jpg?x-expires=1693555200&x-signature=1gKcR0S%2B%2B3LzlnuLAU9XxwgTfUI%3D
+author_link=https://www.tiktok.com/@titanvang
+author=user3222322888943
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:38
+id=7256598571977097990
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Nghi jo minh nen tin ai
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7193144131147792410~c5_100x100.jpg?x-expires=1693555200&x-signature=W%2FdRKG44EmWW864syJpYQGCQkN8%3D
+author_link=https://www.tiktok.com/@hngnguyn1725
+author=shophuongnguyen
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:38
+id=7256594081257702150
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=T không tin 4 trai rượu vang mà chạy được and đâu😂😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/29eefcad08aba86749864f610b3e97da~c5_100x100.jpg?x-expires=1693555200&x-signature=dWHtK0dnmt3n6RVaox9bawu88mo%3D
+author_link=https://www.tiktok.com/@long_dragon_
+author=Long Nguyễn
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:38
+id=7256592614361793286
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu vang ạ. Dạ, rượu vang ạ 😂😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8009fe4caee2eaa36782fd83d2c10a34~c5_100x100.jpg?x-expires=1693555200&x-signature=Xe%2B8WnMg7%2Bnrc28Nn%2BLZdV113dI%3D
+author_link=https://www.tiktok.com/@huubang_37
+author=Hữu Bằng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:39
+id=7256587592060470021
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=😂😂 ốm gửi rượu vang là khỏi rồi
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7e3fe97e06e0995f43917ee4a09b6e2f.jpg?x-expires=1693555200&x-signature=qEZFtCh0LM8%2F3tkWkfzPs0zAgXI%3D
+author_link=https://www.tiktok.com/@nghiencie
+author=MỜ U (mu)❤️
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:39
+id=7256587468140233478
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lại sắp có phim đại án chuyến bay giải cứu rồi ,biên kịch đang viết kịch bản ,nhưng hướng đi của Hưng đẳng cấp quá ,
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/16cb823f3c57a961cea467e62e9860f6~c5_100x100.jpg?x-expires=1693555200&x-signature=wS%2Fw91Hg04%2Fuxb46T6byiXwoOJY%3D
+author_link=https://www.tiktok.com/@user6b8zx0e8c0
+author=chuyên bếp từ nhập khẩu
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:39
+id=7256585034764026629
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Vụ này mà xử k đc . Nhân dân mất lòng tin
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3e8b1205d25a0ef4297eb54188c94c4~c5_100x100.jpg?x-expires=1693555200&x-signature=cYw8UyGY1r7pRannLsKRJMBY6ZU%3D
+author_link=https://www.tiktok.com/@lemanh9398
+author=Lê Mạnh 98
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:39
+id=7256577640210760453
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Bị cáo có ạ :))) nghe ngọt xớt.
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1653844295421953.jpg?x-expires=1693555200&x-signature=HNedqeZgT4vTZrCrYbhFyDo7vJM%3D
+author_link=https://www.tiktok.com/@25251325u
+author=ToUyen
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:39
+id=7256577300219659014
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu vang trị giá 700 nghìn đô la mỹ😁
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/22bb0978e81843f009fb883227a8075f.jpg?x-expires=1693555200&x-signature=CzuwxNuAgZT7%2BCa45zQ31qubJwE%3D
+author_link=https://www.tiktok.com/@haccuong2408
+author=🇰🇷 𝐇𝐚̆́𝐜 𝐂𝐮̛𝐨̛𝐧𝐠 🎶
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:40
+id=7256572820360069889
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=may sao bắt dk nó trog vụ này k lại khổ dân .
+created_time=2023-07-17 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ec3c881120866fb390362f6fd809232f.jpg?x-expires=1693555200&x-signature=czg1uuw1OnHb1yir2c9jQBbDcQk%3D
+author_link=https://www.tiktok.com/@saitama.japan
+author=joker
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:40
+id=7256554131426738945
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tiền đó đi lo trà nước ở trên ròi😂😂😂😂
+created_time=2023-07-17 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/666329076aee6759f4d634cf2c42a1d9.jpg?x-expires=1693555200&x-signature=PGK%2FTwdevCcH9QyLlEeoKmhUtCw%3D
+author_link=https://www.tiktok.com/@tangiatien24
+author=Tăng Gia Tiến
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:40
+id=7256524655027110658
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Em hâm mộ anh hưng lắm ạ
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0df763724dda65adebbf54b819ed5105.jpg?x-expires=1693555200&x-signature=5bsBU%2B4%2FPr4ogFXeFwFoBzD3F5Y%3D
+author_link=https://www.tiktok.com/@vo.thi.my.hanh2k
+author=Võ thị mỹ Hạnh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:40
+id=7256486877858333446
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=sắp tới e bán cặp đựng rượu vang ac ủng hộ a🥰
+created_time=2023-07-17 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ea1adf4c1a95143659cf53cbb4038060~c5_100x100.jpg?x-expires=1693555200&x-signature=g%2BgUoajzh2jYSJDHKcWDC9oBoJ4%3D
+author_link=https://www.tiktok.com/@tritram2304
+author=tritram2304
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:40
+id=7256474842362561286
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Tin a vô tội. Ko thì phí một người tài
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7a905d11ce68dd21b70a9d6bc4cee302~c5_100x100.jpg?x-expires=1693555200&x-signature=wMiyyXasXuu635Q9Uk84mY%2FyIWA%3D
+author_link=https://www.tiktok.com/@buitikbumvw
+author=buitikbumvw
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:41
+id=7256460931453207301
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Theo lý mà nói - không thể bắt tội Hưng được - Cao thủ
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/a7ef60a2505225c1cf4281d6059da686~c5_100x100.jpg?x-expires=1693555200&x-signature=p3cDQZFdO7CK3oRIzqRcziMPxQs%3D
+author_link=https://www.tiktok.com/@bq130912
+author=Lê Minh Thuỵ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:41
+id=7256456547888087814
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu vang để trong vali?mỗi chai rượu ghi 1tr usd như phim ainh tử à?
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/727a19fd9431f317983d32606e9ca7e4~c5_100x100.jpg?x-expires=1693555200&x-signature=7jGisarICzwWrRRp%2FlIoa3iFhVY%3D
+author_link=https://www.tiktok.com/@trongtuanle1985
+author=LÀY CHỐNG CHUYN 1985
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:41
+id=7256447894641754886
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Vn dân giàu mang quốc tịch nước người hết rồi 🥺 buồn quá vn ơi
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/25e3b99c3bf79cc2b686c8a78339d35b~c5_100x100.jpg?x-expires=1693555200&x-signature=EKgd4nCaSUj0RQQ4rqsOk47G%2FKc%3D
+author_link=https://www.tiktok.com/@k22061991
+author=Thu Lan
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:41
+id=7256447072857441029
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Vn làm gì cũng có quà
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/25e3b99c3bf79cc2b686c8a78339d35b~c5_100x100.jpg?x-expires=1693555200&x-signature=EKgd4nCaSUj0RQQ4rqsOk47G%2FKc%3D
+author_link=https://www.tiktok.com/@k22061991
+author=Thu Lan
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:41
+id=7256446783964939013
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Giọng nịnh thần
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7039365878017851393.jpg?x-expires=1693555200&x-signature=yKdkXE2oMqnRVwBcBXmP2M95axY%3D
+author_link=https://www.tiktok.com/@mancity99912
+author=Mancity1999
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:42
+id=7256446723098002177
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=T nghi bị gài
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7166860024379015173~c5_100x100.jpg?x-expires=1693555200&x-signature=LGdlRmdcejVsmfG5vjiboqoSalE%3D
+author_link=https://www.tiktok.com/@gicungduoc173
+author=BOXĐÚTREN2005
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:42
+id=7256444632112595717
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ji chứ mìn tin ông này... vì ông GIỎI
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6891934457415073798.jpg?x-expires=1693555200&x-signature=YWnCBPtB%2BTshoKAKMsdrpQIlbgc%3D
+author_link=https://www.tiktok.com/@user155122074
+author=Billy Trần966
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:42
+id=7256443589096702725
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bị cáo chưa nhận 1 khoản tiền nào từ a Tuấn cho chuyển cho bị cáo 😂😂😂
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/57a8adaf31d62e6a40b6cba17fe1660e~c5_100x100.jpg?x-expires=1693555200&x-signature=Rx0Ud0J0AiXkzKsjgWSfq%2BHwQEA%3D
+author_link=https://www.tiktok.com/@user7543473521155
+author=讲话练口语
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:42
+id=7256431078112559878
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Mà sao bên vks trc khi ra toà ko đủ chứng cứ đem ra xét xử gì lạ v,khéo làm trò cười cho thiên hạ
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1665388340859906.jpg?x-expires=1693555200&x-signature=oFk47pSxmylnkv64Qsd3UIhrAh8%3D
+author_link=https://www.tiktok.com/@thientranle1
+author=Thien Tran Le
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:43
+id=7256412300092146437
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Yêu em ❤️
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1676415234659333~c5_100x100.jpg?x-expires=1693555200&x-signature=9fLg9QJLKAgQ0E7aYjK%2F3zSiSC8%3D
+author_link=https://www.tiktok.com/@giatong0
+author=Gia Tong
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:43
+id=7256421380571464454
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Sao k bảo tặng rượu cho ai
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/68b054b268c73c785cc9ceaeeb8adbc7~c5_100x100.jpg?x-expires=1693555200&x-signature=0qsMxB%2BblNFBxulMpSNrunY379o%3D
+author_link=https://www.tiktok.com/@lunkutee
+author=Người Vận Chuyển 🌚
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:43
+id=7256415065082921733
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Mấu chốt là ở cái cặp vs 4 chai rượu đang ở đâu 😅
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/766b430a8a59897d866eca313a6ba618~c5_100x100.jpg?x-expires=1693555200&x-signature=qmoXqHKMVsqOF3g8SaiTC%2F%2BvSAA%3D
+author_link=https://www.tiktok.com/@pdt16121999
+author=Tuấn phạm
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:43
+id=7256412047348548357
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=mới bị đau xong tặng rựi vang làm gì ông
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/f9002f0492213e85b85d4023de83de57~c5_100x100.jpg?x-expires=1693555200&x-signature=xZLCihdkdT7EJf5QwbuLGQ0mqs0%3D
+author_link=https://www.tiktok.com/@xule1984
+author=xù lê
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:43
+id=7256411736944608006
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=rượu vang cũng dăn bẩy loại
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/49ff15f0e1d881f1e18a1b1b0881a7f7~c5_100x100.jpg?x-expires=1693555200&x-signature=%2BSWLHDTqWtvWTF07RlDQH4fPB4Q%3D
+author_link=https://www.tiktok.com/@ng.d8
+author=Đức Sửa Giầy Dép Tận Tâm
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:44
+id=7256405273924993797
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ko tự nhiên mà nhận tiền đô và giao tay đâu 😅😅😅
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2e3f6da689758077e505cb33fdc1136d.jpg?x-expires=1693555200&x-signature=I4Lvl3aCb%2FovZrLqs7HXC1yqYDU%3D
+author_link=https://www.tiktok.com/@namhaidl
+author=Nt
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:44
+id=7256400381126361857
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Ông H lách quả này khéo thật
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/000a4120796bf108eef498bea5ca766d~c5_100x100.jpg?x-expires=1693555200&x-signature=g8UR3Mh8q5u8l5Z86NphET7V5Hk%3D
+author_link=https://www.tiktok.com/@quocthuong60b2
+author=Quốc Thương 60B2
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:44
+id=7256390541720683270
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Không nhớ cái cặp để đâu. Hảo hán
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1672073334141954.jpg?x-expires=1693555200&x-signature=vQ2K%2Fs5FadAcWPWzsm4bav1bk98%3D
+author_link=https://www.tiktok.com/@thanhhaisan
+author=Chau Thanh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:44
+id=7256388643777856262
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=giọng nhẹ như rượu vang vậy thôi Hưng ạ
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/fcbb9b3815583362e9c7a503fc4aa2c0~c5_100x100.jpg?x-expires=1693555200&x-signature=G4XGR84YoFdViBXF%2B9B34QaAzVc%3D
+author_link=https://www.tiktok.com/@ngoc_ngo_99
+author=NGỌC NGÔ '99
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:44
+id=7256386462438163205
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Trả lời nét quá
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/de9415388e6579934545f51f85066810~c5_100x100.jpg?x-expires=1693555200&x-signature=NkhRE2P6MRfx7QzSIuJRwodt7Lk%3D
+author_link=https://www.tiktok.com/@hoanglaoshu
+author=@Wanglaoshu
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:45
+id=7256372770991735558
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=cặp đựng riệu vang. ngân hàng nhận gửi riệu.😁
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1afed9fc78bd64a71a9508bcf30640cb.jpg?x-expires=1693555200&x-signature=aeK4reNHB1uEJBswaYjVo%2FGfYxw%3D
+author_link=https://www.tiktok.com/@thangnguyenvan67
+author=Thang Nguyen Van
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:45
+id=7256372005762401026
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bây jo 4 chai rượu đâu
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7204659787928174618~c5_100x100.jpg?x-expires=1693555200&x-signature=Yf%2BXdZH6LvLFp0dOOe64wPHr%2BR8%3D
+author_link=https://www.tiktok.com/@viet.hung0801
+author=Viet Hung0801
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:45
+id=7256358260470924038
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=phải trả lại cho những người bị hại mới đúng chứ
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6968439464905900033.jpg?x-expires=1693555200&x-signature=MaasMzFpExNNDYYdunmh40jR9eA%3D
+author_link=https://www.tiktok.com/@dytsvd41cbg6
+author=Trần Văn Trinh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:45
+id=7256340321847198470
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=vậy 4 chai rượu vang đó bây giờ ở đâu? 😂
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/addb304b460ece591b63ec4d9da1f99e~c5_100x100.jpg?x-expires=1693555200&x-signature=459a28LRIXdTy64d7AaCrvKxEI8%3D
+author_link=https://www.tiktok.com/@thiennguyenthi313
+author=ANNA TRAN Phun xăm - spa
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:45
+id=7256328537391579910
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Cặp gì đựng được 4 chai rượu nhỉ. Em chưa hình dùng được cái cặp đó như thế nào
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e335985befeca85ce3432a1107b8ab2~c5_100x100.jpg?x-expires=1693555200&x-signature=1VS%2BiYd4SZdHn9fm44JliksMNoc%3D
+author_link=https://www.tiktok.com/@hoa_uu_dam2023
+author=Bà Nội đây
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:46
+id=7256315597960643333
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ông này rất tỉnh mà ra trước tòa tỉnh táo là lợi thế
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/407dbeb3aacd879f472a4024484ca10d~c5_100x100.jpg?x-expires=1693555200&x-signature=f81nvSt43jXle4KGwYvDBEvKU64%3D
+author_link=https://www.tiktok.com/@user7855946829591
+author=Mùa hoa cải ven sông.
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:46
+id=7256310277133861637
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=táo quân năm nay sẽ có vqli vq 4 trai rượu nho😅
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/e6241dda9e55e4ed8ae5cdc7e23b26ec~c5_100x100.jpg?x-expires=1693555200&x-signature=U80HIxocOl4G%2FZ7NShFeW35ZHFM%3D
+author_link=https://www.tiktok.com/@hocasanvuon92
+author=Tiểu Cảnh Hồ Cá Koi
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:46
+id=7256309797736940294
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lưới trời lồng lộng,
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7203674951172718619~c5_100x100.jpg?x-expires=1693555200&x-signature=1Rcea6%2B2yaKl7150OACnRhbSNuU%3D
+author_link=https://www.tiktok.com/@trngtin35
+author=Trương P Tiến
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:46
+id=7256293729375879941
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Mình tin ông này
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d359a46985f3efebc886872288e4f1ea~c5_100x100.jpg?x-expires=1693555200&x-signature=C4NKM%2BizNGwZb67yUJtX79eSSMY%3D
+author_link=https://www.tiktok.com/@mai.phuong39
+author=tomorrow
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:46
+id=7256287526594937606
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=tại sao đang bệnh mà tặng rượu chứ
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/3d5843674aa79075252aa785e0e37506~c5_100x100.jpg?x-expires=1693555200&x-signature=N3G3UST2rOLQBcYBDhxqsmUdZ1M%3D
+author_link=https://www.tiktok.com/@phucnguyen19913
+author=Nguyễn Văn Phúc
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:47
+id=7256284960310625025
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Khả năng thoát tội cao
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/97dab531279dd45f3ad2dd937586ea0a~c5_100x100.jpg?x-expires=1693555200&x-signature=QUCgWhMQDKpOWJ9l4OapP7fL6G0%3D
+author_link=https://www.tiktok.com/@dungmanhtran2232
+author=Ngày Mai Tươi Sáng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:47
+id=7256277414938395397
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Toà muốn buộc tội thì chứng minh đi 😂😂😂😂
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/20768463ff40edae7737e51b8b49a634~c5_100x100.jpg?x-expires=1693555200&x-signature=LbgPsUh28UUXwoEYvBdIRhbWi6E%3D
+author_link=https://www.tiktok.com/@quynhanh2819
+author=Hoàn Lê Đình
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:47
+id=7256270776956470022
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Như này chắc phải cỡ bao công ms điều tra kết luận đk kk
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d997496cee280fce394519473b7b599a.jpg?x-expires=1693555200&x-signature=wZy5WdPe7HvnNZL8iZBt5XEEUKg%3D
+author_link=https://www.tiktok.com/@zhangqq8
+author=Zhang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:47
+id=7256235673383142150
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=2
+content=Rượu vang gì mà để trong cặp số😂😂
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08cef1f0bde616acf02ee055df2bcdc3~c5_100x100.jpg?x-expires=1693555200&x-signature=Y1wsGl2AsVf6biaaLEQUhoFUU0c%3D
+author_link=https://www.tiktok.com/@phamminh81079
+author=Minhpham
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:47
+id=7256229063970210566
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 trai nhưng đựng hẳn trong vali
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7082798135278403586.jpg?x-expires=1693555200&x-signature=mbxllez67K7uX9lS8Ha6Qlsjl%2Bo%3D
+author_link=https://www.tiktok.com/@dinhmenh225
+author=định mệnh225
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:48
+id=7256228665800098565
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=3
+content=lời nói dối ngang ngược trước tòa
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/da6e0158c4ab765ccd0b59813a912ded~c5_100x100.jpg?x-expires=1693555200&x-signature=GeVAEqqHdoFy%2BDbrNvX6n%2FbxLHE%3D
+author_link=https://www.tiktok.com/@solo_bolero
+author=SOLO_BOLERO
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:48
+id=7256214602286383877
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=3
+content=trước khi khai trong đầu nó đã nhảy số hết rồi
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/4e6636f1ee29e8918cc89d82eca7ac5a~c5_100x100.jpg?x-expires=1693555200&x-signature=aZDskzEnLqHAtIcvbLxIVwveVbU%3D
+author_link=https://www.tiktok.com/@tranhoanglap9494
+author=tranhoanglap94
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:48
+id=7256208978467848966
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=đừng đùa ĐTV
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a6cd7f5292aeb7fd94004259c90a65ba~c5_100x100.jpg?x-expires=1693555200&x-signature=jNs4IZgkTUoeEx%2F4p1UzJITuHR8%3D
+author_link=https://www.tiktok.com/@mt_florence
+author=Florence
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:48
+id=7256146294649078534
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=e tin a…4 chai van dalas mà cứ ép buộc ta nhận triệu đô 😂😂😂
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1652078509229058.jpg?x-expires=1693555200&x-signature=ouC5Mi%2FaiHCqx8o%2BOsiL%2BISrLQc%3D
+author_link=https://www.tiktok.com/@user3381647595360
+author=user3381647595360
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:49
+id=7256119394530951941
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=rượu loại gì ko hỏi...chai như nào,nó bây giờ ở đâu...
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@phalangphaxom25
+author=phalangphaxom
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:49
+id=7256102809866486533
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Chỉ. Có. Tiên. Đô.
+created_time=2023-07-16 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7059015178213392410.jpg?x-expires=1693555200&x-signature=foUaQUATsH3Mn%2BsOi2PClS4JaEM%3D
+author_link=https://www.tiktok.com/@dyxnk71uww5g
+author=Vân Vũ9181
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:49
+id=7256099608295097093
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=mua rượu r kkkk
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a4cff46ca9c890ecc5daa08979af50a4~c5_100x100.jpg?x-expires=1693555200&x-signature=Ss2x7rs0W4l5FUTaGywX8T8Teic%3D
+author_link=https://www.tiktok.com/@traiquangninh91
+author=traiquangninh91
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:49
+id=7256090896965763845
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=4 chai rượu để in bag ?????
+created_time=2023-07-15 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6954896445778427905.jpg?x-expires=1693555200&x-signature=Nn7kxF0RXTu0P5oPoffuK61NcX4%3D
+author_link=https://www.tiktok.com/@builinh8287
+author=builinh8287
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:50
+id=7256064049955439365
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=Giọng thảo mai thế nhờ😂 thao túng tâm lí thặc
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/41a1391cf89cdb3d4dfbd4e7dbac20dd.jpg?x-expires=1693555200&x-signature=8h%2FlYmLu5jsVeyahiqScaCIi1FY%3D
+author_link=https://www.tiktok.com/@tduong_luu
+author=Dương Dương
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:50
+id=7256049679280325382
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Lưới trời lồng lộng thôi🥰🥰🥰
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7cccc2f9a79d20ac90e582aa5c42db7a.jpg?x-expires=1693555200&x-signature=9XFC4smUueRKu%2BjbbfBBE6DyQvY%3D
+author_link=https://www.tiktok.com/@lephong0211
+author=Phong Tài xế 🌈🌈
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:50
+id=7256034601092383494
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Càng xem càng buồn.
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/827c6b1f757917d9fd0ee9ab23eb711e~c5_100x100.jpg?x-expires=1693555200&x-signature=4sNGJ7jwY%2FvoGP0Jb%2F1Fk20criI%3D
+author_link=https://www.tiktok.com/@nguyenbaochau1905
+author=Mưa mùa hạ
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:50
+id=7256011512707187461
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ai đi tặng rượu vang bằng Cặp Ca táp
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76b99dc1c68aa4dc95818f6f047fd5c5~c5_100x100.jpg?x-expires=1693555200&x-signature=9iTMOL52TFrB9EiJeX34FrpeWKY%3D
+author_link=https://www.tiktok.com/@user7236627310123
+author=Huyphilipsshop
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:51
+id=7256007008503268101
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=giọng bị cáo nghe cưng thế nhỉ 😂😂😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/774e31ee649702341682f556f8e701ca.jpg?x-expires=1693555200&x-signature=DlINE%2Bbn2wj0trXPZ2vpTmcLtqA%3D
+author_link=https://www.tiktok.com/@khangle429
+author=Lê Khang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:51
+id=7255993679756133126
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=quà luôn đi liền với phong bì😅
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7221417933963001883~c5_100x100.jpg?x-expires=1693555200&x-signature=BTiycmETWcP%2Bin5qZ8Uni%2Fe7BgM%3D
+author_link=https://www.tiktok.com/@hctpomm
+author=Kim Oanh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:51
+id=7255982001882710790
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lý do nhận tiền là gì😂.
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b5699425000cfd846781b29d84b0a8b3~c5_100x100.jpg?x-expires=1693555200&x-signature=FrZ0BSij2mBGEUl66mpFmTCgKo8%3D
+author_link=https://www.tiktok.com/@hphuong990
+author=Phạm Hoàng Phượng
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:51
+id=7255981063595705094
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu vang loại nào 😅
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e7455ffabdf2af7edd14b58a2a1c3273~c5_100x100.jpg?x-expires=1693555200&x-signature=BjyVZv8Imxcwn2VY5Y8F7zUIWQY%3D
+author_link=https://www.tiktok.com/@vannguyen15037
+author=Nguyễn Vân
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:51
+id=7255958255914189573
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=có mỗi 4 chai rượi vang mà hỏi kỹ thế
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76a2a533b25d614f8ab1478f6a37b646~c5_100x100.jpg?x-expires=1693555200&x-signature=bamp4f16pA5wdD5oRrKqO0ekZxw%3D
+author_link=https://www.tiktok.com/@userpnyslfa5cn
+author=shop thời trang
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:52
+id=7255950325784724230
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ranh mãnh
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0c661e69f612f107195025af89ec69d0.jpg?x-expires=1693555200&x-signature=aEWD%2Fk%2BxFTum7hbwUY8Vckut9u4%3D
+author_link=https://www.tiktok.com/@domcocoo
+author=Đom Dừa
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:52
+id=7255949024292045573
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=các ông bắt nó tìm đc 4 trai diệu đó tôi cho nghìn tỷ
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/efb2742d9931f64212b9a786c0bf9670~c5_100x100.jpg?x-expires=1693555200&x-signature=fILVy89kmFK4G1OKBZYfg2NlSAU%3D
+author_link=https://www.tiktok.com/@vanyen_biker
+author=zàng A lúa motor biker
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:52
+id=7255944621493191429
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=H tiền chả biết làm thế nào để tìm ra, hóng vụ này quá
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/366e79e3c132f3d1c5996b37643268ef~c5_100x100.jpg?x-expires=1693555200&x-signature=xpliZhltf%2BZFciGzowRm2kwiLA0%3D
+author_link=https://www.tiktok.com/@vantieusau1
+author=Trường Thế :))
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:52
+id=7255942448680076037
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tặng rượu vang mà để trong cặp 😂😂😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6bec5e97f77f7a4dcb7178efa9dbe612~c5_100x100.jpg?x-expires=1693555200&x-signature=ljaZb41IwYs%2BXqEgbUzwLM%2FDyE0%3D
+author_link=https://www.tiktok.com/@ka_ka_89
+author=Ka Ka
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:52
+id=7255940762792313605
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Gần 50tỷ thôi
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0325191ceef3ce6d518fdfa6f8043af0~c5_100x100.jpg?x-expires=1693555200&x-signature=ddOfR9y7CTzflgIb7ESBbI0fKT8%3D
+author_link=https://www.tiktok.com/@cao2001
+author=Ngô Văn Cao
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:53
+id=7255935671745938178
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu này là Hưng tính trước để đối phó lúc ntn rồi.cao thủ
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1693555200&x-signature=5FTP2d%2FNE1ZbB5GzCtcmkkskgvs%3D
+author_link=https://www.tiktok.com/@elkanen
+author=user3811945354230
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:53
+id=7255934424058692357
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=😅😅 rượu vang cho vào cặp
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/46a3aef986e0f604075a8320734f98ed~c5_100x100.jpg?x-expires=1693555200&x-signature=Qk%2BahpHq98oqnm2u6GHk0n%2FVS7w%3D
+author_link=https://www.tiktok.com/@dangthuantb
+author=ANHPHAT139SHOP
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:53
+id=7255932520491172613
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=2.600k usa xấp xỉ phải 60.000 tỏi không nhỉ?
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9d6e36c2fac5ba6e6de6f697570f13f3~c5_100x100.jpg?x-expires=1693555200&x-signature=5YgMxEKQKWya3PWAL%2BUulcdxbBs%3D
+author_link=https://www.tiktok.com/@lee_anh29
+author=Tuấn Anh ông chú 3x
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:53
+id=7255926888694104837
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bác trọng xem và yêu luôn😂😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10770fa39ab196f96f20609578f16640~c5_100x100.jpg?x-expires=1693555200&x-signature=qq5YY8IIpeZbQzAzG1P6OddOsz4%3D
+author_link=https://www.tiktok.com/@trng.bc7
+author=Trọng Bắc
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:53
+id=7255924261066949382
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Thằng này ăn Hết mà k nhả kkk😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce883c1288676fc68da9ee3551ce6e53~c5_100x100.jpg?x-expires=1693555200&x-signature=DkPtvisjboQB4vgeJbHZ8f%2FqHkw%3D
+author_link=https://www.tiktok.com/@mrhiepland68
+author=Mr Hiệp Land
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:54
+id=7255922494262002437
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=1
+content=nghe tưởng giọng mấy ông đa cấp :))))
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f755776df916d2d457acd6a61cd19a99~c5_100x100.jpg?x-expires=1693555200&x-signature=ICabiaXdfKY8FrnJd5dA0FQzkWU%3D
+author_link=https://www.tiktok.com/@hanlihh
+author=Lihh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:54
+id=7255919025150542598
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Tội ông lái xe phải gánh rồi . 🥺🥺
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/1e621b82ac12173bfb695710bade3848~c5_100x100.jpg?x-expires=1693555200&x-signature=J2ovFL9U6fzuWSj%2FroqaYaxNt64%3D
+author_link=https://www.tiktok.com/@vubia1989
+author=Vu nguyen88
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:54
+id=7255918556486828805
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Bị cáo chưa nhận khoản tiền nào. Chỉ nhận đô la thôi
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5b9e9dc3798908c7eee9a8f472b32229.jpg?x-expires=1693555200&x-signature=S347H9Txdqzzcsudvg7WHmOst%2Fg%3D
+author_link=https://www.tiktok.com/@hoanganh8915
+author=Hoang Anh57196
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:54
+id=7255917363585516294
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=thế 4 chai rượu vang đó hiện giờ ở đâu ?
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d749a439cf411775ee264fab4d9b8dcf~c5_100x100.jpg?x-expires=1693555200&x-signature=QyXpaVD1egBS326CEeCqayJwJNQ%3D
+author_link=https://www.tiktok.com/@chaplincharlie6
+author=Chaplin Charlie
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:54
+id=7255911629183238918
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Lần đầu nge rượu vang mà bỏ vào valy cơ đấy, oan quá oan 😏😏😏
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1618290194893825.jpg?x-expires=1693555200&x-signature=Kf857r5y5eXPH5HU7rDYwlaVIgo%3D
+author_link=https://www.tiktok.com/@MS4wLjABAAAAWOCgtWvsZoUEWn2AFn_C2HT7rVJeCcEbCTsBoEIbr2iw3DA7VOUJ46bVkef0Ek0r
+author=Thanh Nguyen
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:55
+id=7255908647435272966
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Nghe giọng ông này dẻo quẹo luôn. Rất nhẹ nhàng 😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3d8c0cf8b9f1b7466cd6bd23d956f94a.jpg?x-expires=1693555200&x-signature=cHX9Q8t2wRsrYpIUdPWwpSgzyAI%3D
+author_link=https://www.tiktok.com/@kimnguyet189
+author=@ kim nguyệt
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:55
+id=7255897418242999045
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Rượu vang bỏ trong cặp vali. Nói đứa trẻ con nó cũng ko tin đc 😂😂😂
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d7049760437c6954fa5b2d4aa42c6e60.jpg?x-expires=1693555200&x-signature=NzDm%2BUP3muZ0qUdqWizY2%2Fftxb8%3D
+author_link=https://www.tiktok.com/@hoangjp37
+author=H O A N G
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:55
+id=7255896087265067781
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=phải như phim sinh tử ấy,đưa tiền quay lại video làm bằng chứng chứ nhỉ
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/508e9bf20876315b1911d0a6f384d746~c5_100x100.jpg?x-expires=1693555200&x-signature=1R6yXbWzHqG%2FC2O9e5EYUaqz210%3D
+author_link=https://www.tiktok.com/@huanbo88
+author=Huân Hóm Hỉnh
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:55
+id=7255894813345547014
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=2.650.000 đô. chứ k phải 2tr600
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1652368550288386.jpg?x-expires=1693555200&x-signature=i1NV2woqp3XyCfv7RBVTcD2eMQA%3D
+author_link=https://www.tiktok.com/@mr.tamwiuwiu
+author=Cưới được em đổi tên 💍
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:56
+id=7255892042352509702
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Ông Tuấn 1 ít, còn lại ông Hưng 1 ít, còn lại …bây giờ Ông Hưng khai nhận thì còn lại đưa cho ai, đó cũng là 1 tình huống.😅
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7153649052565897243~c5_100x100.jpg?x-expires=1693555200&x-signature=0WguynpF1LJewEK4pDj7hewQaKg%3D
+author_link=https://www.tiktok.com/@johnyiphone442
+author=johnyiphone442
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:56
+id=7255891319980606214
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=trưởng phòng điều tra còn bị bắt oan thì dân biết kêu ai
+created_time=2023-07-15 00:00:00
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1668578648288258.jpg?x-expires=1693555200&x-signature=RDrtCu3ILQ3CeF4Jh1drMgbH5Hw%3D
+author_link=https://www.tiktok.com/@anhtrang113
+author=Nam Hung
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:56
+id=7255890062671725318
+
+##################################################################################################################################################################################
+type=comment
+source_id=7255182131863784709
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=Buồn cười chết với 4 chai rượu vang
+created_time=2023-07-15 00:00:00
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6a70795505230c51801adb07f1d53c39~c5_100x100.jpg?x-expires=1693555200&x-signature=heVF2%2FQsVp8k6y7swv6b0s%2BUWFg%3D
+author_link=https://www.tiktok.com/@tocthom83
+author=Tóc Thơm322
+link=https://www.tiktok.com/@tinhmoto01/video/7255182131863784709
+time_crawl=2023-08-31 15:53:56
+id=7255888967655768838
+
+##################################################################################################################################################################################

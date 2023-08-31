@@ -44,7 +44,7 @@ class CrawlManage(object):
     
     def parse_keyword(self) -> List[str]:
         keyword_list_raw_dict = []
-        with open(self.config.keyword_path, "r") as f:
+        with open(self.config.keyword_path, "r", encoding='utf-8' ) as f:
             data = f.read()
             keyword_list_raw = json.loads(data)
             keyword_list_raw_dict = keyword_list_raw["keyword"]
@@ -65,6 +65,7 @@ class CrawlManage(object):
         return key, keyword_list
     
     def filter_post(self, content):
+        check = 0
         keywork, keyword_list = self.parse_keyword()
         keyword_list.append(keywork)
         for key in keyword_list:
@@ -73,13 +74,21 @@ class CrawlManage(object):
             key = unicodedata.normalize('NFKD', key).encode('ASCII', 'ignore').decode('utf-8')
             content = unicodedata.normalize('NFKD', content).encode('ASCII', 'ignore').decode('utf-8')
             if key in content:
-                return True
+                check = 1
+                break
             else:
                 hashtag = "#" + key.replace(" ", "")
                 if hashtag in content:
-                    return True
+                    check = 1
+                    break
                 else:
-                    return False
+                    continue
+        if check == 0:
+            return False
+        elif check == 1:
+            return True
+            
+        
     
     def check_login_div(self):
         print("Check login div")
@@ -144,7 +153,9 @@ class CrawlManage(object):
     def run(self):
         count = 000
         self.driver.get("https://www.tiktok.com/")
+        self.check_login_div()
         print("Start crawl")
+        time.sleep(3)
         link_list = self.get_link_list()
         for link in link_list:
             self.driver.get(link)
@@ -211,6 +222,7 @@ class CrawlManage(object):
     
     def scroll(self, xpath):
         vidList = []
+        time.sleep(2)
         try:
             Puzzle(self).check_captcha()
         except:
