@@ -35,7 +35,7 @@ def format_time(option):
         # Định dạng thời gian mới
     return new_time
 
-# Thử nghiệm hàm
-time_option = '22s ago'
-a = format_time(time_option)
-print(a)
+# # Thử nghiệm hàm
+# time_option = '22s ago'
+# a = format_time(time_option)
+# print(a)
