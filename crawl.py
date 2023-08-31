@@ -16,17 +16,18 @@ from post_tiktok_etractor import PostTikTokExtractor, PostCommentExtractor
 import unicodedata
 from utils.common_utils import CommonUtils
 import config
+import captcha
 # from utils.format_time import format_time
 
 options = webdriver.ChromeOptions()
-options.add_argument('--disable-blink-features=AutomationControlled')
+# options.add_argument('--disable-blink-features=AutomationControlled')
 options.add_argument("--start-maximized")
-options.add_argument('--disable-infobars')
+# options.add_argument('--disable-infobars')
 options.add_argument('--disable-notifications')
 options.add_argument('--disable-popup-blocking')
 options.add_argument('--disable-save-password-bubble')
 options.add_argument('--disable-translate')
-options.add_argument('--disable-web-security')
+# options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
 
 # driver = webdriver.Chrome(options=options)
@@ -88,8 +89,6 @@ class CrawlManage(object):
         elif check == 1:
             return True
             
-        
-    
     def check_login_div(self):
         print("Check login div")
         try:
@@ -98,8 +97,6 @@ class CrawlManage(object):
         except:
             print("No login div")
         
-    
-    
     def crawl_comment(self, link):
         def scroll_comment():
             cmts=[]
@@ -160,6 +157,7 @@ class CrawlManage(object):
         for link in link_list:
             self.driver.get(link)
             self.check_login_div()
+            captcha.check_captcha(self.driver)
             if self.option == 'search_post':
                 content = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
                 check = self.filter_post(content)
@@ -218,14 +216,11 @@ class CrawlManage(object):
             except Exception as e:
                 print(e)
 
-        
-            
-    
     def scroll(self, xpath):
         vidList = []
         time.sleep(2)
         try:
-            Puzzle(self).check_captcha()
+            captcha.check_captcha(self.driver)
         except:
             pass
         count = 1
@@ -249,13 +244,13 @@ class CrawlManage(object):
         print("Count of links: ", len(vidList))
         return vidList
         
-        
     def get_link_list(self) -> list:
         print('-------> GET LINK LIST <-------')
         vidList=[]
         keywork, keyword_list = self.parse_keyword()
         if self.option == "search_post":
             self.driver.get(self.config.search_post_tiktok + keywork)
+            # captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
         elif self.option == "search_user":
             self.driver.get(self.config.search_page_tiktok + self.config.user_id)
