@@ -34,8 +34,9 @@ options.add_argument('--disable-extensions')
 
 
 class CrawlManage(object):
-    XPATH_VIDEO_SEARCH = '//*[@class="tiktok-1soki6-DivItemContainerForSearch e19c29qe11"]'
-    XPATH_VIDEO_OTHER = '//*[@class="tiktok-x6y88p-DivItemContainerV2 e19c29qe9"]'
+    XPATH_VIDEO_SEARCH = '//*[contains(@class, "DivItemContainerForSearch")]'
+    XPATH_VIDEO_OTHER = '//*[contains(@class, "DivItemContainerV2")]'
+    # XPATH_VIDEO_OTHER = '//*[@class="tiktok-x6y88p-DivItemContainerV2 e19c29qe9"]'
     XPATH_VIDEO_USER ='//*[@data-e2e="user-post-item-desc"]' 
     
     def __init__(self, driver = webdriver.Chrome(options=options), config = config) -> None:
@@ -250,16 +251,19 @@ class CrawlManage(object):
         keywork, keyword_list = self.parse_keyword()
         if self.option == "search_post":
             self.driver.get(self.config.search_post_tiktok + keywork)
-            # captcha.check_captcha(self.driver)
+            captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
         elif self.option == "search_user":
             self.driver.get(self.config.search_page_tiktok + self.config.user_id)
+            captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_USER)
         elif self.option == "tag":
             self.driver.get(self.config.hashtag_tiktok + keywork)
+            captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
         elif self.option == "explore":
             self.driver.get(self.config.explore_tiktok)
+            captcha.check_captcha(self.driver)
             div = self.driver.find_elements(By.XPATH, '//*[@id="main-content-explore_page"]/div/div[1]/div[1]/div')
             for d in div:
                 if d.text == self.config.explore_option:

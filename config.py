@@ -8,7 +8,7 @@ explore_tiktok = 'https://www.tiktok.com/explore'
 #"explore": "['Anime & Comics','Shows','Beauty Care','Games','Comedy','Daily Life','Family','Relationship','Drama','Outfit','Lipsync','Food','Sports','Animals','Society','Cars','Education','Fitness & Health','Technology','Singing & Dancing']"
 explore_option = 'Beauty Care'
 ### YOU HAVE 4 OPTIONS : ["search_post","search_user", "tag", "explore"]
-option = "tag"
+option = "search_post"
 search_page_tiktok = 'https://www.tiktok.com/'
 user_id = "@huynhnguyenmaiphuong"
 element_account_old = 7

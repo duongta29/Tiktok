@@ -1,30 +1,8 @@
-#!/usr/bin/env/ python
-# -*- coding: utf-8 -*-
-"""
-@Time    : 2023/2/12 11:20
-@Author  : 余半盏
-@Email   : 2466857975@@qq.com
-@File    : rotate_captcha.py
-@Software: PyCharm
-"""
+
 import cv2
 import math
 import numpy as np
 
-
-# def circle_point_px(img, accuracy_angle, r=None):
-#     rows, cols, channel = img.shape
-#     assert 360 % accuracy_angle == 0
-#     x0, y0 = r0, _ = (rows // 2, cols // 2)
-#     if r: r0 = r
-#     circle_px_list = []
-#     for angle in np.arange(0, 360, accuracy_angle):
-#         # 圆上点 x=x0 + r*cosθ; y=y0 + r*sinθ
-#         x = x0 + r0 * math.cos(angle / 180 * math.pi)
-#         y = y0 + r0 * math.sin(angle / 180 * math.pi)
-#         # print(angle, x, y)
-#         circle_px_list.append(img[int(x)][int(y)])
-#     return circle_px_list
 
 def circle_point_px(img, accuracy_angle, r=None):
     rows, cols, _ = img.shape

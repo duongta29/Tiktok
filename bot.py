@@ -27,6 +27,7 @@ options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
 # options.add_experimental_option("excludeSwitches", ["enable-automation"])
 # options.add_argument("--log-level=3")
+import captcha
 driver = webdriver.Chrome(options=options)
 
 
@@ -35,7 +36,7 @@ url = 'https://www.tiktok.com/'
 account = 'account.json'
 driver.get(url)
 time.sleep(3)
-ttLogin = TiktokLogin(driver, account)  
+ttLogin = TiktokLogin(driver, username= "xinhxinh29")  
 ttLogin.loginTiktokwithCookie()
 actions = ActionChains(driver)
 puzzle = Puzzle(driver)
@@ -70,7 +71,7 @@ class Bot:
         button = driver.find_element(By.XPATH, '//*[@data-e2e="comment-icon"]')
         button.click()
         time.sleep(1)
-        button = driver.find_element(By.XPATH, '//*[@id="main-content-video_detail"]/div/div[2]/div[1]/div[2]/div[1]/div/div/div[1]/div/div[1]/div/div/div[2]/div/div/div/div')
+        button = driver.find_element(By.XPATH, '//*[@role="textbox"]')
         # button.click()
         button.send_keys(key)
         button.send_keys(Keys.ENTER)
@@ -137,8 +138,7 @@ class Bot:
             # self.SearchBox()
         time.sleep(3)
         try:
-            driver.find_element(By.XPATH, '//*[@id="tiktok-verify-ele"]/div/div[1]/div[2]/div')
-            puzzle.puzzleSolver()
+            captcha.check_captcha(driver)
             return self.CrawlListVideo()
         except:
             count = 1
@@ -288,7 +288,7 @@ class Bot:
     
         
 def main():
-    action_choice = ['follow']
+    action_choice = ['love']
     # 'like', 'comment', 'share', 'follow'
     keys = ['tuyệt vời', 'quá xịn', 'wow']
     bot = Bot(action_choice, keys)
