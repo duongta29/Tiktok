@@ -20,14 +20,14 @@ import captcha
 # from utils.format_time import format_time
 
 options = webdriver.ChromeOptions()
-# options.add_argument('--disable-blink-features=AutomationControlled')
+options.add_argument('--disable-blink-features=AutomationControlled')
 options.add_argument("--start-maximized")
-# options.add_argument('--disable-infobars')
+options.add_argument('--disable-infobars')
 options.add_argument('--disable-notifications')
 options.add_argument('--disable-popup-blocking')
 options.add_argument('--disable-save-password-bubble')
 options.add_argument('--disable-translate')
-# options.add_argument('--disable-web-security')
+options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
 
 # driver = webdriver.Chrome(options=options)
@@ -97,17 +97,23 @@ class CrawlManage(object):
             button.click()
         except:
             print("No login div")
+            
+    def extract_numbers_from_string(self, string):
+        pattern = r'\d+'
+        numbers = re.findall(pattern, string)
+        number = int(numbers[0])
+        return number
         
     def crawl_comment(self, link):
         def scroll_comment():
             cmts=[]
             check = 1
-            while((len(cmts) < 1000) & (len(cmts) != check) ):
+            while((len(cmts) < 100) & (len(cmts) != check) ):
                     # comments_section = self.driver.find_element(By.XPATH, '//*[@data-e2e="search-comment-container"]/div')
                     # actions.move_to_element(comments_section)
                 check = len(cmts)
                 self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                cmts = self.driver.find_elements(By.XPATH, '//*[@class="tiktok-1i7ohvi-DivCommentItemContainer eo72wou0"]')
+                cmts = self.driver.find_elements(By.XPATH, '//*[contains(@class, "DivCommentItemContainer")]')
                 time.sleep(3)
             try:
                 self.driver.execute_script("window.scrollTo(0, 0);")
@@ -126,9 +132,13 @@ class CrawlManage(object):
                 except:
                         pass
                 try:
-                        div = cmt.find_elements(By.TAG_NAME, 'div')
-                        count_reply = div[6].text
-                        count_reply = int(self.extract_numbers_from_string(count_reply)[0])
+                    # div = cmt.find_element(By.XPATH, '//*[@data-e2e="view-more-1"]')
+                    # h = cmt.get_attribute('data-e2e="view-more-1"')
+                    # count_reply = div.text
+                    div = cmt.find_elements(By.TAG_NAME, 'div')
+                    count_reply = div[6].text
+                        # count_reply = int(self.extract_numbers_from_string(count_reply)[0])
+                    count_reply = self.extract_numbers_from_string(count_reply)
                     # except Exception as e:
                     #     print(e)
                 except:

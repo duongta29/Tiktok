@@ -241,8 +241,8 @@ class PostSearchExtractor:
                 except:
                         pass
                 try:
-                        div = cmt.find_elements(By.TAG_NAME, 'div')
-                        count_reply = div[6].text
+                        div = cmt.find_element(By.TAG_NAME, 'p')
+                        count_reply = div.text
                         count_reply = int(self.extract_numbers_from_string(count_reply)[0])
                     # except Exception as e:
                     #     print(e)

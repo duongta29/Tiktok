@@ -55,7 +55,7 @@ def discern(inner_image_brg, outer_image_brg, result_img=None, ):
     # cv2.imshow('outer_source', outer_image)
     all_deviation = []
     for result in range(0, 180):
-        inner = rotate(inner_image, -result)  # 顺时针
+        inner = rotate(inner_image, -result) 
         outer = rotate(outer_image, result)
         inner_circle_point_px = circle_point_px(inner, 1, (inner.shape[0] // 2) - 5)
         outer_circle_point_px = circle_point_px(outer, 1, (inner.shape[0] // 2) + 5)
@@ -123,5 +123,5 @@ def single_discern(inner_image_brg_path, outer_image_brg_path, result_img=None, 
 
 
 # if __name__ == '__main__':
-#     # discern('./imgs/inner_8.png', './imgs/outer_8.png', './imgs/result.png')
+    #  discern('./captcha/rotateCaptcha/inner2.jpg', './captcha/rotateCaptcha/outer2.jpg', 'result.png')
     # single_discern('./captcha/rotateCaptcha/inner2.jpg', './captcha/rotateCaptcha/outer2.jpg', 'result.png')

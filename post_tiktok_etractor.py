@@ -20,7 +20,10 @@ class PostTikTokExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
     def __init__(self, driver: WebDriver, link):
         super().__init__(driver=driver)
-        infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
+        try:
+            infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
+        except:
+            infor_text = self.driver.find_element(By.XPATH,'//*[@id="__UNIVERSAL_DATA_FOR_REHYDRATION__"]').get_attribute('text')
         infor_text = json.loads(infor_text)
         self.infor_text = infor_text
         self.link = link
@@ -48,7 +51,8 @@ class PostTikTokExtractor(PostExtractor):
         return author_link
     
     def extract_post_author_avatar(self):
-        avatar = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-user-avatar"]/div/span/img').get_attribute('src')
+        avatar = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-user-avatar"]').find_element(By.TAG_NAME, 'img')
+        avatar = avatar.get_attribute('src')
         return avatar
 
     def extract_post_created_time(self):
@@ -131,7 +135,7 @@ class PostCommentExtractor(PostExtractor):
         
     
     def extract_post_link(self):
-        return self.link
+        return None
 
     def extract_post_id(self):
         return self.post_id
@@ -165,6 +169,10 @@ class PostCommentExtractor(PostExtractor):
     def extract_post_like(self):
         like = int(self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/div/span').text)
         return like
+    
+    # def extract_post_like(self):
+    #     like = int(self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]').find_element(By.XPATH, '//*[@data-e2e="comment-like-count"]').text)
+    #     return like
 
     def extract_post_love(self):
         love= None
