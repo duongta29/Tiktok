@@ -96,7 +96,7 @@ class Rotate:
             self.driver.find_element(By.XPATH, '//*[@data-testid="whirl-outer-img"]')
             print("Solver captcha rortate")
             # driver.find_element(By.XPATH, '//*[@id="tiktok-verify-ele"]/div/div[1]/div[2]/div')
-            return self.puzzleSolver()
+            return self.rotateSolver()
         except:
             print("No captcha")
             

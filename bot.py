@@ -4,16 +4,10 @@ import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-import csv
 import json
-import pickle
 from login import TiktokLogin
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import random
 from puzzle import Puzzle
-
+import config
 
 options = webdriver.ChromeOptions()
 options.add_argument('--disable-blink-features=AutomationControlled')
@@ -44,16 +38,23 @@ puzzle = Puzzle(driver)
 
 ### CLASS  ###
 class Bot:
-    def __init__(self, action_choice, keys):
-        self.action_choice = action_choice
-        self.keys = keys
+    def __init__(self):
+        with open(config.config_path, "r") as f:
+            choice = f.read()
+            choice = json.loads(choice)
+        self.action_choice = choice["mode"]["action"]
+        self.key_comment = choice["mode"]["key_comment"]
+        self.key = choice["mode"]["key"]
+        self.type = choice["mode"]["type"]
+        self.report_type = choice["mode"]["report_type"]
+        self.count_post = choice["mode"]["count_post"]
  #       self.link = link
         
-    def bot(self, action, link, key):
+    def bot(self, action, link):
         driver.get(link)
         time.sleep(2)
         if action == 'comment' :
-            return self.comment(key)
+            return self.comment(self.key_comment)
         if action == 'like':
             return self.like()
         if action == 'share':
@@ -61,11 +62,11 @@ class Bot:
         if action == 'follow':
             return self.follow()
         if action == 'report':
-            return self.report(key)
+            return self.report()
         if action == 'love':
             return self.love()
         
-    def comment(self, key):
+    def comment(self):
         # driver.get(self.link)
         # time.sleep(2)
         button = driver.find_element(By.XPATH, '//*[@data-e2e="comment-icon"]')
@@ -73,7 +74,7 @@ class Bot:
         time.sleep(1)
         button = driver.find_element(By.XPATH, '//*[@role="textbox"]')
         # button.click()
-        button.send_keys(key)
+        button.send_keys(self.key_comment)
         button.send_keys(Keys.ENTER)
         time.sleep(1)
     
@@ -128,10 +129,11 @@ class Bot:
     #     button = driver.find_element(By.XPATH, '//*[@fill="#fff"]')
     #     button.click()
         
-    def GetLinkVideo(self, type, key):
+    def get_link_video(self):
+        
         print('GetLink')
         # time.sleep(5)
-        url = f"https://www.tiktok.com/search/{type}?q={key}"
+        url = f"https://www.tiktok.com/search/{self.type}?q={self.key}"
             # self.driver.get('https://www.google.com/')
             # time.sleep(8)
         driver.get(url)
@@ -139,11 +141,12 @@ class Bot:
         time.sleep(3)
         try:
             captcha.check_captcha(driver)
-            return self.CrawlListVideo()
+            # return self.get_link_video()
         except:
-            count = 1
-            vidList=[]
-            while(len(vidList) < 20):
+            pass
+        count = 1
+        vidList=[]
+        while(len(vidList) < self.count_post):
               #  count = len(vidList)
                 # print('côunt',count)
                 vidList=[]
@@ -154,11 +157,11 @@ class Bot:
                 print("len vid: ", len(vidList))
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(3)
-            vidList = vidList[:2]
+        vidList = vidList
         return vidList
     
-    def BotVidList(self, type, key):
-        vidList = self.GetLinkVideo(type, key)
+    def bot_list_vid(self):
+        vidList = self.get_link_video()
         count = 1
         for vid in vidList:
             if count % 10 == 0:
@@ -166,12 +169,12 @@ class Bot:
             else:
                 pass
             count += 1
-            key = random.choice(self.keys)
-            action = random.choice(self.action_choice)
+            key = self.key
+            action = self.action_choice
             print(action)
-            self.bot(action, vid, key)
+            self.bot(action=action, link=vid)
         
-    def report(self, form):
+    def report(self):
         # driver.get(link)
         time.sleep(2)
         space = driver.find_element(By.XPATH, '//*[@id="xgwrapper-4-7266151702405893384"]/video')
@@ -188,11 +191,11 @@ class Bot:
         with open('report.json', 'r') as f:
             data = json.load(f)
         for key, value in data.items():
-            if value == form:
+            if value == self.report_type:
                 type_report = key
                 # print("Khóa tìm thấy:", key)
                 break
-            elif isinstance(value, list) and form in value:
+            elif isinstance(value, list) and self.report_type in value:
                 type_report = key
                 break
         time.sleep(2)
@@ -283,20 +286,19 @@ class Bot:
 # with open('report.json', 'w') as f:
 #     json.dump(data, f, indent=4)
 
-
-    
+def main():
+    bot = Bot()
+    bot.bot_list_vid()
     
         
-def main():
-    action_choice = ['love']
-    # 'like', 'comment', 'share', 'follow'
-    keys = ['tuyệt vời', 'quá xịn', 'wow']
-    bot = Bot(action_choice, keys)
-    bot.BotVidList('video', 'marvel')
-    time.sleep(10)
+# def main():
+#     action_choice = ['love','like', 'comment', 'share', 'follow']
+#     # 'like', 'comment', 'share', 'follow'
+#     keys = ['tuyệt vời', 'quá xịn', 'wow']
+#     bot = Bot(action_choice, keys)
+#     bot.BotVidList('video', 'marvel')
+#     time.sleep(10)
     
     
-### EXECUTE ###
-if __name__ == '__main__':
-   main()
+main()
 #    report('https://www.tiktok.com/@diem14122006/video/7266151702405893384?q=b%E1%BA%A1o%20l%E1%BB%B1c&t=1692672483144',form="Adult nudity")

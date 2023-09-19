@@ -21,6 +21,7 @@ def circle_point_px(img, accuracy_angle, r=None):
     y = np.round(y).astype(int)
 
     circle_px_list = img[x, y]
+    # print("circle_px_list: ",circle_px_list)
     return circle_px_list
 
 
@@ -32,6 +33,7 @@ def rotate(image, angle, center=None, scale=1.0):  # 1
     M = cv2.getRotationMatrix2D(center, angle, scale)  # 5
 
     rotated = cv2.warpAffine(image, M, (w, h))  # 6
+    # print(rotated)
     return rotated
 
 
@@ -66,6 +68,7 @@ def discern(inner_image_brg, outer_image_brg, result_img=None, ):
             deviation = HSVDistance(in_px, out_px)
             total_deviation += deviation
         all_deviation.append(total_deviation)
+    # print(all_deviation)
     result = all_deviation.index(min(all_deviation))
     print(result)
     if result_img:
@@ -89,7 +92,6 @@ def crop_to_square(image):
 
 
 def single_discern(inner_image_brg_path, outer_image_brg_path, result_img=None, pic_circle_radius=100):
-    # 实际图片圆半径 pic_circle_radius
     inner_image_brg = cv2.imread(inner_image_brg_path)
     outer_image_brg = cv2.imread(outer_image_brg_path)
     inner_image = cv2.cvtColor(inner_image_brg, cv2.COLOR_BGR2HSV)
@@ -97,15 +99,16 @@ def single_discern(inner_image_brg_path, outer_image_brg_path, result_img=None, 
     outer_image = crop_to_square(outer_image)
     all_deviation = []
     for result in range(0, 360):
-        inner = rotate(inner_image, -result)  # 顺时针
+        inner = rotate(inner_image, -result) 
         outer = rotate(outer_image, 0)
         inner_circle_point_px = circle_point_px(inner, 1, pic_circle_radius - 5)
         outer_circle_point_px = circle_point_px(outer, 1, pic_circle_radius + 5)
         total_deviation = np.sum(
             [HSVDistance(in_px, out_px) for in_px, out_px in zip(inner_circle_point_px, outer_circle_point_px)])
         all_deviation.append(total_deviation)
+    print("all_deviation",all_deviation)
 
-    result = all_deviation.index(min(all_deviation))
+    # result = all_deviation.index(min(all_deviation))
     print(result)
 
     if result_img:
@@ -122,6 +125,6 @@ def single_discern(inner_image_brg_path, outer_image_brg_path, result_img=None, 
     return result
 
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
     #  discern('./captcha/rotateCaptcha/inner2.jpg', './captcha/rotateCaptcha/outer2.jpg', 'result.png')
-    # single_discern('./captcha/rotateCaptcha/inner2.jpg', './captcha/rotateCaptcha/outer2.jpg', 'result.png')
+    single_discern('./captcha/rotateCaptcha/inner2.jpg', './captcha/rotateCaptcha/outer2.jpg', 'result.png')

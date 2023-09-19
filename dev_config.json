@@ -2,8 +2,8 @@
     "account": {
         "created_date": "",
         "id": "",
-        "user_name":"",
-        "pass_word":""
+        "user_name":"babysunny2906",
+        "pass_word":"Ncsduong@29s"
     },
     "created_date":"",
     "device":{
@@ -17,13 +17,14 @@
         "id" : 1,
 			"name" : "search",
 			"keyword": "[{\"key\": \"ice.29s\", \"subKey\": [\"\"]}]",
-            "count_post": 20,
 			"link_page": "https://www.tiktok.com/@ojw86308hkp",
+            "count_post": 20,
 			"link_post" : "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",
 			"type_auto" : ["love","like", "comment", "share", "follow","report"],
             "action": "like",
             "type":"video",
             "key": "hanoi",
-			"report_type": ""
+            "key_comment": "tuyet voi",
+			"report_type": "Disordered eating and unhealthy body image"
     }
 }

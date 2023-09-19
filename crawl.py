@@ -168,6 +168,7 @@ class CrawlManage(object):
         for link in link_list:
             self.driver.get(link)
             self.check_login_div()
+            # time.sleep(30)
             captcha.check_captcha(self.driver)
             if self.option == 'search_post':
                 content = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
@@ -263,6 +264,9 @@ class CrawlManage(object):
             self.driver.get(self.config.search_post_tiktok + keywork)
             captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
+        if self.option == "search_post_android":
+            with open("link_list_android.txt", "r") as f:
+                vidList = [line.strip() for line in f.readlines()]
         elif self.option == "search_user":
             self.driver.get(self.config.search_page_tiktok + self.config.user_id)
             captcha.check_captcha(self.driver)

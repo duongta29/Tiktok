@@ -7,8 +7,8 @@ hashtag_tiktok = 'https://www.tiktok.com/tag/'
 explore_tiktok = 'https://www.tiktok.com/explore'
 #"explore": "['Anime & Comics','Shows','Beauty Care','Games','Comedy','Daily Life','Family','Relationship','Drama','Outfit','Lipsync','Food','Sports','Animals','Society','Cars','Education','Fitness & Health','Technology','Singing & Dancing']"
 explore_option = 'Beauty Care'
-### YOU HAVE 4 OPTIONS : ["search_post","search_user", "tag", "explore"]
-option = "search_post"
+### YOU HAVE 4 OPTIONS : ["search_post","search_user", "tag", "explore", "search_post_android"]
+option ="search_post_android"
 search_page_tiktok = 'https://www.tiktok.com/'
 user_id = "@huynhnguyenmaiphuong"
 element_account_old = 7
@@ -24,5 +24,5 @@ crawl_re_login = 3
 crawl_continue = 0
 number_page = 1
 url_tiktok = "https://tiktok.com"
-keyword_path = "./config.json"
+config_path = "./dev_config.json"
 count_of_vid = 100
