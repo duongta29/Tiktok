@@ -215,7 +215,7 @@ class Bot:
             elem_report = driver.find_element(By.XPATH, '//*[@data-e2e="report-form"]/div[2]')
             label = elem_report.find_elements(By.TAG_NAME, 'label')
             for elem in label:
-                if elem.text == form:
+                if elem.text == self.report_type:
                     actions.move_to_element(elem).click(elem).perform()
                     # actions.click(elem)
                     break

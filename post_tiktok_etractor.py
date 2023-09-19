@@ -110,7 +110,7 @@ class PostTikTokExtractor(PostExtractor):
         return view
     
     def extract_post_type(self):
-        type = "post"
+        type = "tiktok_post"
         return type
     
     
@@ -170,9 +170,6 @@ class PostCommentExtractor(PostExtractor):
         like = int(self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/div/span').text)
         return like
     
-    # def extract_post_like(self):
-    #     like = int(self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]').find_element(By.XPATH, '//*[@data-e2e="comment-like-count"]').text)
-    #     return like
 
     def extract_post_love(self):
         love= None
@@ -214,7 +211,7 @@ class PostCommentExtractor(PostExtractor):
         return view
     
     def extract_post_type(self):
-        type = "comment"
+        type = "tiktok_comment"
         return type
     
     

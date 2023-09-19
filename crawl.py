@@ -46,10 +46,12 @@ class CrawlManage(object):
     
     def parse_keyword(self) -> List[str]:
         keyword_list_raw_dict = []
-        with open(self.config.keyword_path, "r", encoding='utf-8' ) as f:
+        with open(self.config.config_path, "r", encoding='utf-8' ) as f:
             data = f.read()
             keyword_list_raw = json.loads(data)
-            keyword_list_raw_dict = keyword_list_raw["keyword"]
+            keyword_list_raw_dict = keyword_list_raw["mode"]["keyword"]
+            options = keyword_list_raw["mode"]["name"]
+            keyword_list_raw_dict = json.loads(keyword_list_raw_dict)
         # for keyword_raw in keyword_list_raw:
         #     keyword_list_raw_dict.append(json.loads(keyword_raw))
         # # keyword_list_raw_dict = 
@@ -64,11 +66,11 @@ class CrawlManage(object):
                 combined_keyword = f"{key} {subkey}"
                 # Thêm từ khóa kết hợp vào danh sách keywords
                 keyword_list.append(combined_keyword)
-        return key, keyword_list
+        return key, keyword_list, options
     
     def filter_post(self, content):
         check = 0
-        keywork, keyword_list = self.parse_keyword()
+        keywork, keyword_list, option = self.parse_keyword()
         keyword_list.append(keywork)
         for key in keyword_list:
             key = key.lower()
@@ -259,23 +261,23 @@ class CrawlManage(object):
     def get_link_list(self) -> list:
         print('-------> GET LINK LIST <-------')
         vidList=[]
-        keywork, keyword_list = self.parse_keyword()
+        keywork, keyword_list, option = self.parse_keyword()
         if self.option == "search_post":
             self.driver.get(self.config.search_post_tiktok + keywork)
             captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
-        if self.option == "search_post_android":
+        if option == "search_post_android":
             with open("link_list_android.txt", "r") as f:
                 vidList = [line.strip() for line in f.readlines()]
-        elif self.option == "search_user":
+        elif option == "search_user":
             self.driver.get(self.config.search_page_tiktok + self.config.user_id)
             captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_USER)
-        elif self.option == "tag":
+        elif option == "tag":
             self.driver.get(self.config.hashtag_tiktok + keywork)
             captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
-        elif self.option == "explore":
+        elif option == "explore":
             self.driver.get(self.config.explore_tiktok)
             captcha.check_captcha(self.driver)
             div = self.driver.find_elements(By.XPATH, '//*[@id="main-content-explore_page"]/div/div[1]/div[1]/div')

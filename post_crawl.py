@@ -33,31 +33,31 @@ captcha = Puzzle(driver)
 class Post:
     def __init__(self):
         self.id = ""
-        # self.type = ""
+        self.type = ""
         self.time_crawl = ""
-        self.link = "https://www.tiktok.com/@thanhthao15.03/video/7255638157528485126"
+        self.link = ""
         self.author = ""
         self.author_link = ""
         self.avatar = ""
         self.created_time = ""
         self.content = ""
-        # self.image_url = []
+        self.image_url = []
         self.like = 0
         self.comment = 0
-        # self.haha = 0
-        # self.wow = 0
-        # self.sad = 0
+        self.haha = 0
+        self.wow = 0
+        self.sad = 0
         self.love = 0
-        # self.angry = 0
+        self.angry = 0
         self.share = 0
         self.domain = ""
         self.hastag = []
         self.music = ""
-        # self.title = ""
+        self.title = ""
         self.duration = 0
         self.view = 0
-        # self.description = ""
-        # self.video = ""
+        self.description = ""
+        self.video = ""
         self.source_id = ""
         
     #Hàm xác định xem post được crawl đủ hay chưa
@@ -110,35 +110,35 @@ class Post:
         self.is_valid
         return self.__str__
     
-class Comment:
-    def __init__(self):
-        self.id = ""
-        # self.type = ""
-        self.time_crawl = ""
-        self.link = "https://www.tiktok.com/@thanhthao15.03/video/7255638157528485126"
-        self.author = ""
-        self.author_link = ""
-        self.avatar = ""
-        self.created_time = ""
-        self.content = ""
-        # self.image_url = []
-        self.like = 0
-        self.comment = 0
-        # self.haha = 0
-        # self.wow = 0
-        # self.sad = 0
-        self.love = 0
-        # self.angry = 0
-        self.share = 0
-        self.domain = ""
-        self.hastag = []
-        self.music = ""
-        # self.title = ""
-        self.duration = 0
-        self.view = 0
-        # self.description = ""
-        # self.video = ""
-        self.source_id = ""
+# class Comment:
+#     def __init__(self):
+#         self.id = ""
+#         # self.type = ""
+#         self.time_crawl = ""
+#         self.link = "https://www.tiktok.com/@thanhthao15.03/video/7255638157528485126"
+#         self.author = ""
+#         self.author_link = ""
+#         self.avatar = ""
+#         self.created_time = ""
+#         self.content = ""
+#         # self.image_url = []
+#         self.like = 0
+#         self.comment = 0
+#         # self.haha = 0
+#         # self.wow = 0
+#         # self.sad = 0
+#         self.love = 0
+#         # self.angry = 0
+#         self.share = 0
+#         self.domain = ""
+#         self.hastag = []
+#         self.music = ""
+#         # self.title = ""
+#         self.duration = 0
+#         self.view = 0
+#         # self.description = ""
+#         # self.video = ""
+#         self.source_id = ""
     
     
         

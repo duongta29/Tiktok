@@ -181,6 +181,7 @@ class Puzzle:
             
 def check_captcha(driver):
     print("Check captcha")
+    time.sleep(1)
     try:
         driver.find_element(By.XPATH, '//*[@id="captcha-verify-image"]')
         print("Solver captcha PUZZLE")

@@ -106,9 +106,9 @@ def single_discern(inner_image_brg_path, outer_image_brg_path, result_img=None, 
         total_deviation = np.sum(
             [HSVDistance(in_px, out_px) for in_px, out_px in zip(inner_circle_point_px, outer_circle_point_px)])
         all_deviation.append(total_deviation)
-    print("all_deviation",all_deviation)
+    # print("all_deviation",all_deviation)
 
-    # result = all_deviation.index(min(all_deviation))
+    result = all_deviation.index(min(all_deviation))
     print(result)
 
     if result_img:
