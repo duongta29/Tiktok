@@ -16,7 +16,7 @@
     "mode":{
         "id" : 1,
 			"name" : "search_post",
-			"keyword": "[{\"key\": \"John Biden\", \"subKey\": [\"VietNam\"]}]",
+			"keyword": "[{\"key\": \"John Biden\", \"subKey\": [\"Viet Nam\"]}]",
 			"link_page": "https://www.tiktok.com/@ojw86308hkp",
             "count_post": 20,
 			"link_post" : "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",

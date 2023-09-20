@@ -20,11 +20,18 @@ class PostTikTokExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
     def __init__(self, driver: WebDriver, link):
         super().__init__(driver=driver)
+        getIDvid = self.driver.find_element(By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
+        id = ((getIDvid.get_attribute('id')).split('-'))[2]
+        self.id = id
         try:
-            infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
-        except:
             infor_text = self.driver.find_element(By.XPATH,'//*[@id="__UNIVERSAL_DATA_FOR_REHYDRATION__"]').get_attribute('text')
-        infor_text = json.loads(infor_text)
+            infor_text = json.loads(infor_text)
+            infor_text = infor_text["__DEFAULT_SCOPE__"]["webapp.video-detail"]["itemInfo"]["itemStruct"]
+            
+        except:
+            infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
+            infor_text = json.loads(infor_text)
+            infor_text = infor_text["ItemModule"][self.id]
         self.infor_text = infor_text
         self.link = link
     
@@ -32,10 +39,7 @@ class PostTikTokExtractor(PostExtractor):
         return self.link
 
     def extract_post_id(self):
-        getIDvid = self.driver.find_element(By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
-        id = ((getIDvid.get_attribute('id')).split('-'))[2]
-        self.id = id
-        return id
+        return self.id
     
     def extract_post_time_crawl(self):
         time_crawl = datetime.datetime.now()
@@ -56,7 +60,7 @@ class PostTikTokExtractor(PostExtractor):
         return avatar
 
     def extract_post_created_time(self):
-        createTime = self.infor_text["ItemModule"][self.id]["createTime"]
+        createTime = self.infor_text["createTime"]
         timestamp = int(createTime)  # Example Unix timestamp
         created_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp))
         return created_time
@@ -66,21 +70,21 @@ class PostTikTokExtractor(PostExtractor):
         return content
     
     def extract_post_like(self):
-        like = int(self.infor_text["ItemModule"][self.id]["stats"]["diggCount"])
+        like = int(self.infor_text["stats"]["diggCount"])
         return like
     
     def extract_post_love(self):
-        love= int(self.infor_text["ItemModule"][self.id]["stats"]["collectCount"])
+        love = int(self.infor_text["stats"]["collectCount"])
         return love
     
     
     def extract_post_comment(self):
-        comment = int(self.infor_text["ItemModule"][self.id]["stats"]["commentCount"])
+        comment = int(self.infor_text["stats"]["commentCount"])
         return comment
     
     
     def extract_post_share(self):
-        share = int(self.infor_text["ItemModule"][self.id]["stats"]["shareCount"])
+        share = int(self.infor_text["stats"]["shareCount"])
         return share
     
     
@@ -101,12 +105,12 @@ class PostTikTokExtractor(PostExtractor):
     
     
     def extract_post_duration(self):
-        duration = int(self.infor_text["ItemModule"][self.id]["video"]["duration"])
+        duration = int(self.infor_text["video"]["duration"])
         return duration
     
     
     def extract_post_view(self):
-        view = int(self.infor_text["ItemModule"][self.id]["stats"]["playCount"])
+        view = int(self.infor_text["stats"]["playCount"])
         return view
     
     def extract_post_type(self):

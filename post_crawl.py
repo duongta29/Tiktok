@@ -89,8 +89,10 @@ class Post:
         self.author = driver.find_element(By.XPATH, '//*[@data-e2e="browser-nickname"]/span[1]').text
         self.author_link = driver.find_element(By.XPATH, '//*[@data-e2e="browse-user-avatar"]').get_attribute('href')
         self.avatar = driver.find_element(By.XPATH, '//*[@data-e2e="browse-user-avatar"]/div/span/img').get_attribute('src')
-        
-        infor_text = driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
+        try:
+            infor_text = driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
+        except:
+            infor_text = driver.find_element(By.XPATH,'//*[@id="__UNIVERSAL_DATA_FOR_REHYDRATION__"]').get_attribute('text')
         infor_text = json.loads(infor_text)
         createTime = infor_text["ItemModule"][self.id]["createTime"]
         timestamp = int(createTime)  # Example Unix timestamp
