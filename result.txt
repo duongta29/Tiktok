@@ -1,60 +1,588 @@
-source_id=7279700163503901953
-video=
-description=
-view=6017
-duration=184
-title=
-music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-T%E1%BA%A6N-NGUY%E1%BB%84N-NEWS-7279700208015330050
-hastag=['#tintuc', '#lichsu', '#chinhtri', '#vietmyusa', '#vietnam', '#johnbiden']
+source_id=7277352339273452802
+view=3500000
+duration=152
+music=https://www.tiktok.com/music/On-My-Way-DJ%E7%89%88-6876285331465832461
+hastag=['#xuhuong', '#tongthong', '#my', '#vietnam', '#thoisu', '#hanoi', '#hoabinh', '#joebiden']
 domain=www.tiktok.com
-share=6
-angry=0
-love=12
-sad=0
-wow=0
-haha=0
-comment=11
-like=158
-image_url=[]
-content=Việt Nam 🇻🇳 Hoá Rồng
-
-#tintuc #lichsu ##chinhtri #vietmyusa #vietnam #johnbiden
-created_time=2023-09-17 14:54:39
-avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51c39c7f78653d5c5b92ff82f41906f7~c5_100x100.jpeg?x-expires=1695369600&x-signature=yayIVhFO2V%2FiP%2Bz%2FzU2AgDwWUcM%3D
-author_link=https://www.tiktok.com/@tannguyen.news
-author=TẦN NGUYỄN NEWS
-link=https://www.tiktok.com/@tannguyen.news/video/7279700163503901953
-time_crawl=2023-09-20 15:28:33
+share=2217
+love=4462
+comment=3703
+like=130100
+content=Hình ảnh đẹp của dẫn đoàn nghi lễ tiếp đón tổng thống Mỹ Joe Biden đến thăm Việt Nam nâng cấp quan hệ đối tác chiến lược, tham quan một vòng Hà Nội thành phố vì hoà bình #xuhuong #tongthong #my #vietnam #thoisu #hanoi #hoabinh #joebiden
+created_time=1694390639
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/724d60e7795906414d7b16427c18f038~c5_100x100.jpeg?x-expires=1695380400&x-signature=6dP5Z9JcgpI5vMorDpG6gC9NTH4%3D
+author_link=https://www.tiktok.com/@mediaeuro
+author=Shop PlusVN
+link=https://www.tiktok.com/@mediaeuro/video/7277352339273452802
+time_crawl=2023-09-20 18:18:59
 type=tiktok_post
-id=7279700163503901953
+id=7277352339273452802
 
 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
-source_id=7279700163503901953
-video=
-description=
+source_id=7277352339273452802
 view=None
 duration=None
-title=
 music=None
 hastag=None
 domain=www.tiktok.com
 share=None
-angry=0
 love=None
-sad=0
-wow=0
-haha=0
+comment=1
+like=24
+content=phần tiếp đi ạ 🥰
+created_time=1694451600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/f553db678fce5289ff9cbd67da14e184~c5_100x100.jpg?x-expires=1695294000&x-signature=zKTKfdt9bmuuedm17%2FH4bRPgBNU%3D
+author_link=https://www.tiktok.com/@heloll82k5
+author=xoing mụa
+link=None
+time_crawl=2023-09-20 18:19:18
+type=tiktok_comment
+id=7277829610707190529
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=140
+like=2165
+content=chất thì có chất nhưng tui ko thích joe biden. bởi putin đại đế mới tui hâm mộ
+created_time=1694365200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5892cc2e3f9b4022156eb2dde40ca777~c5_100x100.jpg?x-expires=1695294000&x-signature=WM3rU0OBXP0JZpFejJJtPmsYjbY%3D
+author_link=https://www.tiktok.com/@ngla1992
+author=Cơ Khí Hòa Phát
+link=None
+time_crawl=2023-09-20 18:19:19
+type=tiktok_comment
+id=7277452421306712850
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=9
+content=Kể ra thì 3 đời tổng thống mỹ liên tiếp đều đến việt nam 😁
+created_time=1694538000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/2c868fda1923ea44a743486a979d0c57~c5_100x100.jpg?x-expires=1695294000&x-signature=qomPScLFKTEtBHObySIRJUYX%2BMM%3D
+author_link=https://www.tiktok.com/@98.n.h.trieu
+author=Nguyễn Hải Triều
+link=None
+time_crawl=2023-09-20 18:19:20
+type=tiktok_comment
+id=7277905004961481480
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=74
+like=108
+content=ông biden phải an toàn. chứ lỡ có j thì 1 dàn hột nhãn bay tới vn liền
+created_time=1694451600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7169095910717620250~c5_100x100.jpg?x-expires=1695294000&x-signature=TZAkvOHFn9e8UCKIyERnfL523eQ%3D
+author_link=https://www.tiktok.com/@opslose
+author=opslose
+link=None
+time_crawl=2023-09-20 18:19:21
+type=tiktok_comment
+id=7277746688780174082
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=14
+like=42
+content=Phải chi là Putin thì hay quá 🥰
+created_time=1694451600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8579efd4b84f2f6e8d762c7fd4ec7043~c5_100x100.jpg?x-expires=1695294000&x-signature=znO4mMFkSF%2FNUtZA8ZJF9eAn6NM%3D
+author_link=https://www.tiktok.com/@vy450046
+author=VỹNguyễn
+link=None
+time_crawl=2023-09-20 18:19:21
+type=tiktok_comment
+id=7277743174075384594
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=111
+like=3177
+content=Bác ơi nhìn đi việt nam đã vs đang và sẽ sánh vai với các cường quốc 5 châu rồi bác cứ ngủ thật ngon giấc không phải bận tâm gì đâu nhé 🥺
+created_time=1694365200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6df885e814c0859be08bdfa9d4802719.jpg?x-expires=1695294000&x-signature=qG9a409FiA2TiWzL9SJ8HEY8jgo%3D
+author_link=https://www.tiktok.com/@duong.199x
+author=Mr.Dương
+link=None
+time_crawl=2023-09-20 18:19:22
+type=tiktok_comment
+id=7277431958950478600
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=9
+like=805
+content=chơi cả đặc nhiệm chửa và đặc nhiệm tóc bạc ra bảo kê thì gấu rồi😂
+created_time=1694365200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9bbe5631f27b1546f31d05bbbca81fa1~c5_100x100.jpg?x-expires=1695294000&x-signature=STcpP7S%2BTuBax0rRDP%2FtARQCqGw%3D
+author_link=https://www.tiktok.com/@minh_khoi_31
+author=Văn's Bắp
+link=None
+time_crawl=2023-09-20 18:19:22
+type=tiktok_comment
+id=7277391610877379330
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=6
+content=trump, putin và abe cứ gọi là mãi đỉnh
+created_time=1694451600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/75198afa58581811cd3830d290e69d09~c5_100x100.jpg?x-expires=1695294000&x-signature=hTZQEHIsYP1xzeuYbbf8vlNb0KQ%3D
+author_link=https://www.tiktok.com/@kurisakikantaro
+author=栗崎　幹太郎
+link=None
+time_crawl=2023-09-20 18:19:24
+type=tiktok_comment
+id=7277806945305559809
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=669
+content=Huy động cả mấy bà cụ cơ à uy tín vãi
+created_time=1694365200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/99157f7e467571071385abf0b9ff2577~c5_100x100.jpg?x-expires=1695294000&x-signature=m3XAu1sY8C4CGCd1mSRyXZ9oI%2BM%3D
+author_link=https://www.tiktok.com/@hoot.hit.chick
+author=Hoot Hit Chick
+link=None
+time_crawl=2023-09-20 18:19:24
+type=tiktok_comment
+id=7277425577409528577
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=21
+like=155
+content=có bạn nào để ý đoàn xe bồ câu trắng chạy đều và đẹp quá trời🥰
+created_time=1694365200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9d8a4a85269d0fe4c82fc89d175d4e0f.jpg?x-expires=1695294000&x-signature=uxLv8n37H%2BFAnKsw57608lG4GcQ%3D
+author_link=https://www.tiktok.com/@chukhang_43
+author=Chú Khang_43 tuổi
+link=None
+time_crawl=2023-09-20 18:19:25
+type=tiktok_comment
+id=7277421674516660999
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=9
+like=62
+content=sức mạnh của Việt Nam năm ở chính chị và kinh tế . nước ta được cái lãnh đạo giỏi các tỉnh thành đều giàu đồng đều nhau tôi tỉnh miền núi dân giàu quá
+created_time=1694365200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a32539aad88c9c6da4a570460d8df23f~c5_100x100.jpg?x-expires=1695294000&x-signature=znC7JRSihuRwWqsVKZAGDuawy0Q%3D
+author_link=https://www.tiktok.com/@quanle615
+author=Quân Lê HB -28B1
+link=None
+time_crawl=2023-09-20 18:19:25
+type=tiktok_comment
+id=7277370980971528962
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=3
+like=90
+content=Tiếp người có tiền cũng khác hẳn từ người dân như tôi cũng háo hức coi ti vi
+created_time=1694365200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cddcea595fb3067ae6b48524dba91716.jpg?x-expires=1695294000&x-signature=M0y9aqpUwOR0JboTvK9tz36Cakc%3D
+author_link=https://www.tiktok.com/@quyen12345677
+author=🍴🥞🍳🥓🍎
+link=None
+time_crawl=2023-09-20 18:19:27
+type=tiktok_comment
+id=7277422822992446215
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=9
+like=51
+content=Có cả các cụ gì nữ đúng làm an ninh nữa
+created_time=1694365200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271231012926373893~c5_100x100.jpg?x-expires=1695294000&x-signature=nfGBXW4xEX3Y0C3kCYdZl%2B%2BXpLM%3D
+author_link=https://www.tiktok.com/@tunng193
+author=tunng193
+link=None
+time_crawl=2023-09-20 18:19:27
+type=tiktok_comment
+id=7277430478617445138
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=9
+like=279
+content=có bà cụ áo trắng đeo băng đỏ.
+created_time=1694365200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/dd09c790b89d87f994ad773f05b847a0.jpg?x-expires=1695294000&x-signature=67NSX0P11ZahdD7o75kmDurAhz8%3D
+author_link=https://www.tiktok.com/@uacaca1
+author=Mập
+link=None
+time_crawl=2023-09-20 18:19:28
+type=tiktok_comment
+id=7277395086522024711
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=9
+like=119
+content=ko biết lần đi về có vấp té khi lên máy bay nữa ko 😂😂
+created_time=1694365200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1656745109180417.jpg?x-expires=1695294000&x-signature=YX5xvWpjNLS1FtLiS8AT%2FXlnAuY%3D
+author_link=https://www.tiktok.com/@luuuy4
+author=Luu Uy
+link=None
+time_crawl=2023-09-20 18:19:28
+type=tiktok_comment
+id=7277383767797269250
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=7
+content=Phải đi qua lăng bác chào chủ tịch của chúng tôi chứ đúng ko tổng thống mỹ
+created_time=1694451600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aba5c15add9920444b29026bfff38648~c5_100x100.jpg?x-expires=1695294000&x-signature=zB9ACDkDLiko%2FJ5GWpcVW9JB%2Fp4%3D
+author_link=https://www.tiktok.com/@khilamchiu3
+author=nguyenlam
+link=None
+time_crawl=2023-09-20 18:19:30
+type=tiktok_comment
+id=7277791000075420417
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
 comment=0
 like=0
-image_url=[]
-content=Hay
-created_time=2023-09-18 00:00:00.037830
-avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1695283200&x-signature=bjhbP27qFuNDLM1cgVKSXERVyrM%3D
-author_link=https://www.tiktok.com/@user9591571140867
-author=user9591571140867
+content=Vẫn k hiểu dân rảnh ghê ra đứng quay cái video xe chạy đc mấy s chả hiểu để lamd gì
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd390f4214de2937cb439336662d5b21~c5_100x100.jpg?x-expires=1695294000&x-signature=Zim2bY2mfLXQua4lVGseWoGZcqk%3D
+author_link=https://www.tiktok.com/@lego_nv
+author=🫥🫥
 link=None
-time_crawl=2023-09-20 15:28:50
+time_crawl=2023-09-20 18:19:30
 type=tiktok_comment
-id=7279773928876344065
+id=7280134237570335490
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=dẹp đường kinh khủng cấm ko ai đi lại luôn
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/f4a4262ee14d91dd97012b95c6bb72d4~c5_100x100.jpg?x-expires=1695294000&x-signature=NT677xFKiPVUL%2Fvjufffx1rlp8c%3D
+author_link=https://www.tiktok.com/@cuongminh1168
+author=Cường Minh
+link=None
+time_crawl=2023-09-20 18:19:31
+type=tiktok_comment
+id=7279691642193511176
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=1
+content=đi quá trường tui kìa😳😳
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1603081100654593.jpg?x-expires=1695294000&x-signature=2DldVDDEP0SqkCf252qnUsglhZQ%3D
+author_link=https://www.tiktok.com/@MS4wLjABAAAA_SPQmxiIK_cZmpLZuHTBmOfqM4Sma1oAFVcAng93G8JRJOwJxZvxR_JCXU_Mh9oM
+author=Ngô Minh Nguyệt
+link=None
+time_crawl=2023-09-20 18:19:31
+type=tiktok_comment
+id=7279651586329133832
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lm đồng minh của mỹ wá oke
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/afc72b3836d232aa2d996e4755741061.jpg?x-expires=1695294000&x-signature=NYKzbNO8XgRghahoxkwqH1Rk6G4%3D
+author_link=https://www.tiktok.com/@nguyen.hoanglinhchi
+author=TÌM NGƯỜI YÊU
+link=None
+time_crawl=2023-09-20 18:19:32
+type=tiktok_comment
+id=7278981086491198209
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=1
+content=đoàn xe cứu thương vụ cháy chung cư nè
+created_time=1694710800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ab72d67c9bab031a351403f4a87ec9b~c5_100x100.jpg?x-expires=1695294000&x-signature=kXwxMaoRQeCBcQXptgPt5vnBEPc%3D
+author_link=https://www.tiktok.com/@dy8h6fzfrrgg
+author=Nguyễn Chí Thanh
+link=None
+time_crawl=2023-09-20 18:19:33
+type=tiktok_comment
+id=7278743788071568129
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=đẹp quá
+created_time=1694710800
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9b6b839b53a35446345d7542b49238d5.jpg?x-expires=1695294000&x-signature=%2Bu5Pp8lSlVSbtgjtVZE1b%2F5jiTg%3D
+author_link=https://www.tiktok.com/@at666888
+author=Hoàng Thuỳ
+link=None
+time_crawl=2023-09-20 18:19:34
+type=tiktok_comment
+id=7278721177794937601
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=ko thấy ai kêu kẹt xe nhỉ
+created_time=1694710800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7188873550701264923~c5_100x100.jpg?x-expires=1695294000&x-signature=Rlv7ja300tqPkzzBECt2KTQPdKw%3D
+author_link=https://www.tiktok.com/@knhadng
+author=biển
+link=None
+time_crawl=2023-09-20 18:19:34
+type=tiktok_comment
+id=7278667511356261121
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=nhìn ngầu thật đấy.
+created_time=1694624400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/8876d2a9509d128159651903af6bb1aa.jpg?x-expires=1695294000&x-signature=L%2FRu1OjGsxGd9oMBCs4aPf7GlIA%3D
+author_link=https://www.tiktok.com/@duongthuyhang1903
+author=❤️‍🩹
+link=None
+time_crawl=2023-09-20 18:19:36
+type=tiktok_comment
+id=7278601691716764417
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=1
+like=2
+content=VN giờ thân vs Mỹ hay Nga hay Trung vậy🤣
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1695294000&x-signature=OMrMO4B2k9DwHTNqGXgdsvEdATA%3D
+author_link=https://www.tiktok.com/@user80739361045554
+author=nghia
+link=None
+time_crawl=2023-09-20 18:19:36
+type=tiktok_comment
+id=7278596756047217410
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=lúc đầu tưởng giải đua xe 🏍️🏁
+created_time=1694624400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5622c0718589bb7f6586c71f19f03dbb.jpg?x-expires=1695294000&x-signature=tigvMF%2FMLxgCyHdrFgqsBIrs4C8%3D
+author_link=https://www.tiktok.com/@user2259942466740
+author=Vịthihia
+link=None
+time_crawl=2023-09-20 18:19:41
+type=tiktok_comment
+id=7278578280890303250
+
+##################################################################################################################################################################################
+source_id=7277352339273452802
+view=None
+duration=None
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+love=None
+comment=0
+like=0
+content=thấy hình ảnh các cô, các bà cũng ra trực bảo vệ đoàn mới thấy đất nước mình đoàn kết và an ninh tốt lắm.
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/869f2084658ebd834f3c995cf473ab3b~c5_100x100.jpg?x-expires=1695294000&x-signature=riMEa%2FLjndZsYWtUjUTSLzq5THE%3D
+author_link=https://www.tiktok.com/@hs11111982
+author=HS1111
+link=None
+time_crawl=2023-09-20 18:19:47
+type=tiktok_comment
+id=7278560454195659521
 
 ##################################################################################################################################################################################

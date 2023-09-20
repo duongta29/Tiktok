@@ -18,6 +18,7 @@ import unicodedata
 from utils.common_utils import CommonUtils
 import config
 import captcha
+# import kafka
 from kafka import KafkaProducer
 producer = KafkaProducer(bootstrap_servers=["10.11.101.129:9092"])
 

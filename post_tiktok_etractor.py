@@ -61,8 +61,8 @@ class PostTikTokExtractor(PostExtractor):
 
     def extract_post_created_time(self):
         createTime = self.infor_text["createTime"]
-        timestamp = int(createTime)  # Example Unix timestamp
-        created_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp))
+        created_time = int(createTime)  # Example Unix timestamp
+        # created_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp))
         return created_time
 
     def extract_post_content(self):

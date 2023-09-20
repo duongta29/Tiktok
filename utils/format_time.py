@@ -31,9 +31,10 @@ def format_time(option):
                     new_time = datetime.strptime(option, '%m-%d-%Y')
             except ValueError:
                 pass
-        
-        # Định dạng thời gian mới
-    return new_time
+# Định dạng thời gian mới
+    timestamp = int(new_time.timestamp())
+    return timestamp
+    
 
 # # Thử nghiệm hàm
 # time_option = '22s ago'
