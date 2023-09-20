@@ -16,7 +16,7 @@
     "mode":{
         "id" : 1,
 			"name" : "search_post",
-			"keyword": "[{\"key\": \"ha noi\", \"subKey\": [\"an gi\"]}]",
+			"keyword": "[{\"key\": \"John Biden\", \"subKey\": [\"VietNam\"]}]",
 			"link_page": "https://www.tiktok.com/@ojw86308hkp",
             "count_post": 20,
 			"link_post" : "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",
@@ -24,7 +24,7 @@
             "action": "like",
             "type":"video",
             "key": "hanoi",
-            "key_comment": "tuyet voi",
+            "key_comment": ["tuyet voi","hay ghê "],
 			"report_type": "Disordered eating and unhealthy body image"
     }
 }

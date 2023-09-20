@@ -169,6 +169,7 @@ class CrawlManage(object):
         link_list = self.get_link_list()
         for link in link_list:
             self.driver.get(link)
+            self.driver.implicitly_wait(5)
             self.check_login_div()
             # time.sleep(30)
             captcha.check_captcha(self.driver)
@@ -181,13 +182,6 @@ class CrawlManage(object):
                     print(f"Filter out link {link}")
                     continue
             try: 
-                with open('dataCrawled.txt', 'r') as f:
-                    data_crawled = f.read()
-                if link in data_crawled:
-                    print("This video is crawled")
-                    continue
-                else:
-                    print(f"Start crawl link : {link}")
                     start = time.time()
                         # data = {}
                     # self.driver.get(vid)
@@ -256,6 +250,11 @@ class CrawlManage(object):
                 
                 vidList.append(link)
         print("Count of links: ", len(vidList))
+        with open('dataCrawled.txt', 'r') as f:
+            data_crawled = f.read()
+        for vid in vidList:
+            if vid in data_crawled:
+                vidList.remove(vid)
         return vidList
         
     def get_link_list(self) -> list:

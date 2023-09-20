@@ -4272,3 +4272,473 @@ type=tiktok_post
 id=7261238155871784194
 
 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=7264590122434317569
+video=
+description=
+view=660600
+duration=10
+title=
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Mai-7012035790624607002
+hastag=['#hanoi', '#muathu', '#muathuhanoi', '#fyp', '#xuhuong', '#trending', '#autumn', '#thuhanoi']
+domain=www.tiktok.com
+share=1966
+angry=0
+love=3158
+sad=0
+wow=0
+haha=0
+comment=1135
+like=37600
+image_url=[]
+content=đã sẵn sàng cho mùa thu Hà Nội 🍂🫶🏻
+
+#hanoi #muathu #muathuhanoi #fyp #xuhuong #trending #autumn #thuhanoi
+created_time=2023-08-07 21:40:00
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/431acb8de1be029bb8a8a12a9d22766a~c5_100x100.jpeg?x-expires=1695348000&x-signature=tGFkv6YwSx%2B4fg2PPf%2BCau%2FMMp8%3D
+author_link=https://www.tiktok.com/@ngphanh3110_
+author=ngphanh3110
+link=https://www.tiktok.com/@ngphanh3110_/video/7264590122434317569
+time_crawl=2023-09-20 09:46:52
+type=tiktok_post
+id=7264590122434317569
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=7276742822433148162
+video=
+description=
+view=784100
+duration=21
+title=
+music=https://www.tiktok.com/music/We-Found-Drill-7152709163519313922
+hastag=['#learnontiktok', '#xuhuong', '#viral', '#thuhanoi', '#hanoi']
+domain=www.tiktok.com
+share=4150
+angry=0
+love=6403
+sad=0
+wow=0
+haha=0
+comment=1276
+like=83700
+image_url=[]
+content=Rấc là thu luôn #learnontiktok #xuhuong #viral #thuhanoi #hanoi
+created_time=2023-09-09 15:38:40
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f751619e82e0d03d056c8aff831acee7.jpeg?x-expires=1695355200&x-signature=NDGj6qp9fAwESDvpMvxSptCf%2B4M%3D
+author_link=https://www.tiktok.com/@dreamhoang07
+author=manhhoangdop
+link=https://www.tiktok.com/@dreamhoang07/video/7276742822433148162
+time_crawl=2023-09-20 11:23:55
+type=tiktok_post
+id=7276742822433148162
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=7208546722371390746
+video=
+description=
+view=4600000
+duration=29
+title=
+music=https://www.tiktok.com/music/L%C3%A0-Anh-7204757752244226822
+hastag=['#hanoi', '#trip', '#traval', '#viraltiktok', '#tiktok', '#photographer', '#videosnapchallenge', '#vietnam', '#capheduongtau', '#tiktok']
+domain=www.tiktok.com
+share=3912
+angry=0
+love=7117
+sad=0
+wow=0
+haha=0
+comment=3014
+like=198800
+image_url=[]
+content=Một buổi chiều
+#hanoi #trip #traval #viraltiktok #tiktok #photographer #videosnapchallenge #vietnam #capheduongtau #tiktok
+created_time=2023-03-09 21:03:02
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0a76c85509e37c5e5587334148b92aee~c5_100x100.jpeg?x-expires=1695355200&x-signature=%2F9cb3EQe7jV4p20s7Sfsrf3R4W0%3D
+author_link=https://www.tiktok.com/@trogggveooo
+author=Troggg Veooo
+link=https://www.tiktok.com/@trogggveooo/video/7208546722371390746
+time_crawl=2023-09-20 11:24:12
+type=tiktok_post
+id=7208546722371390746
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=7279700163503901953
+video=
+description=
+view=5942
+duration=184
+title=
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-T%E1%BA%A6N-NGUY%E1%BB%84N-NEWS-7279700208015330050
+hastag=['#tintuc', '#lichsu', '#chinhtri', '#vietmyusa', '#vietnam', '#johnbiden']
+domain=www.tiktok.com
+share=6
+angry=0
+love=12
+sad=0
+wow=0
+haha=0
+comment=11
+like=156
+image_url=[]
+content=Việt Nam 🇻🇳 Hoá Rồng
+
+#tintuc #lichsu ##chinhtri #vietmyusa #vietnam #johnbiden
+created_time=2023-09-17 14:54:39
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51c39c7f78653d5c5b92ff82f41906f7~c5_100x100.jpeg?x-expires=1695355200&x-signature=Ec6oUH1E5WFhpwe4zmsglHRlH6o%3D
+author_link=https://www.tiktok.com/@tannguyen.news
+author=TẦN NGUYỄN NEWS
+link=https://www.tiktok.com/@tannguyen.news/video/7279700163503901953
+time_crawl=2023-09-20 11:27:23
+type=tiktok_post
+id=7279700163503901953
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=0
+image_url=[]
+content=👍
+created_time=2023-09-19 00:00:00.517695
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/37906929da047d067d0904f65e093840~c5_100x100.jpg?x-expires=1695268800&x-signature=IXS9AZoGftvUD33FL2DM3lOPgac%3D
+author_link=https://www.tiktok.com/@longtran4754
+author=Long Tran
+link=None
+time_crawl=2023-09-20 11:27:35
+type=tiktok_comment
+id=7280176815196668680
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=0
+image_url=[]
+content=🥰🥰🥰🥰🥰🥰🥰👍👍👍👍👍👍👌👌👌👌❤️❤️❤️❤️❤️❤️💕💕💕💕💕🌾🌾🌾🌾🌾🌾🌾🌾🌾🌾🌾🌾🌾
+created_time=2023-09-19 00:00:00.664600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7210721582665662490~c5_100x100.jpg?x-expires=1695268800&x-signature=xMcAcUJsX5RVtHRzqvOGK7aVMkU%3D
+author_link=https://www.tiktok.com/@dungtranduc16
+author=Dung tran Macker
+link=None
+time_crawl=2023-09-20 11:27:40
+type=tiktok_comment
+id=7280158734671020801
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=0
+image_url=[]
+content=việt nam bắt tay nhưng vẫn nên đề phòng cả trung quốc và hoa kỳ.
+created_time=2023-09-19 00:00:00.833819
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/016f24a39cfe27f8371a28afabfdb661~c5_100x100.jpg?x-expires=1695268800&x-signature=vHNJ6hpPt6E4oyHaZBJK6jR0lD4%3D
+author_link=https://www.tiktok.com/@kdllgu
+author=Quốc Đam
+link=None
+time_crawl=2023-09-20 11:27:45
+type=tiktok_comment
+id=7280020116077626113
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=0
+image_url=[]
+content=Hay
+created_time=2023-09-18 00:00:00.954960
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1695268800&x-signature=VphQW%2BIHiy3dNfWhBKP80zjcoyg%3D
+author_link=https://www.tiktok.com/@user9591571140867
+author=user9591571140867
+link=None
+time_crawl=2023-09-20 11:27:50
+type=tiktok_comment
+id=7279773928876344065
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=1
+image_url=[]
+content=anh tan làm thơ hay quá cơ
+created_time=2023-09-18 00:00:00.138052
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/1c68772a57fb7c7582fdedd0ff019905~c5_100x100.jpg?x-expires=1695268800&x-signature=qs8elvByj9rNmQSy3EciFp2Ekd0%3D
+author_link=https://www.tiktok.com/@lttl1.9.84
+author=Nguyen Van Tien
+link=None
+time_crawl=2023-09-20 11:27:56
+type=tiktok_comment
+id=7279769197072663298
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=1
+image_url=[]
+content=Hay hay
+created_time=2023-09-18 00:00:00.293440
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/cd3afd7dda32146d11474eff154fba1b~c5_100x100.jpg?x-expires=1695268800&x-signature=yI8fu3s1KYMDaMBMVe0gQvEYI5c%3D
+author_link=https://www.tiktok.com/@user7713404265419
+author=Min bông
+link=None
+time_crawl=2023-09-20 11:28:01
+type=tiktok_comment
+id=7279748848805135106
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=2
+image_url=[]
+content=kkkk em chưa thấy ai ngâm thơ hay như anh🤣🤣🤣🤣🤣
+created_time=2023-09-18 00:00:00.445982
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/a94ec320b53a57a5b82ef950bcf7f106~c5_100x100.jpg?x-expires=1695268800&x-signature=06F%2BL%2F28tyAm2mRvR3Uql%2BX7cOM%3D
+author_link=https://www.tiktok.com/@30_4_1975
+author=Trắc
+link=None
+time_crawl=2023-09-20 11:28:06
+type=tiktok_comment
+id=7279730752664945410
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=1
+image_url=[]
+content=Dạo này chú làm thơ hay quá
+created_time=2023-09-18 00:00:00.628483
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/6c0811d2ae84828cf99bb56af3bbb5f8~c5_100x100.jpg?x-expires=1695268800&x-signature=Nh3WeQNx7O%2FQlZFS9c4Xh4qhP6s%3D
+author_link=https://www.tiktok.com/@royalcrownvietnam
+author=Royal Crown Vietnam
+link=None
+time_crawl=2023-09-20 11:28:11
+type=tiktok_comment
+id=7279712165393122050
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=2
+image_url=[]
+content=🇻🇳👍
+created_time=2023-09-18 00:00:00.747862
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/016f24a39cfe27f8371a28afabfdb661~c5_100x100.jpg?x-expires=1695268800&x-signature=vHNJ6hpPt6E4oyHaZBJK6jR0lD4%3D
+author_link=https://www.tiktok.com/@kdllgu
+author=Quốc Đam
+link=None
+time_crawl=2023-09-20 11:28:16
+type=tiktok_comment
+id=7279685205697954562
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=1
+image_url=[]
+content=Tàu bán đất hiếm cho vn làm chíp bán cho mĩ
+created_time=2023-09-18 00:00:00.900955
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/447056c89c4f614aac4dd305559dfcd9~c5_100x100.jpg?x-expires=1695268800&x-signature=YX4DaJNv81HaPoi%2Bg7Now7wBW1k%3D
+author_link=https://www.tiktok.com/@dyoqymwqhzgn
+author=Bảo tín
+link=None
+time_crawl=2023-09-20 11:28:21
+type=tiktok_comment
+id=7279703413615936274
+
+##################################################################################################################################################################################
+source_id=7279700163503901953
+video=
+description=
+view=None
+duration=None
+title=
+music=None
+hastag=None
+domain=www.tiktok.com
+share=None
+angry=0
+love=None
+sad=0
+wow=0
+haha=0
+comment=0
+like=0
+image_url=[]
+content=vừa chửi Mỹ song bây giờ lại khen bị Dừa rơi vào đầu không Chết nên bị như vậy đó 😂
+created_time=2023-09-18 00:00:00.139523
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c4b01c12dcf9504130cd6d15d24ecfe5~c5_100x100.jpg?x-expires=1695268800&x-signature=nojrlOhHeHD%2BRpyX1WzkLTqztZs%3D
+author_link=https://www.tiktok.com/@user0707964576
+author=ĐƯỜNG NHỚ
+link=None
+time_crawl=2023-09-20 11:28:27
+type=tiktok_comment
+id=7279703164528739074
+
+##################################################################################################################################################################################
+source_id=7278629396200672513
+video=
+description=
+view=305900
+duration=90
+title=
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-T%E1%BA%A6N-NGUY%E1%BB%84N-NEWS-7278629434897615617
+hastag=['#tintuc', '#tongthongjoebiden', '#tongthongmythamvietnam', '#johnbiden', '#vietnam', '#vietmyusa', '#chientranhvietnam']
+domain=www.tiktok.com
+share=118
+angry=0
+love=326
+sad=0
+wow=0
+haha=0
+comment=308
+like=4749
+image_url=[]
+content=Mỹ Sẽ Không Công Nhận Xâm Lược cũng Như- BỒI THƯỜNG CHO VIỆT NAM 🇻🇳?
+#tintuc #tongthongjoebiden #tongthongmythamvietnam #johnbiden #vietnam #vietmyusa #chientranhvietnam
+created_time=2023-09-14 17:39:32
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51c39c7f78653d5c5b92ff82f41906f7~c5_100x100.jpeg?x-expires=1695355200&x-signature=Ec6oUH1E5WFhpwe4zmsglHRlH6o%3D
+author_link=https://www.tiktok.com/@tannguyen.news
+author=TẦN NGUYỄN NEWS
+link=https://www.tiktok.com/@tannguyen.news/video/7278629396200672513
+time_crawl=2023-09-20 11:29:17
+type=tiktok_post
+id=7278629396200672513
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
