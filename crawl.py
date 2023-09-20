@@ -216,9 +216,10 @@ class CrawlManage(object):
             except Exception as e:
                 print(e)
                     # print("count: ", count)
-                pass
+                continue
             try: 
                 self.crawl_comment(link)
+                
                 end = time.time()
                 print(f"Time for video {count}: ",end - start)
             except Exception as e:
