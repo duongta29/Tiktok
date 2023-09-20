@@ -4,6 +4,7 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import json
+import pickle
 import datetime
 from typing import List
 from puzzle import Puzzle
@@ -17,6 +18,9 @@ import unicodedata
 from utils.common_utils import CommonUtils
 import config
 import captcha
+from kafka import KafkaProducer
+producer = KafkaProducer(bootstrap_servers=["10.11.101.129:9092"])
+
 # from utils.format_time import format_time
 
 options = webdriver.ChromeOptions()
@@ -107,6 +111,7 @@ class CrawlManage(object):
         return number
         
     def crawl_comment(self, link):
+        comments=[]
         def scroll_comment():
             cmts=[]
             check = 1
@@ -150,6 +155,7 @@ class CrawlManage(object):
                 comment_extractor: PostCommentExtractor = PostCommentExtractor(driver=self.driver, link = link, post_id= comment_id, comment= count_reply)
                         # data[vid] = self.CrawlVideo(vid)
                 comment = comment_extractor.extract()
+                comments.append(comment)
                 with open("result.txt", "a", encoding="utf-8") as file:
                     file.write(f"{str(comment)}\n")
                             # NguyenNH: in màu cho dễ debug
@@ -157,10 +163,23 @@ class CrawlManage(object):
                         file.write(f"##################################################################################################################################################################################\n")
                     else:
                         file.write(f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+        
         except Exception as e:
             print(e)
+        return comments
+    def push_kafka(self, posts, comments):
+        if len(posts) > 0:
+            bytes_obj = pickle.dumps([ob.__dict__ for ob in posts])
+            producer.send('lnmxh', bytes_obj)
+            if len(comments) > 0:
+                bytes_obj = pickle.dumps([ob.__dict__ for ob in comments])
+                producer.send('lnmxh', bytes_obj)
+            return 1  
+        else:
+            return 0
     
     def run(self):
+        posts = []
         count = 000
         self.driver.get("https://www.tiktok.com/")
         self.check_login_div()
@@ -204,6 +223,7 @@ class CrawlManage(object):
                     retry_extract(post, retry_time)
                     
                     count += 1
+                    posts.append(post)
                     with open('dataCrawled.txt', 'a') as f:
                         f.write(f"{link}\n")
                     with open("result.txt", "a", encoding="utf-8") as file:
@@ -218,8 +238,9 @@ class CrawlManage(object):
                     # print("count: ", count)
                 continue
             try: 
-                self.crawl_comment(link)
+                comments = self.crawl_comment(link)
                 
+                self.push_kafka(posts = posts, comments=comments, producer = None)
                 end = time.time()
                 print(f"Time for video {count}: ",end - start)
             except Exception as e:

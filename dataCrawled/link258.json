@@ -1,0 +1,56 @@
+{
+    "https://www.tiktok.com/@bad_2man/video/7264937103622999301": {
+        "AuthorID": "https://www.tiktok.com/@bad_2man",
+        "AuthorName": "Bad_2Man",
+        "CreateTime": "2023-08-08 20:06:24",
+        "Hastag": [
+            "https://www.tiktok.com/tag/funny",
+            "https://www.tiktok.com/tag/ironman",
+            "https://www.tiktok.com/tag/trending",
+            "https://www.tiktok.com/tag/marvel"
+        ],
+        "Content": "Iron Man is so funny in marvel characters #funny #ironman #trending #marvel",
+        "Music": "https://www.tiktok.com/music/original-sound-7264937105439542022",
+        "Like count": "1174",
+        "Love count": "56",
+        "Share count": "1",
+        "Comment count": "5",
+        "Comment": {
+            "7266836642876310278": {
+                "Author ID": "https://www.tiktok.com/@ahmadamin4880",
+                "Author Name": "Ahmad Raza",
+                "Time CMT": "8-13",
+                "ContentCMT": "movie name",
+                "Like": "0"
+            },
+            "7265023469661602565": {
+                "Author ID": "https://www.tiktok.com/@winter_soldier_143",
+                "Author Name": "MCU Edits",
+                "Time CMT": "8-9",
+                "ContentCMT": "funny \ud83d\ude01",
+                "Like": "0"
+            },
+            "7265693685260813061": {
+                "Author ID": "https://www.tiktok.com/@bad_2man",
+                "Author Name": "Bad_2Man",
+                "Time CMT": "8-10",
+                "ContentCMT": "\ud83d\udd25",
+                "Like": "0"
+            },
+            "7265246520918868742": {
+                "Author ID": "https://www.tiktok.com/@mafia4356",
+                "Author Name": "Maveya Khan482",
+                "Time CMT": "8-9",
+                "ContentCMT": "\ud83d\ude00",
+                "Like": "0"
+            },
+            "7265023471372124933": {
+                "Author ID": "https://www.tiktok.com/@winter_soldier_143",
+                "Author Name": "MCU Edits",
+                "Time CMT": "8-9",
+                "ContentCMT": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "Like": "1"
+            }
+        }
+    }
+}
