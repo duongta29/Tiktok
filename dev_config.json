@@ -16,7 +16,7 @@
     "mode":{
         "id" : 1,
 			"name" : "search_post",
-			"keyword": "[{\"key\": \"Joe Biden\", \"subKey\": [\"Viet Nam\"]}]",
+			"keyword": ["cháy chung cư mini", "cháy quán karaoke", "tổng thống mỹ qua thăm việt nam"," trung thu 2023"],
 			"link_page": "https://www.tiktok.com/@ojw86308hkp",
             "count_post": 20,
 			"link_post" : "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",

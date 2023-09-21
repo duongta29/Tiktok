@@ -39,11 +39,12 @@ class PostTikTokExtractor(PostExtractor):
         return self.link
 
     def extract_post_id(self):
-        return self.id
+        id = "tt_" + self.id
+        return id
     
     def extract_post_time_crawl(self):
         time_crawl = datetime.datetime.now()
-        time_crawl = time_crawl.strftime("%Y-%m-%d %H:%M:%S")
+        time_crawl = time_crawl.timestamp()
         return time_crawl
     
     def extract_post_author(self):
@@ -114,12 +115,12 @@ class PostTikTokExtractor(PostExtractor):
         return view
     
     def extract_post_type(self):
-        type = "tiktok_post"
+        type = "tiktok post"
         return type
     
     
     def extract_post_source_id(self):
-        source_id = self.id
+        source_id = "tt_" + self.id
         return source_id
     
     
@@ -142,11 +143,12 @@ class PostCommentExtractor(PostExtractor):
         return None
 
     def extract_post_id(self):
-        return self.post_id
+        id = "tt_" + self.post_id
+        return id
     
     def extract_post_time_crawl(self):
         time_crawl = datetime.datetime.now()
-        time_crawl = time_crawl.strftime("%Y-%m-%d %H:%M:%S")
+        time_crawl = time_crawl.timestamp()
         return time_crawl
     
     def extract_post_author(self):
@@ -215,13 +217,13 @@ class PostCommentExtractor(PostExtractor):
         return view
     
     def extract_post_type(self):
-        type = "tiktok_comment"
+        type = "tiktok comment"
         return type
     
     
     def extract_post_source_id(self):
         getIDvid = self.driver.find_element(By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
-        source_id = ((getIDvid.get_attribute('id')).split('-'))[2]
+        source_id = "tt_" + ((getIDvid.get_attribute('id')).split('-'))[2]
         return source_id
 
 
