@@ -75,16 +75,11 @@ class CrawlManage(object):
                     keywords.append(combined_keyword)
                 keyword_list.append(keywords)
         except:
-            # keyword_list_raw_dict = ast.literal_eval(keyword_list_raw_dict)
             keyword_list = [[item] for item in keyword_list_raw_dict]
         return keyword_list
         
-            
-    
     def filter_post(self, content, keyword_list):
         check = 0
-        # keywork, keyword_list, option = self.parse_keyword()
-        # keyword_list.append(keywork)
         for key in keyword_list:
             key = key.lower()
             content = content.lower()
@@ -130,7 +125,7 @@ class CrawlManage(object):
                 check = len(cmts)
                 self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 cmts = self.driver.find_elements(By.XPATH, '//*[contains(@class, "DivCommentItemContainer")]')
-                time.sleep(3)
+                time.sleep(2)
             try:
                 self.driver.execute_script("window.scrollTo(0, 0);")
             except:
@@ -149,19 +144,12 @@ class CrawlManage(object):
                 except:
                         pass
                 try:
-                    # div = cmt.find_element(By.XPATH, '//*[@data-e2e="view-more-1"]')
-                    # h = cmt.get_attribute('data-e2e="view-more-1"')
-                    # count_reply = div.text
                     div = cmt.find_elements(By.TAG_NAME, 'div')
                     count_reply = div[6].text
                         # count_reply = int(self.extract_numbers_from_string(count_reply)[0])
                     count_reply = self.extract_numbers_from_string(count_reply)
-                    # except Exception as e:
-                    #     print(e)
                 except:
                         count_reply = 0
-                        
-                    
                 comment_extractor: PostCommentExtractor = PostCommentExtractor(driver=self.driver, link = link, post_id= comment_id, comment= count_reply)
                         # data[vid] = self.CrawlVideo(vid)
                 comment = comment_extractor.extract()
@@ -173,10 +161,10 @@ class CrawlManage(object):
                         file.write(f"##################################################################################################################################################################################\n")
                     else:
                         file.write(f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
-        
         except Exception as e:
             print(e)
         return comments
+    
     def crawl_post(self, link, keyword_list):
         posts=[]
         self.driver.get(link)
@@ -185,14 +173,15 @@ class CrawlManage(object):
             # time.sleep(30)
         print(f" >>> Crawling: {link} ...")
         captcha.check_captcha(self.driver)
-        if self.option == 'search_post':
-            content = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
-            check = self.filter_post(content, keyword_list)
-            if check:
-                pass
-            else:
-                print(f"Filter out link {link}")
-        try: 
+        try:
+            if self.option == 'search_post':
+                content = self.driver.find_element(By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
+                check = self.filter_post(content, keyword_list)
+                if check:
+                    pass
+                else:
+                    print(f"Filter out link {link}")
+         
             post_extractor: PostTikTokExtractor = PostTikTokExtractor(driver=self.driver, link = link)
                         # data[vid] = self.CrawlVideo(vid)
             post = post_extractor.extract()
@@ -223,7 +212,6 @@ class CrawlManage(object):
                 print(e)
         return posts
                 
-        
     def push_kafka(self, posts, comments):
         if len(posts) > 0:
             bytes_obj = pickle.dumps([ob.__dict__ for ob in posts])
@@ -241,7 +229,7 @@ class CrawlManage(object):
         self.driver.get("https://www.tiktok.com/")
         self.check_login_div()
         print("Start crawl")
-        time.sleep(3)
+        # time.sleep(3)
         keywords= self.parse_keyword()
         for keyword in keywords:
             link_list = self.get_link_list(keyword[0])
@@ -252,7 +240,6 @@ class CrawlManage(object):
                 if len(posts) != 0:
                         try: 
                             comments = self.crawl_comment(link)
-                            
                             self.push_kafka(posts = posts, comments=comments)
                             end = time.time()
                             print(f"Time for video {count}: ",end - start)
@@ -261,11 +248,16 @@ class CrawlManage(object):
 
     def scroll(self, xpath):
         vidList = []
-        time.sleep(2)
+        self.driver.implicitly_wait(2)
         try:
             captcha.check_captcha(self.driver)
         except:
             pass
+        try: 
+            self.driver.find_elements(By.XPATH, xpath)
+        except:
+            print("Something went wrong")
+            self.driver.refresh()
         count = 1
         vid_list_elem =[]
         while(len(vid_list_elem) != count and len(vid_list_elem) < self.config.count_of_vid):
@@ -278,11 +270,9 @@ class CrawlManage(object):
                 # print("len vid: ", len(vid_list_elem))
                 self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
-        time.sleep(3)
+        # time.sleep(3)
         for vid in vid_list_elem:
-                    # print("###################################################")
                 link = vid.find_element(By.TAG_NAME, 'a').get_attribute('href')
-                
                 vidList.append(link)
         print("Count of links: ", len(vidList))
         with open('dataCrawled.txt', 'r') as f:
@@ -296,33 +286,32 @@ class CrawlManage(object):
         print('-------> GET LINK LIST <-------')
         vidList=[]
         # keyword_dict, option = self.parse_keyword()
-        if self.option == "search_post":
-            self.driver.get(self.config.search_post_tiktok + keyword)
-            captcha.check_captcha(self.driver)
-            vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
-        if self.option == "search_post_android":
-            with open("link_list_android.txt", "r") as f:
-                vidList = [line.strip() for line in f.readlines()]
-        elif self.option == "search_user":
-            self.driver.get(self.config.search_page_tiktok + self.config.user_id)
-            captcha.check_captcha(self.driver)
-            vidList = self.scroll(xpath = self.XPATH_VIDEO_USER)
-        elif self.option == "tag":
-            self.driver.get(self.config.hashtag_tiktok + keyword)
-            captcha.check_captcha(self.driver)
-            vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
-        elif self.option == "explore":
-            self.driver.get(self.config.explore_tiktok)
-            captcha.check_captcha(self.driver)
-            div = self.driver.find_elements(By.XPATH, '//*[@id="main-content-explore_page"]/div/div[1]/div[1]/div')
-            for d in div:
-                if d.text == self.config.explore_option:
-                    d.click()
-                    break
-            vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
+        try:
+            if self.option == "search_post":
+                self.driver.get(self.config.search_post_tiktok + keyword)
+                # captcha.check_captcha(self.driver)
+                vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
+            if self.option == "search_post_android":
+                with open("link_list_android.txt", "r") as f:
+                    vidList = [line.strip() for line in f.readlines()]
+            elif self.option == "search_user":
+                self.driver.get(self.config.search_page_tiktok + self.config.user_id)
+                # captcha.check_captcha(self.driver)
+                vidList = self.scroll(xpath = self.XPATH_VIDEO_USER)
+            elif self.option == "tag":
+                self.driver.get(self.config.hashtag_tiktok + keyword)
+                # captcha.check_captcha(self.driver)
+                vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
+            elif self.option == "explore":
+                self.driver.get(self.config.explore_tiktok)
+                # captcha.check_captcha(self.driver)
+                div = self.driver.find_elements(By.XPATH, '//*[@id="main-content-explore_page"]/div/div[1]/div[1]/div')
+                for d in div:
+                    if d.text == self.config.explore_option:
+                        d.click()
+                        break
+                vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
+        except:
+            print("Something went wrong")
+            return self.get_link_list(keyword)
         return vidList
-            
-    
-        
-        
-        
