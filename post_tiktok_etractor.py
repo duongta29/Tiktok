@@ -120,9 +120,8 @@ class PostTikTokExtractor(PostExtractor):
     
     
     def extract_post_source_id(self):
-        source_id = "tt_" + self.id
+        source_id = ""
         return source_id
-    
     
 
 class PostCommentExtractor(PostExtractor):

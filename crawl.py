@@ -280,7 +280,7 @@ class CrawlManage(object):
         for vid in vidList:
             if vid in data_crawled:
                 vidList.remove(vid)
-        return vidList[:2]
+        return vidList
         
     def get_link_list(self, keyword) -> list:
         print('-------> GET LINK LIST <-------')
