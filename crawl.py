@@ -248,16 +248,18 @@ class CrawlManage(object):
 
     def scroll(self, xpath):
         vidList = []
-        self.driver.implicitly_wait(2)
+        time.sleep(3)
+        # self.driver.implicitly_wait(2)
         try:
             captcha.check_captcha(self.driver)
         except:
             pass
-        try: 
-            self.driver.find_elements(By.XPATH, xpath)
-        except:
-            print("Something went wrong")
-            self.driver.refresh()
+        # try: 
+        #     self.driver.find_elements(By.XPATH, xpath)
+        # except:
+        #     print("Something went wrong")
+        #     self.driver.refresh()
+        
         count = 1
         vid_list_elem =[]
         while(len(vid_list_elem) != count and len(vid_list_elem) < self.config.count_of_vid):
@@ -274,6 +276,10 @@ class CrawlManage(object):
         for vid in vid_list_elem:
                 link = vid.find_element(By.TAG_NAME, 'a').get_attribute('href')
                 vidList.append(link)
+        if len(vidList) == 0:
+            print("Something went wrong")
+            self.driver.refresh()
+            return self.scroll()
         print("Count of links: ", len(vidList))
         with open('dataCrawled.txt', 'r') as f:
             data_crawled = f.read()
@@ -286,23 +292,22 @@ class CrawlManage(object):
         print('-------> GET LINK LIST <-------')
         vidList=[]
         # keyword_dict, option = self.parse_keyword()
-        try:
-            if self.option == "search_post":
+        if self.option == "search_post":
                 self.driver.get(self.config.search_post_tiktok + keyword)
                 # captcha.check_captcha(self.driver)
                 vidList = self.scroll(xpath = self.XPATH_VIDEO_SEARCH)
-            if self.option == "search_post_android":
+        if self.option == "search_post_android":
                 with open("link_list_android.txt", "r") as f:
                     vidList = [line.strip() for line in f.readlines()]
-            elif self.option == "search_user":
+        elif self.option == "search_user":
                 self.driver.get(self.config.search_page_tiktok + self.config.user_id)
                 # captcha.check_captcha(self.driver)
                 vidList = self.scroll(xpath = self.XPATH_VIDEO_USER)
-            elif self.option == "tag":
+        elif self.option == "tag":
                 self.driver.get(self.config.hashtag_tiktok + keyword)
                 # captcha.check_captcha(self.driver)
                 vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
-            elif self.option == "explore":
+        elif self.option == "explore":
                 self.driver.get(self.config.explore_tiktok)
                 # captcha.check_captcha(self.driver)
                 div = self.driver.find_elements(By.XPATH, '//*[@id="main-content-explore_page"]/div/div[1]/div[1]/div')
@@ -311,7 +316,4 @@ class CrawlManage(object):
                         d.click()
                         break
                 vidList = self.scroll(xpath = self.XPATH_VIDEO_OTHER)
-        except:
-            print("Something went wrong")
-            return self.get_link_list(keyword)
         return vidList
