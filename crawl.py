@@ -35,7 +35,7 @@ options.add_argument('--disable-save-password-bubble')
 options.add_argument('--disable-translate')
 options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
-
+# options.add_experimental_option("excludeSwitches", ["enable-automation"])
 # driver = webdriver.Chrome(options=options)
 
 
@@ -130,6 +130,13 @@ class CrawlManage(object):
                 self.driver.execute_script("window.scrollTo(0, 0);")
             except:
                 pass
+            try: 
+                buttons = (self.driver.find_elements(By.XPATH, '//*[@data-e2e="comment-hide"]'))
+                for button in buttons:
+                    button.click()
+                    time.sleep(0.1)
+            except:
+                    pass
             return cmts
         
         try:
@@ -137,12 +144,6 @@ class CrawlManage(object):
             print(">>> Crawling comment of post ...")
             for cmt in list_cmt:
                 comment_id = cmt.find_element(By.TAG_NAME, 'div').get_attribute('id')
-                
-                try: 
-                        button = (cmt.find_element(By.XPATH, '//*[@data-e2e="comment-hide"]'))
-                        button.click()
-                except:
-                        pass
                 try:
                     div = cmt.find_elements(By.TAG_NAME, 'div')
                     count_reply = div[6].text
@@ -225,7 +226,7 @@ class CrawlManage(object):
     
     def run(self):
         posts = []
-        count = 000
+        count = 0
         self.driver.get("https://www.tiktok.com/")
         self.check_login_div()
         print("Start crawl")
@@ -254,12 +255,6 @@ class CrawlManage(object):
             captcha.check_captcha(self.driver)
         except:
             pass
-        # try: 
-        #     self.driver.find_elements(By.XPATH, xpath)
-        # except:
-        #     print("Something went wrong")
-        #     self.driver.refresh()
-        
         count = 1
         vid_list_elem =[]
         while(len(vid_list_elem) != count and len(vid_list_elem) < self.config.count_of_vid):
@@ -279,7 +274,7 @@ class CrawlManage(object):
         if len(vidList) == 0:
             print("Something went wrong")
             self.driver.refresh()
-            return self.scroll()
+            return self.scroll(xpath)
         print("Count of links: ", len(vidList))
         with open('dataCrawled.txt', 'r') as f:
             data_crawled = f.read()

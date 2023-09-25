@@ -22,54 +22,56 @@ def perform_swipe(driver):
     time.sleep(2)
 
 desired_cap ={
-    "uuid": "127.0.0.1:62025 device",
+    "uuid": "33005d5ad005c327 device",
     "platformName" : "Android",
-    "appPackage" : "com.android.launcher3",
-    "appActivity" :"com.android.launcher3.launcher3.Launcher"
+    "appPackage" : "com.sec.android.app.launcher",
+    "appActivity" :"com.sec.android.app.launcher.activities.LauncherActivity"
     #adb shell dumpsys window | find "mCurrentFocus"
 }
 link_list = []
-driver = webdriver.Remote('http://localhost:4720/wd/hub', desired_cap)
+driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_cap)
 driver.implicitly_wait(30)
 
-button = driver.find_element("xpath", '//android.widget.TextView[@content-desc="TikTok"]')
+perform_swipe(driver)
+time.sleep(1.5)
+button = driver.find_element("xpath", '//android.widget.FrameLayout[@content-desc="TikTok"]/android.widget.ImageView')
 button.click()
-
-# time.sleep(5)
+time.sleep(3)
 driver.implicitly_wait(10)
-# driver.implicitly_wait(30)
-search_button = driver.find_element("xpath", '/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/X.YAD/android.widget.TabHost/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ImageView')
+
+search_button = driver.find_element("id", 'com.ss.android.ugc.trill:id/d37')
 search_button.click()
 driver.implicitly_wait(10)
-search = driver.find_element("id", "com.ss.android.ugc.trill:id/cvx")
+search = driver.find_element("id", "com.ss.android.ugc.trill:id/cxz")
 
-search.send_keys("chuyen bay giai cuu")
+search.send_keys("chay chung cu mini")
 # search.send_keys(Keys.RETURN)
-search = driver.find_element("id", "com.ss.android.ugc.trill:id/m3t")
+search = driver.find_element("id", "com.ss.android.ugc.trill:id/m_s")
 search.click()
 # driver.press_keycode(66)
 time.sleep(5)
 driver.implicitly_wait(10)
 
-filter_button = driver.find_element("id", "com.ss.android.ugc.trill:id/j80")
+filter_button = driver.find_element("id", "com.ss.android.ugc.trill:id/jbi")
 filter_button.click()
-fil = driver.find_element("id", 'com.ss.android.ugc.trill:id/b5p')
+fil = driver.find_element("id", 'com.ss.android.ugc.trill:id/b6z')
 fil.click()
 
-arrange_button = driver.find_element("xpath",'/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.TextView[3]')
+arrange_button = driver.find_element("xpath",'//android.widget.TextView[@index="3"]')
 arrange_button.click()
 # twenty_four = driver.find_element("xpath", "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.TextView[5]")
 # twenty_four.click()
 # //android.widget.Button[@content-desc="Áp dụng"]
 apply_buton = driver.find_element("xpath", '//android.widget.Button[@content-desc="Áp dụng"]')
 apply_buton.click()
-video = driver.find_element("id", "com.ss.android.ugc.trill:id/j8a")
+time.sleep(3)
+video = driver.find_element("id", "com.ss.android.ugc.trill:id/mx0")
 video.click()
 
 
 post = 0
 while (post <= 100):
-    share = driver.find_element("id", "com.ss.android.ugc.trill:id/jh5")
+    share = driver.find_element("id", "com.ss.android.ugc.trill:id/jme")
     share.click()
 
     copy_link = driver.find_element("xpath", '//android.widget.Button[@content-desc="Sao chép Liên kết"]/android.widget.ImageView')

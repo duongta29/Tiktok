@@ -120,9 +120,9 @@ class PostTikTokExtractor(PostExtractor):
     
     
     def extract_post_source_id(self):
-        # source_id = ""
-        # return source_id
-        pass
+        source_id = ""
+        return source_id
+        
     
 
 class PostCommentExtractor(PostExtractor):
@@ -140,7 +140,7 @@ class PostCommentExtractor(PostExtractor):
         
     
     def extract_post_link(self):
-        return None
+        return ""
 
     def extract_post_id(self):
         id = "tt_" + self.post_id
@@ -178,9 +178,7 @@ class PostCommentExtractor(PostExtractor):
     
 
     def extract_post_love(self):
-        # love= None
-        # return love
-        pass
+        return 0
     
     
     def extract_post_comment(self):
@@ -189,9 +187,7 @@ class PostCommentExtractor(PostExtractor):
     
     
     def extract_post_share(self):
-        # share = None
-        # return share
-        pass
+        return 0
     
     
     def extract_post_domain(self):
@@ -200,27 +196,19 @@ class PostCommentExtractor(PostExtractor):
 
     
     def extract_post_hagtag(self):
-        # hastag = None
-        # return hastag
-        pass
+        return ""
     
     
     def extract_post_music(self):
-        # music = None
-        # return music 
-        pass
+        return ""
     
     
     def extract_post_duration(self):
-        # duration = None
-        # return duration
-        pass
+        return 0
     
     
     def extract_post_view(self):
-        # view = None
-        # return view
-        pass
+        return 0
     
     def extract_post_type(self):
         type = "tiktok comment"
