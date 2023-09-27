@@ -2,29 +2,44 @@
     "account": {
         "created_date": "",
         "id": "",
-        "user_name":"babysunny2906",
-        "pass_word":"Ncsduong@29s"
+        "user_name": "babysunny2906",
+        "pass_word": "Ncsduong@29s"
     },
-    "created_date":"",
-    "device":{
+    "created_date": "",
+    "device": {
         "hardware_status": "",
-        "id":"",
-        "ip_addr":"",
-        "online_status":"online"
-        },
-    "id":"",
-    "mode":{
-        "id" : 1,
-			"name" : "search_post",
-			"keyword": ["cháy chung cư mini", "cháy quán karaoke", "tổng thống mỹ qua thăm việt nam"," trung thu 2023"],
-			"link_page": "https://www.tiktok.com/@ojw86308hkp",
-            "count_post": 20,
-			"link_post" : "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",
-			"type_auto" : ["love","like", "comment", "share", "follow","report"],
-            "action": "like",
-            "type":"video",
-            "key": "hanoi",
-            "key_comment": ["tuyet voi","hay ghê "],
-			"report_type": "Disordered eating and unhealthy body image"
+        "id": "",
+        "ip_addr": "",
+        "online_status": "online"
+    },
+    "id": "",
+    "mode": {
+        "id": 1,
+        "name": "search_post_android",
+        "keyword": [
+            "cháy quán karaoke",
+            "cháy chung cư mini",
+            "tổng thống mỹ qua thăm việt nam",
+            " trung thu 2023"
+        ],
+        "link_page": "https://www.tiktok.com/@ojw86308hkp",
+        "count_post": 20,
+        "link_post": "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",
+        "type_auto": [
+            "love",
+            "like",
+            "comment",
+            "share",
+            "follow",
+            "report"
+        ],
+        "action": "like",
+        "type": "video",
+        "key": "hanoi",
+        "key_comment": [
+            "tuyet voi",
+            "hay ghê "
+        ],
+        "report_type": "Disordered eating and unhealthy body image"
     }
 }
