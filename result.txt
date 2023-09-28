@@ -2603,3 +2603,616 @@ type=tiktok post
 id=tt_7281904164588899616
 
 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=
+view=149
+duration=27
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Tr%E1%BB%8Dng-L%C3%BA-7278522214613338882
+hastag=[]
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=12
+content=❤️ Yêu dữ chưa
+created_time=1694663011
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/69ac2d7c7a793b8093c7dbf0b4934248~c5_100x100.jpeg?x-expires=1696057200&x-signature=OOGk5eNHdwdqCNT%2FL7CIlyIJE%2FY%3D
+author_link=https://www.tiktok.com/@tronglu1996
+author=Trọng Lú
+link=https://www.tiktok.com/@tronglu1996/video/7278522195737988359
+time_crawl=1695887887.215496
+type=tiktok post
+id=tt_7278522195737988359
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7278522195737988359
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=1
+content=yêu lắm ❤❤
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/9c17b62ce7b64002573334ed93474547~c5_100x100.jpg?x-expires=1695970800&x-signature=RiNEJV%2FRm7vmrKMcIChADaH2m5Y%3D
+author_link=https://www.tiktok.com/@trucgiang0920
+author=Giang Nguyễn
+link=
+time_crawl=1695887896.992826
+type=tiktok comment
+id=tt_7278625306893550343
+
+##################################################################################################################################################################################
+source_id=
+view=1631
+duration=23
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Tr%E1%BB%8Dng-L%C3%BA-7257440484158343938
+hastag=['#tiktoksuhuong']
+domain=www.tiktok.com
+share=0
+love=0
+comment=6
+like=26
+content=xu#tiktoksuhuong
+created_time=1689754542
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/0ea43e9b8b81106e8e0e52949414a7a6~c5_100x100.jpeg?x-expires=1696057200&x-signature=wSzmMqIhbuE5vcidfzk9Wwzr2dI%3D
+author_link=https://www.tiktok.com/@dygosqmkgtu9
+author=
+link=https://www.tiktok.com/@dygosqmkgtu9/video/7257440478780493063
+time_crawl=1695887923.503974
+type=tiktok post
+id=tt_7257440478780493063
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=Anh trọng mạnh quá
+created_time=1689699600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/cb16de2f7410358c86208bc3682854ff~c5_100x100.jpg?x-expires=1695970800&x-signature=qZtXyPTn3QkcY6AIGqtSpzczW20%3D
+author_link=https://www.tiktok.com/@truong121002
+author=Nguyễn Trường
+link=
+time_crawl=1695887987.453465
+type=tiktok comment
+id=tt_7257455061571404550
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=vâng
+created_time=1689699600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/0ea43e9b8b81106e8e0e52949414a7a6~c5_100x100.jpeg?x-expires=1696057200&x-signature=wSzmMqIhbuE5vcidfzk9Wwzr2dI%3D
+author_link=https://www.tiktok.com/@dygosqmkgtu9
+author=
+link=
+time_crawl=1695887987.605195
+type=tiktok comment
+id=tt_7257500638161158919
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thằng đàn ông mà k si nhan đố con nào dám vượt 😅
+created_time=1690822800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ed07b1228794a3cecfdd39f714d88e4c.jpg?x-expires=1695970800&x-signature=8ERuYURAyFOYUzeMu%2BqzFk%2BJpr4%3D
+author_link=https://www.tiktok.com/@kynhigiang
+author=Ky Nhi Giang
+link=
+time_crawl=1695887987.713343
+type=tiktok comment
+id=tt_7262229703947436808
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=quá ghê gớm
+created_time=1690045200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f04ca6a0e098c6b53c5aad1befdc45ab~c5_100x100.jpg?x-expires=1695970800&x-signature=O7JboPeCRdHvOPFopH%2B6b8ur0ns%3D
+author_link=https://www.tiktok.com/@boanhvidai11102
+author=AnhThuc6789
+link=
+time_crawl=1695887987.848607
+type=tiktok comment
+id=tt_7258922415220638469
+
+##################################################################################################################################################################################
+source_id=
+view=199
+duration=15
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Tr%E1%BB%8Dng-L%C3%BA-7275934598020877057
+hastag=['#xuhuongtiktok', '#thinhhanhxuhuong', '#trending']
+domain=www.tiktok.com
+share=1
+love=1
+comment=2
+like=19
+content=3 năm
+hết yêu thỳ xóa 🤣
+#xuhuongtiktok
+#thinhhanhxuhuong
+#trending
+created_time=1694060532
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/16bcfe718e8188343677764991ddd649~c5_100x100.jpeg?x-expires=1696057200&x-signature=zgp7uFRsk%2FdYo0IiCYNin4nWWOg%3D
+author_link=https://www.tiktok.com/@ductrong_193
+author=Trọng Lú
+link=https://www.tiktok.com/@ductrong_193/video/7275934564554444039
+time_crawl=1695888005.466882
+type=tiktok post
+id=tt_7275934564554444039
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7275934564554444039
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=1
+content=cưới thôi b
+created_time=1694019600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/04cdb868870eab6e3a1e6f88c8c50397.jpg?x-expires=1695970800&x-signature=znA7LKRREXqVZ%2BFfQjgVLRxuaXE%3D
+author_link=https://www.tiktok.com/@baduy379
+author=:-(Huyết-Công-Tử:,-)
+link=
+time_crawl=1695888010.071274
+type=tiktok comment
+id=tt_7276039467914576647
+
+##################################################################################################################################################################################
+source_id=
+view=1631
+duration=23
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Tr%E1%BB%8Dng-L%C3%BA-7257440484158343938
+hastag=['#tiktoksuhuong']
+domain=www.tiktok.com
+share=0
+love=0
+comment=6
+like=26
+content=xu#tiktoksuhuong
+created_time=1689754542
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/0ea43e9b8b81106e8e0e52949414a7a6~c5_100x100.jpeg?x-expires=1696060800&x-signature=kKkZJd%2FFm0lbXV1BVbDEYqdAfpo%3D
+author_link=https://www.tiktok.com/@dygosqmkgtu9
+author=
+link=https://www.tiktok.com/@dygosqmkgtu9/video/7257440478780493063
+time_crawl=1695889529.400158
+type=tiktok post
+id=tt_7257440478780493063
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=Anh trọng mạnh quá
+created_time=1689699600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/cb16de2f7410358c86208bc3682854ff~c5_100x100.jpg?x-expires=1695974400&x-signature=GgGVmeercQ3UxOvFp8KHWI0SgAU%3D
+author_link=https://www.tiktok.com/@truong121002
+author=Nguyễn Trường
+link=
+time_crawl=1695889587.784277
+type=tiktok comment
+id=tt_7257455061571404550
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=vâng
+created_time=1689699600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/0ea43e9b8b81106e8e0e52949414a7a6~c5_100x100.jpeg?x-expires=1696060800&x-signature=kKkZJd%2FFm0lbXV1BVbDEYqdAfpo%3D
+author_link=https://www.tiktok.com/@dygosqmkgtu9
+author=
+link=
+time_crawl=1695889588.042407
+type=tiktok comment
+id=tt_7257500638161158919
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thằng đàn ông mà k si nhan đố con nào dám vượt 😅
+created_time=1690822800
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ed07b1228794a3cecfdd39f714d88e4c.jpg?x-expires=1695974400&x-signature=AAUJoF0S%2FtWtxz6SPa8FtVUZZaE%3D
+author_link=https://www.tiktok.com/@kynhigiang
+author=Ky Nhi Giang
+link=
+time_crawl=1695889588.292098
+type=tiktok comment
+id=tt_7262229703947436808
+
+##################################################################################################################################################################################
+source_id=tt_7257440478780493063
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=quá ghê gớm
+created_time=1690045200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f04ca6a0e098c6b53c5aad1befdc45ab~c5_100x100.jpg?x-expires=1695974400&x-signature=nlxs9hZNrjLkdwuTEqyl2tsfQr0%3D
+author_link=https://www.tiktok.com/@boanhvidai11102
+author=AnhThuc6789
+link=
+time_crawl=1695889588.465301
+type=tiktok comment
+id=tt_7258922415220638469
+
+##################################################################################################################################################################################
+author=𝙋𝘽𝙃 𝙇ị𝙘𝙝 𝙎ử 🇻🇳❤️
+source_id=
+view=5100000
+duration=19
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Nh%E1%BA%ADc-C%C3%B2-7225865303015951110
+hastag=['', '', '', '', '', '', '']
+domain=www.tiktok.com
+share=1165
+love=14852
+comment=1748
+like=403300
+content=Chiến dịch đốt lò dùng chỉ chiến dịch chống tham nhũng quy mô lớn do nhà lãnh đạo Đảng Cộng sản Việt Nam Nguyễn Phú Trọng khởi xướng từ năm 2013 trên cương vị Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Trưởng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực Đảng Cộng sản Việt Nam. Chiến dịch ‘đốt lò’ này được các nhà quan sát cho là một nỗ lực của Đảng trong việc giành lại quyền lực và uy thế cũng như củng cố lòng tin của người dân vào chính quyền và sự lãnh đạo của Đảng.
+created_time=1683950891
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/dc0e1d2ea9af9295e72a46904e38a2b2~c5_100x100.jpeg?x-expires=1696064400&x-signature=lGPH7jgg%2ByR3HIynfYl92jioIhM%3D
+author_link=https://www.tiktok.com/@pbhlichsu
+link=https://www.tiktok.com/@pbhlichsu/video/7232513985415875846
+time_crawl=1695894893.009548
+type=tiktok post
+id=tt_7232513985415875846
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+author=Xiao Doãn
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=9
+like=514
+content=“Ai cấm được tôi” câu nói cực chất từ Người đốt lò, nên được ghi vào sử sách
+created_time=1683910800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e2e8dc0493362406fa0efb4bb7c52ca~c5_100x100.jpg?x-expires=1695978000&x-signature=7TZg19NwXyFBhxvrFF4P2lfimfs%3D
+author_link=https://www.tiktok.com/@leedoan3020
+link=
+time_crawl=1695894912.439314
+type=tiktok comment
+id=tt_7232660932403528453
+
+##################################################################################################################################################################################
+author=Hồng Phú
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=5
+like=88
+content=Dân Nuôi 1 bộ máy chính quyền mà đớp quá đớp. Ko có bác Trọng thì ối dồi ôi
+created_time=1685034000
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1654812903549954.jpg?x-expires=1695978000&x-signature=yJuwcE%2FZ5htNaYzHjKPUt2WBL2c%3D
+author_link=https://www.tiktok.com/@richphone
+link=
+time_crawl=1695894912.572666
+type=tiktok comment
+id=tt_7237413521842537221
+
+##################################################################################################################################################################################
+author=ㅤㅤ
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=3
+like=87
+content=Bác Trọng nghỉ hưu tháng nhày mất điện bắt đầu:( mong bác mau khoẻ để tiếp tục lãnh đạo đất nước🥰
+created_time=1684429200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bb83bafd816b44cc1011bfbfddfcb94a.jpg?x-expires=1695978000&x-signature=bVYFerL2rhdHvWB6ZymgeX0cX0I%3D
+author_link=https://www.tiktok.com/@ngaa_3110
+link=
+time_crawl=1695894912.703141
+type=tiktok comment
+id=tt_7234893441581925126
+
+##################################################################################################################################################################################
+author=hue222522
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=35
+content=Nếu bác Trọng không làm nghiêm ntn thì thật sự sau này những chức vụ quan trọng trong khu vực công đều là con ông cháu cha hết, ng ko có ô dù, quan hệ
+created_time=1684947600
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1695978000&x-signature=UaYlH7spl3AvdZ0UPnLUuUGRC7c%3D
+author_link=https://www.tiktok.com/@hue222522
+link=
+time_crawl=1695894912.832638
+type=tiktok comment
+id=tt_7237016296067285765
+
+##################################################################################################################################################################################
+author=⊹⊱ⓉⒶ↭ⓋⓊⓄⓃⒼ↭ⒸⒽⒶⓃ↭ⓃⒽⒶⓃ⊰⊹
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=7
+like=863
+content=Bác Trọng thì ko còn j để nói rồi. Quá đẳng cấp
+created_time=1683997200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ee098b0eff205079aa420ca1a5aeba42.jpg?x-expires=1695978000&x-signature=bMduwh771HzPnP3xmqwkswzcbzc%3D
+author_link=https://www.tiktok.com/@n.a.s.a_yeu.em
+link=
+time_crawl=1695894912.961636
+type=tiktok comment
+id=tt_7232840218591658758
+
+##################################################################################################################################################################################
+author=🌽𝕹𝖌ô 𝕿𝖍ị 𝕳ạ𝖓𝖍 🌽
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=8
+like=579
+content="Chiến dịch Đốt lò" sẽ được ghi vào SGK lịch sử 🥰
+created_time=1684688400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/bbd399c4a3d809ef60e61d6da17d6119~c5_100x100.jpg?x-expires=1695978000&x-signature=jrf6hj0E5bHc4LlpNFIAGoUYXhw%3D
+author_link=https://www.tiktok.com/@luclac.99
+link=
+time_crawl=1695894913.087108
+type=tiktok comment
+id=tt_7235873693720249094
+
+##################################################################################################################################################################################
+source_id=
+view=5100000
+duration=19
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Nh%E1%BA%ADc-C%C3%B2-7225865303015951110
+hastag=['', '', '', '', '', '', '']
+domain=www.tiktok.com
+share=1165
+love=14852
+comment=1748
+like=403300
+content=Chiến dịch đốt lò dùng chỉ chiến dịch chống tham nhũng quy mô lớn do nhà lãnh đạo Đảng Cộng sản Việt Nam Nguyễn Phú Trọng khởi xướng từ năm 2013 trên cương vị Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Trưởng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực Đảng Cộng sản Việt Nam. Chiến dịch ‘đốt lò’ này được các nhà quan sát cho là một nỗ lực của Đảng trong việc giành lại quyền lực và uy thế cũng như củng cố lòng tin của người dân vào chính quyền và sự lãnh đạo của Đảng.
+created_time=1683950891
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/dc0e1d2ea9af9295e72a46904e38a2b2~c5_100x100.jpeg?x-expires=1696068000&x-signature=rfrd9McDX1TYnRwjusS3%2BBVsw2g%3D
+author_link=https://www.tiktok.com/@pbhlichsu
+author=𝙋𝘽𝙃 𝙇ị𝙘𝙝 𝙎ử 🇻🇳❤️
+link=https://www.tiktok.com/@pbhlichsu/video/7232513985415875846
+time_crawl=1695895466.998828
+type=tiktok post
+id=tt_7232513985415875846
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=9
+like=514
+content=“Ai cấm được tôi” câu nói cực chất từ Người đốt lò, nên được ghi vào sử sách
+created_time=1683910800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e2e8dc0493362406fa0efb4bb7c52ca~c5_100x100.jpg?x-expires=1695981600&x-signature=gB9%2FSkVMzynshpmdYc67a3paQ7M%3D
+author_link=https://www.tiktok.com/@leedoan3020
+author=Xiao Doãn
+link=
+time_crawl=1695895485.948859
+type=tiktok comment
+id=tt_7232660932403528453
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=5
+like=88
+content=Dân Nuôi 1 bộ máy chính quyền mà đớp quá đớp. Ko có bác Trọng thì ối dồi ôi
+created_time=1685034000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1654812903549954.jpg?x-expires=1695981600&x-signature=ph%2B1NWRKiip9BhwEEEd%2FQgsVNtQ%3D
+author_link=https://www.tiktok.com/@richphone
+author=Hồng Phú
+link=
+time_crawl=1695895486.100848
+type=tiktok comment
+id=tt_7237413521842537221
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=3
+like=87
+content=Bác Trọng nghỉ hưu tháng nhày mất điện bắt đầu:( mong bác mau khoẻ để tiếp tục lãnh đạo đất nước🥰
+created_time=1684429200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bb83bafd816b44cc1011bfbfddfcb94a.jpg?x-expires=1695981600&x-signature=mb6JgxnBa%2BMqpXpvRaRAuYWJc54%3D
+author_link=https://www.tiktok.com/@ngaa_3110
+author=ㅤㅤ
+link=
+time_crawl=1695895486.23384
+type=tiktok comment
+id=tt_7234893441581925126
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=35
+content=Nếu bác Trọng không làm nghiêm ntn thì thật sự sau này những chức vụ quan trọng trong khu vực công đều là con ông cháu cha hết, ng ko có ô dù, quan hệ
+created_time=1684947600
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1695981600&x-signature=JNgUYKqOTO7%2FxJRQ0d22VHSc4hM%3D
+author_link=https://www.tiktok.com/@hue222522
+author=hue222522
+link=
+time_crawl=1695895486.437355
+type=tiktok comment
+id=tt_7237016296067285765
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=7
+like=863
+content=Bác Trọng thì ko còn j để nói rồi. Quá đẳng cấp
+created_time=1683997200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ee098b0eff205079aa420ca1a5aeba42.jpg?x-expires=1695981600&x-signature=TznSVhtfWdCXD%2FNGAYADUxexGs0%3D
+author_link=https://www.tiktok.com/@n.a.s.a_yeu.em
+author=⊹⊱ⓉⒶ↭ⓋⓊⓄⓃⒼ↭ⒸⒽⒶⓃ↭ⓃⒽⒶⓃ⊰⊹
+link=
+time_crawl=1695895486.59992
+type=tiktok comment
+id=tt_7232840218591658758
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=8
+like=579
+content="Chiến dịch Đốt lò" sẽ được ghi vào SGK lịch sử 🥰
+created_time=1684688400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/bbd399c4a3d809ef60e61d6da17d6119~c5_100x100.jpg?x-expires=1695981600&x-signature=oOYyhMcEuwDXHJtw1o8qY4gijcE%3D
+author_link=https://www.tiktok.com/@luclac.99
+author=🌽𝕹𝖌ô 𝕿𝖍ị 𝕳ạ𝖓𝖍 🌽
+link=
+time_crawl=1695895486.725877
+type=tiktok comment
+id=tt_7235873693720249094
+
+##################################################################################################################################################################################
+source_id=tt_7232513985415875846
+view=0
+duration=0
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=4
+like=743
+content=Đưa vào SGK để con cháu học và ghi nhớ
+created_time=1683910800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1b71888b2497a3f6dc27e5ec166ca0a4.jpg?x-expires=1695981600&x-signature=j92PugZW%2F18%2Bmu5SP%2FbN6IAFIC4%3D
+author_link=https://www.tiktok.com/@nguyenhoai2407
+author=Nguyễn Hoài
+link=
+time_crawl=1695895486.856641
+type=tiktok comment
+id=tt_7232656460139692805
+
+##################################################################################################################################################################################

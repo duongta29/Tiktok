@@ -29,6 +29,7 @@ producer = KafkaProducer(bootstrap_servers=["10.11.101.129:9092"])
 # from utils.format_time import format_time
 
 options = webdriver.ChromeOptions()
+options.add_argument('--mute-audio')
 options.add_argument('--disable-blink-features=AutomationControlled')
 options.add_argument("--start-maximized")
 options.add_argument('--disable-infobars')
@@ -51,7 +52,7 @@ class CrawlManage(object):
     def __init__(self, driver=webdriver.Chrome(options=options), config=config) -> None:
         self.driver = driver
         self.config = config
-        with open(self.config.config_path, "r") as f:
+        with open(self.config.config_path, "r", encoding='latin-1') as f:
             data = f.read()
             data = json.loads(data)
         self.option = data["mode"]["name"]
@@ -65,9 +66,10 @@ class CrawlManage(object):
             keyword_list_raw_dict = keyword_list_raw["mode"]["keyword"]
             # options = keyword_list_raw["mode"]["name"]
         try:
-            keyword_list_raw_dict = json.loads(keyword_list_raw_dict)
+            # keyword_list_raw_dict = json.loads(keyword_list_raw_dict)
             # Lặp qua mỗi dict trong danh sách
             for item in keyword_list_raw_dict:
+                # item = json.loads(item)
                 keywords = []
                 # Lấy giá trị của key
                 key = item['key']
@@ -78,35 +80,47 @@ class CrawlManage(object):
                     # Tạo từ khóa kết hợp từ key và subKey
                     combined_keyword = f"{key} {subkey}"
                     # Thêm từ khóa kết hợp vào danh sách keywords
+                    keywords.append(subkey)
                     keywords.append(combined_keyword)
                 keyword_list.append(keywords)
-        except:
+        except Exception as e:
+            # print(e)
             keyword_list = [[item] for item in keyword_list_raw_dict]
         return keyword_list
 
     def filter_post(self, content, keyword_list):
         check = 0
-        for key in keyword_list:
-            key = key.lower()
-            content = content.lower()
-            key = unicodedata.normalize('NFKD', key).encode(
+        main_key = keyword_list[0].lower()
+        accented_hashtags = "#" + main_key.replace(" ", "")
+        content = content.lower()
+        main_key = unicodedata.normalize('NFKD', main_key).encode(
                 'ASCII', 'ignore').decode('utf-8')
-            content = unicodedata.normalize('NFKD', content).encode(
+        content = unicodedata.normalize('NFKD', content).encode(
                 'ASCII', 'ignore').decode('utf-8')
-            if key in content:
-                check = 1
-                break
-            else:
-                hashtag = "#" + key.replace(" ", "")
-                if hashtag in content:
+        hashtag = "#" + main_key.replace(" ", "")
+        if (main_key in content) or (hashtag in content) or (accented_hashtags in content):
+            keyword_list.pop(0) 
+            for key in keyword_list:
+                key = key.lower()
+                key = unicodedata.normalize('NFKD', key).encode(
+                    'ASCII', 'ignore').decode('utf-8')
+                if key in content:
                     check = 1
                     break
                 else:
-                    continue
-        if check == 0:
+                    accented_hashtags = "#" + key.replace(" ", "")
+                    hashtag = "#" + key.replace(" ", "")
+                    if (hashtag in content) or (accented_hashtags in content):
+                        check = 1
+                        break
+                    else:
+                        continue
+            if check == 0:
+                return False
+            elif check == 1:
+                return True
+        else: 
             return False
-        elif check == 1:
-            return True
 
     def check_login_div(self):
         print("Check login div")
@@ -185,6 +199,7 @@ class CrawlManage(object):
 
     def crawl_post(self, link, keyword_list):
         posts = []
+        check=False
         self.driver.get(link)
         self.driver.implicitly_wait(5)
         self.check_login_div()
@@ -196,44 +211,45 @@ class CrawlManage(object):
                 content = self.driver.find_element(
                     By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
                 check = self.filter_post(content, keyword_list)
-                if check:
-                    pass
-                else:
-                    print(f"Filter out link {link}")
-
-            post_extractor: PostTikTokExtractor = PostTikTokExtractor(
-                driver=self.driver, link=link)
-            # data[vid] = self.CrawlVideo(vid)
-            post = post_extractor.extract()
-            retry_time = 0
-
-            def retry_extract(post, retry_time):
-                while not post.is_valid():
+            if check or self.option != "search_post":
+                    post_extractor: PostTikTokExtractor = PostTikTokExtractor(
+                        driver=self.driver, link=link)
+                    # data[vid] = self.CrawlVideo(vid)
                     post = post_extractor.extract()
-                    if retry_time > 0:
-                        print(
-                            f"Try to extract post {retry_time} times {str(post)}")
-                        slept_time = CommonUtils.sleep_random_in_range(1, 5)
-                        print(f"Slept {slept_time}")
-                    retry_time = retry_time + 1
-                    if retry_time > 20:
-                        print("Retried 20 times, skip post")
-                        break
-                return
-            retry_extract(post, retry_time)
-            posts.append(post)
-            with open('dataCrawled.txt', 'a') as f:
-                f.write(f"{link}\n")
-            with open("result.txt", "a", encoding="utf-8") as file:
-                file.write(f"{str(post)}\n")
-                if post.is_valid:
-                    file.write(f"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷\n")
-                else:
-                    file.write(
-                        f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+                    retry_time = 0
+
+                    def retry_extract(post, retry_time):
+                        while not post.is_valid():
+                            post = post_extractor.extract()
+                            if retry_time > 0:
+                                print(
+                                    f"Try to extract post {retry_time} times {str(post)}")
+                                slept_time = CommonUtils.sleep_random_in_range(1, 5)
+                                print(f"Slept {slept_time}")
+                            retry_time = retry_time + 1
+                            if retry_time > 20:
+                                print("Retried 20 times, skip post")
+                                break
+                        return
+                    retry_extract(post, retry_time)
+                    posts.append(post)
+                    with open('dataCrawled.txt', 'a') as f:
+                        f.write(f"{link}\n")
+                    with open("result.txt", "a", encoding="utf-8") as file:
+                        file.write(f"{str(post)}\n")
+                        if post.is_valid:
+                            file.write(f"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷\n")
+                        else:
+                            file.write(
+                                f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+                    return posts
+            else:
+                    print(f"Filter out link {link}")
+                    return []
         except Exception as e:
             print(e)
-        return posts
+                    
+
 
     def push_kafka(self, posts, comments):
         if len(posts) > 0:

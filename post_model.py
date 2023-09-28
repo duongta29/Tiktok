@@ -33,7 +33,7 @@ class Post:
         
     #Hàm xác định xem post được crawl đủ hay chưa
     def is_valid(self) -> bool:
-        is_valid = self.id != "" and self.author != "" and self.link != "" and self.created_time 
+        is_valid = self.id != "" and self.author_link != "" and self.link != "" and self.created_time 
         return is_valid
 
     def __str__(self) -> str:

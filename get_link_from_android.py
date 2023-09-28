@@ -64,7 +64,6 @@ def run_appium(keyword):
     video.click()
     return driver
 
-
 def get_link():
     driver = run_appium()
     post = 0
