@@ -43,11 +43,11 @@ class Rotate:
         response = requests.get(outer_image)
         with open(outer, 'wb') as file:
             file.write(response.content)
-        time.sleep(2)
+        time.sleep(1)
         response = requests.get(inner_image)
         with open(inner, 'wb') as file:
             file.write(response.content)
-        time.sleep(2)
+        time.sleep(1)
         
     def rotateMatches(self):
         self.getLink()
@@ -58,7 +58,7 @@ class Rotate:
     def slider(self):
         c = 0
         while(c == 0):
-            time.sleep(5)
+            time.sleep(1.5)
             try:
                 # secsdk-captcha-drag-icon sc-kEYyzF fiQtnm
                 # button = self.driver.find_element(By.XPATH, '//*[@id="tiktok-verify-ele"]/div/div[2]/img[2]')
@@ -67,7 +67,7 @@ class Rotate:
                 print("Slider to solve rotate captcha")
                 actions = ActionChains(self.driver)
                 actions.move_to_element(button).perform()
-                step = 50
+                step = 25
                 total = 0
                 actions.click_and_hold(button).perform()
                 while (total < pixels):
@@ -76,9 +76,9 @@ class Rotate:
                     else:
                         pass
                     actions.move_by_offset(step, 0).perform()
-                    actions.pause(0.2).perform()
+                    actions.pause(0.1).perform()
                     total += step
-                actions.pause(0.95).perform()
+                actions.pause(0.5).perform()
                 actions.click().perform()
                 
             except Exception as e:
@@ -137,7 +137,7 @@ class Puzzle:
     def slider(self):
         c = 0
         while(c == 0):
-            time.sleep(5)
+            time.sleep(2)
             try:
                 # secsdk-captcha-drag-icon sc-kEYyzF fiQtnm
                 # button = self.driver.find_element(By.XPATH, '//*[@id="tiktok-verify-ele"]/div/div[2]/img[2]')
@@ -146,7 +146,7 @@ class Puzzle:
                 print("Slider to solve puzzle captcha")
                 actions = ActionChains(self.driver)
                 actions.move_to_element(button).perform()
-                step = 50
+                step = 25
                 total = 0
                 actions.click_and_hold(button).perform()
                 while (total < pixels):
@@ -155,9 +155,9 @@ class Puzzle:
                     else:
                         pass
                     actions.move_by_offset(step, 0).perform()
-                    actions.pause(0.2).perform()
+                    actions.pause(0.15).perform()
                     total += step
-                actions.pause(0.95).perform()
+                actions.pause(0.5).perform()
                 actions.click().perform()
                 
             except Exception as e:
