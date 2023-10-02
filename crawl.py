@@ -125,8 +125,10 @@ class CrawlManage(object):
     def check_login_div(self):
         print("Check login div")
         try:
-            button = self.driver.find_element(
-                By.XPATH, '//*[@id="login-modal"]/div[2]')
+            try: 
+                button = self.driver.find_element(By.XPATH, '//*[@data-e2e="modal-close-inner-button"]')
+            except: 
+                button = self.driver.find_element(By.XPATH, '//*[@id="login-modal"]/div[2]')
             button.click()
         except:
             print("No login div")

@@ -18,6 +18,25 @@
         "name": "search_post",
         "keyword": [
             {
+                "key": "cháy",
+                "subKey": [
+                    "chung cư mini",
+                    "quán karaoke"
+                ]
+            },
+            {
+                "key": "tổng thống mỹ",
+                "subKey": [
+                    "việt nam"
+                ]
+            },
+            {
+                "key": "trung thu",
+                "subKey": [
+                    "2023"
+                ]
+            },
+            {
                 "key": "Trọng lú",
                 "subKey": [
                     "đàn áp",
@@ -329,7 +348,12 @@
             "follow",
             "report"
         ],
-        "action": "like",
+        "action": [
+            "like",
+            "follow",
+            "love",
+            "share"
+        ],
         "type": "video",
         "key": "hanoi",
         "key_comment": [
