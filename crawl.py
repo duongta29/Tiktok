@@ -64,34 +64,36 @@ class CrawlManage(object):
             data = f.read()
             keyword_list_raw = json.loads(data)
             keyword_list_raw_dict = keyword_list_raw["mode"]["keyword"]
-            # options = keyword_list_raw["mode"]["name"]
         try:
-            # keyword_list_raw_dict = json.loads(keyword_list_raw_dict)
             # Lặp qua mỗi dict trong danh sách
             for item in keyword_list_raw_dict:
-                # item = json.loads(item)
-                keywords = []
-                # Lấy giá trị của key
-                key = item['key']
-                keywords.append(key)
-                # key_list.append(key)
-                # Lặp qua mỗi giá trị trong subKey
+                dict_search_mainkey = {}
+                dict_search_mainkey["key"] = item["key"]
+                filter_key = []
+                dict_search_mainkey["filter_key"] = item["subKey"]
+                # for subkey in item['subKey']:
+                #     dict_search_mainkey["filter_key"].append(item["key"] +" " + subkey)
+                # # dict_for_search["filter_key"].append(item["key"])
+                # keyword_list.append(dict_search_mainkey)
                 for subkey in item['subKey']:
-                    # Tạo từ khóa kết hợp từ key và subKey
-                    combined_keyword = f"{key} {subkey}"
-                    # Thêm từ khóa kết hợp vào danh sách keywords
-                    keywords.append(subkey)
-                    keywords.append(combined_keyword)
-                keyword_list.append(keywords)
+                    dict_for_search = {}
+                    dict_for_search["key"] = item["key"] + " " + subkey
+                    filter_key.append(dict_for_search["key"])
+                    dict_for_search["filter_key"] = [dict_for_search["key"],item["key"], subkey]
+                    keyword_list.append(dict_for_search)
+                dict_search_mainkey["filter_key"] = dict_search_mainkey["filter_key"] + filter_key
+                keyword_list.append(dict_search_mainkey)
         except Exception as e:
-            # print(e)
-            keyword_list = [[item] for item in keyword_list_raw_dict]
+            print(e)
+            # keyword_list = [[item] for item in keyword_list_raw_dict]
         return keyword_list
 
-    def filter_post(self, content, keyword_list):
+    def filter_post(self, content, keyword_dict):
+        print("Check to filter post ...")
         check = 0
-        main_key = keyword_list[0].lower()
+        main_key = keyword_dict["key"].lower()
         accented_hashtags = "#" + main_key.replace(" ", "")
+        content = content.replace("\n", " ")
         content = content.lower()
         main_key = unicodedata.normalize('NFKD', main_key).encode(
                 'ASCII', 'ignore').decode('utf-8')
@@ -99,25 +101,24 @@ class CrawlManage(object):
                 'ASCII', 'ignore').decode('utf-8')
         hashtag = "#" + main_key.replace(" ", "")
         if (main_key in content) or (hashtag in content) or (accented_hashtags in content):
-            keyword_list.pop(0) 
-            for key in keyword_list:
-                key = key.lower()
-                key = unicodedata.normalize('NFKD', key).encode(
-                    'ASCII', 'ignore').decode('utf-8')
-                if key in content:
-                    check = 1
-                    break
-                else:
+            for key in keyword_dict["filter_key"]:
                     accented_hashtags = "#" + key.replace(" ", "")
-                    hashtag = "#" + key.replace(" ", "")
-                    if (hashtag in content) or (accented_hashtags in content):
+                    key = key.lower()
+                    key = unicodedata.normalize('NFKD', key).encode(
+                        'ASCII', 'ignore').decode('utf-8')
+                    if key in content:
                         check = 1
                         break
                     else:
-                        continue
-            if check == 0:
+                        hashtag = "#" + key.replace(" ", "")
+                        if (hashtag in content) or (accented_hashtags in content):
+                            check = 1
+                            break
+                        else:
+                            continue
+        if check == 0:
                 return False
-            elif check == 1:
+        elif check == 1:
                 return True
         else: 
             return False
@@ -154,20 +155,19 @@ class CrawlManage(object):
                 cmts = self.driver.find_elements(
                     By.XPATH, '//*[contains(@class, "DivCommentItemContainer")]')
                 time.sleep(2)
+                buttons = (self.driver.find_elements(
+                    By.XPATH, '//*[@data-e2e="comment-hide"]'))
             try:
                 self.driver.execute_script("window.scrollTo(0, 0);")
             except:
                 pass
             try:
-                buttons = (self.driver.find_elements(
-                    By.XPATH, '//*[@data-e2e="comment-hide"]'))
                 for button in buttons:
                     button.click()
                     time.sleep(0.1)
             except:
                 pass
             return cmts
-
         try:
             list_cmt = scroll_comment()
             print(">>> Crawling comment of post ...")
@@ -273,7 +273,7 @@ class CrawlManage(object):
         # time.sleep(3)
         keywords = self.parse_keyword()
         for keyword in keywords:
-            link_list = self.get_link_list(keyword[0])
+            link_list = self.get_link_list(keyword["key"])
             for link in link_list:
                 count += 1
                 start = time.time()

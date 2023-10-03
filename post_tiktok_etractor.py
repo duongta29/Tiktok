@@ -117,7 +117,7 @@ class PostTikTokExtractor(PostExtractor):
         return view
 
     def extract_post_type(self):
-        type = "tiktok post"
+        type = "tiktok video"
         return type
 
     def extract_post_source_id(self):
