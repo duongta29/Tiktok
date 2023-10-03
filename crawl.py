@@ -71,15 +71,11 @@ class CrawlManage(object):
                 dict_search_mainkey["key"] = item["key"]
                 filter_key = []
                 dict_search_mainkey["filter_key"] = item["subKey"]
-                # for subkey in item['subKey']:
-                #     dict_search_mainkey["filter_key"].append(item["key"] +" " + subkey)
-                # # dict_for_search["filter_key"].append(item["key"])
-                # keyword_list.append(dict_search_mainkey)
                 for subkey in item['subKey']:
                     dict_for_search = {}
                     dict_for_search["key"] = item["key"] + " " + subkey
                     filter_key.append(dict_for_search["key"])
-                    dict_for_search["filter_key"] = [dict_for_search["key"],item["key"], subkey]
+                    dict_for_search["filter_key"] = [item["key"], subkey]
                     keyword_list.append(dict_for_search)
                 dict_search_mainkey["filter_key"] = dict_search_mainkey["filter_key"] + filter_key
                 keyword_list.append(dict_search_mainkey)
