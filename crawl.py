@@ -246,6 +246,7 @@ class CrawlManage(object):
                     return []
         except Exception as e:
             print(e)
+            return []
                     
 
 
