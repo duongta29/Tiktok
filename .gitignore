@@ -1,3 +1,5 @@
 puzzle.jpg
 result.png
-captcha
+/captcha/
+crawl-Admin.py
+get_link_from_android_utils.py
