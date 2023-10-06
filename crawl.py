@@ -198,13 +198,13 @@ class CrawlManage(object):
     def crawl_post(self, link, keyword_list):
         posts = []
         check=False
-        self.driver.get(link)
-        self.driver.implicitly_wait(5)
-        self.check_login_div()
-        # time.sleep(30)
-        print(f" >>> Crawling: {link} ...")
-        captcha.check_captcha(self.driver)
         try:
+            self.driver.get(link)
+            self.driver.implicitly_wait(5)
+            self.check_login_div()
+            # time.sleep(30)
+            print(f" >>> Crawling: {link} ...")
+            captcha.check_captcha(self.driver)
             if self.option == 'search_post':
                 content = self.driver.find_element(
                     By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
