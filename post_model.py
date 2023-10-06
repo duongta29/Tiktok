@@ -24,7 +24,7 @@ class Post:
         self.domain = ""
         self.hastag = []
         self.music = ""
-        # self.title = ""
+        self.title = ""
         self.duration = 0
         self.view = 0
         # self.description = ""

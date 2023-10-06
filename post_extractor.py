@@ -88,6 +88,10 @@ class PostExtractor(ABC):
     @abstractmethod
     def extract_post_source_id(self):
         pass
+    
+    @abstractmethod
+    def extract_post_title(self):
+        pass
 
     def extract(self) -> Post:
         post = Post()
@@ -99,6 +103,7 @@ class PostExtractor(ABC):
         author_avatar = self.extract_post_author_avatar()
         created_time = self.extract_post_created_time()
         content = self.extract_post_content()
+        title = self.extract_post_title()
         like = self.extract_post_like()
         love = self.extract_post_love()
         comment = self.extract_post_comment()
@@ -122,6 +127,7 @@ class PostExtractor(ABC):
         post.avatar = author_avatar
         post.created_time = created_time
         post.content = content
+        post.title = title
         post.like = like
         post.comment = comment
         post.love = love

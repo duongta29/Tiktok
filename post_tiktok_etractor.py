@@ -73,9 +73,12 @@ class PostTikTokExtractor(PostExtractor):
         return created_time
 
     def extract_post_content(self):
-        content = self.driver.find_element(
+        return ""
+    
+    def extract_post_title(self):
+        title = self.driver.find_element(
             By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
-        return content
+        return title
 
     def extract_post_like(self):
         like = int(self.infor_text["stats"]["diggCount"])
@@ -154,6 +157,9 @@ class PostCommentExtractor(PostExtractor):
         author = self.driver.find_element(
             By.XPATH, f'//*[@id={self.post_id}]/div[1]/a/span').text
         return author
+    
+    def extract_post_title(self):
+        return ""
 
     def extract_post_author_link(self):
         author_link = self.driver.find_element(
