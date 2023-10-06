@@ -9222,3 +9222,4469 @@ type=tiktok comment
 id=tt_7279636884975452929
 
 ##################################################################################################################################################################################
+source_id=
+view=2400000
+duration=8
+title=Lời kể của nhân chứng , quá thương tâm!..#chaychungcu #chaychungcumini #khuongha #thanhxuan
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-Mucinasia-7278482851350629121
+hastag=['#chaychungcu', '#chaychungcumini', '#khuongha', '#thanhxuan']
+domain=www.tiktok.com
+share=356
+love=1606
+comment=810
+like=53500
+content=
+created_time=1694653844
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ad46d1604d7b52574804ec1f391d0bf~c5_100x100.jpeg?x-expires=1696759200&x-signature=CPheoyCmXzJK7uTXlKUbKEnl6qc%3D
+author_link=https://www.tiktok.com/@mucinasia
+author=Mucinasia
+link=https://www.tiktok.com/@mucinasia/video/7278482826616442130
+time_crawl=1696586963.786162
+type=tiktok video
+id=tt_7278482826616442130
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=7
+like=50
+content=Em có mất đâu
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0d64f9ceeb7f46e51162c52d357f93c0.jpg?x-expires=1696672800&x-signature=449TkFRoNTTpO5S6DEpuQwTYX5c%3D
+author_link=https://www.tiktok.com/@thuyquynh1993
+author=An Nhiên
+link=
+time_crawl=1696586995.610174
+type=tiktok comment
+id=tt_7279337860296753928
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=12
+like=4271
+content=con mất ngay trong vòng tay của mình... đau đớn biết chừng nào
+created_time=1694710800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8fa7fde0d2e6dbdb5ba5faabb04c4c82~c5_100x100.jpg?x-expires=1696672800&x-signature=wtbu3e0L%2BvXCxynTKF3wv%2F97iog%3D
+author_link=https://www.tiktok.com/@jnmj1234
+author=Quỳnh Vy
+link=
+time_crawl=1696586995.830924
+type=tiktok comment
+id=tt_7278867325511811848
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=24
+like=249
+content=mấy thằng dính án chạy đâu cả r.
+created_time=1694710800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d9c3ba72125ef6909a7c604b7a9915f6~c5_100x100.jpg?x-expires=1696672800&x-signature=E7WmS5gZXNnVFsFZOGeHs8s5hRk%3D
+author_link=https://www.tiktok.com/@nguyntuyt795
+author=Cường2hand
+link=
+time_crawl=1696586996.027069
+type=tiktok comment
+id=tt_7278820800928809730
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=9
+like=2053
+content=thật quá đau lòng tội nghiệp người bố ấy đã cố gắng cứu con nhưng...😭
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9025b60647e8e27ce05e5225c8c3f168~c5_100x100.jpg?x-expires=1696672800&x-signature=R33WxjAMGI2tvF%2FblDxLT09goKw%3D
+author_link=https://www.tiktok.com/@hagiangvlogvlog
+author=giang grab (xe ôm)
+link=
+time_crawl=1696586996.1933
+type=tiktok comment
+id=tt_7278488849599333122
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=25
+like=355
+content=Mn ơi vk ck nhảy là còn 2 bé. Còn đây là trường hợp khác thì phải
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1628780039008257.jpg?x-expires=1696672800&x-signature=Hvkg8%2BKUnUKKK5LCj3bv3Okjm0w%3D
+author_link=https://www.tiktok.com/@nguyenhanhnguyen.4997
+author=Nguyễn Hạnh Nguyên
+link=
+time_crawl=1696586996.358132
+type=tiktok comment
+id=tt_7279119082389226242
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=6
+like=747
+content=😢 coi tới đâu khóc tới đó
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/554f87480b2f861097c14a54588ab4fb~c5_100x100.jpg?x-expires=1696672800&x-signature=1pnPgN9ILu8fTdLD8RsYbmI3APE%3D
+author_link=https://www.tiktok.com/@ceci.0110
+author=Mẹ Bơ 🥑
+link=
+time_crawl=1696586996.517704
+type=tiktok comment
+id=tt_7278574913610007304
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=5
+like=860
+content=đau lòng quá. đó sẽ là nỗi đau đi theo bố suốt đời
+created_time=1694624400
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ed5b2c9381d9ff4f7efe08ba2bbb64c1.jpg?x-expires=1696672800&x-signature=BQR8ZUXDjdPWV4%2F2MI2nDMoSpps%3D
+author_link=https://www.tiktok.com/@hoaian95
+author=Dinh thi hoai an
+link=
+time_crawl=1696586996.690381
+type=tiktok comment
+id=tt_7278581848350114567
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=8
+content=Càng xem càng căm phẫn những kẻ vô lương tâm xây nhà sai phép trong ngõ nhỏ. Nhưng kẻ cấp phép ăn tiền. Chg đã gián tiếp gây ra nỗi đau ko gì bù đắp
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/f427455691ce1022767b333101ab399e~c5_100x100.jpg?x-expires=1696672800&x-signature=Kdf%2BFNQch0GB3NHP762crVt4mHs%3D
+author_link=https://www.tiktok.com/@user52473923
+author=Thanh Thuy
+link=
+time_crawl=1696586996.843972
+type=tiktok comment
+id=tt_7279495539640140546
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=19
+content=xót xa qua mong các hương linh an nghỉ
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c0f61bde791322efb88e79ab85836bd2~c5_100x100.jpg?x-expires=1696672800&x-signature=NgED5RMOeyLazxgfnI6coHJ833g%3D
+author_link=https://www.tiktok.com/@heobe7285
+author=heobe7285
+link=
+time_crawl=1696586997.004543
+type=tiktok comment
+id=tt_7278710005611971346
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=13
+content=Đau khổ người cha ở lại kho than con con bé quá mong con đc siêu thoát thương con...!
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/25c06e12e6f155a246766a1686ac0495.jpg?x-expires=1696672800&x-signature=xbgQyAkMi0Ib%2FZoN2n%2F6qBYN7gw%3D
+author_link=https://www.tiktok.com/@leminhtuhd
+author=🌤️☄️☄️☄️🌈Tú Lê 💥💥☄️☄️
+link=
+time_crawl=1696586997.168104
+type=tiktok comment
+id=tt_7279468360554234632
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=685
+content=Bố đã cố gắng làm hết sức mình để cứu con rồi. Đau lòng
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/200d2365f468ee77f3c818fe92731a5c~c5_100x100.jpg?x-expires=1696672800&x-signature=5iIi0nGSDBm66x2lJ8kZBv4gb00%3D
+author_link=https://www.tiktok.com/@vanut19911
+author=Út Vân
+link=
+time_crawl=1696586997.319704
+type=tiktok comment
+id=tt_7278555280685515538
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=143
+content=Coi tới đâu khóc tới đó. Sao lại xót xa vậy🥺
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1ca77738483647f70907039ab1e6f6fc~c5_100x100.jpg?x-expires=1696672800&x-signature=B%2F%2B9BUpjUWivqgbNZodxt1fWEcI%3D
+author_link=https://www.tiktok.com/@cocacola.pt
+author=Tạ Tí Hon
+link=
+time_crawl=1696586997.479723
+type=tiktok comment
+id=tt_7278572582508249864
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=17
+content=lướt coi tới đâu suy sụp tới đó
+created_time=1694710800
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5fecaac5dfdb1d8b08cf07439663ce4b.jpg?x-expires=1696672800&x-signature=uGePHWawuztpd8vifUc515GYaQE%3D
+author_link=https://www.tiktok.com/@tubxrozx24_
+author=24.02
+link=
+time_crawl=1696586997.63431
+type=tiktok comment
+id=tt_7278731363266937601
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=50
+content=mấy nay lướt top top khóc theo video tội quá các bác ạ
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/20104bf216e250969ff7feb7fccdb7af~c5_100x100.jpg?x-expires=1696672800&x-signature=olhQ5I8Wxt%2FtkFN6pK4ea%2FRL6bg%3D
+author_link=https://www.tiktok.com/@bui_thi_tham.2987.hb
+author=Bùi Thị Thắm
+link=
+time_crawl=1696586997.807846
+type=tiktok comment
+id=tt_7278617006319338242
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=7
+content=khổ thân quá
+created_time=1694624400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1645902659873794.jpg?x-expires=1696672800&x-signature=dtLfckg6EbBGiD84WjmwkvTXcz8%3D
+author_link=https://www.tiktok.com/@useromfavpgpoa
+author=Bà Thóc
+link=
+time_crawl=1696586997.982228
+type=tiktok comment
+id=tt_7278496111765521170
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=😢😢😢😢 thật là đau xót
+created_time=1696179600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d4a9122ed9c1dcf9ee06058719d925c~c5_100x100.jpg?x-expires=1696672800&x-signature=XpIKOiitiAkmsQ8k5jefK30iXsw%3D
+author_link=https://www.tiktok.com/@sonbung
+author=Dược Liệu xương khớp
+link=
+time_crawl=1696586998.143986
+type=tiktok comment
+id=tt_7285280303026897672
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a Di Đà Phật
+created_time=1696093200
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/a6d1626510a9e44d05cd902a38bc7cce~c5_100x100.jpg?x-expires=1696672800&x-signature=7ocAmEqGMci6Y0or%2FD4rCkdEwcQ%3D
+author_link=https://www.tiktok.com/@thanh_van884
+author=thanh vân
+link=
+time_crawl=1696586998.313532
+type=tiktok comment
+id=tt_7284641500867429127
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau lòng quá . 🥺
+created_time=1695747600
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1696672800&x-signature=LFsrsKyAUjwWI2BX%2BkFerRSIMuE%3D
+author_link=https://www.tiktok.com/@user8749483549928
+author=Nguyennu98
+link=
+time_crawl=1696586998.485073
+type=tiktok comment
+id=tt_7283485227292427009
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương quá
+created_time=1695747600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7278909557366063105.jpg?x-expires=1696672800&x-signature=jD01RCunwAejWuevM0unlORI0ik%3D
+author_link=https://www.tiktok.com/@trnhhng126
+author=Trịnh Hồng
+link=
+time_crawl=1696586998.636893
+type=tiktok comment
+id=tt_7283419156874822401
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=quá đau lòng
+created_time=1695661200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7001079356080521243.jpg?x-expires=1696672800&x-signature=r87WPzILTSlmvuFZE%2FxVV5ZTCNg%3D
+author_link=https://www.tiktok.com/@bichngoc36731
+author=ngoc lê
+link=
+time_crawl=1696586998.786494
+type=tiktok comment
+id=tt_7282994871248749313
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=cho mình hỏi xíu, mình nghĩ là lúc nhảy xuống thường phải ôm con và quay lưng chứ ạ s bé vẫn mất vậy 😢
+created_time=1695488400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b1ed9d400fe388527b926ef2a0b303a8~c5_100x100.jpg?x-expires=1696672800&x-signature=O5t30Qd3xjYOjolykco6Y0iydGI%3D
+author_link=https://www.tiktok.com/@v_tmv09
+author=Vean 🥸
+link=
+time_crawl=1696586998.957039
+type=tiktok comment
+id=tt_7282088068772578055
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=cả nước đau sót xin chia buồn cùng các gia đình nạn nhân và nhất là các em bé mong sao các bé đầu thai lại cuộc đời tốt hơn 🥺
+created_time=1695315600
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/b2c2be7f7671dce41ddda3e62cc41000.jpg?x-expires=1696672800&x-signature=bejAH6vGgMYlku8pJgdFt20pC%2Fg%3D
+author_link=https://www.tiktok.com/@userfeaswj61ui
+author=Huy
+link=
+time_crawl=1696586999.111645
+type=tiktok comment
+id=tt_7281671281278599937
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=không khác gì nhà nuôi yến
+created_time=1695315600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/73b0ff8df85224a0713aca00e5c73985~c5_100x100.jpg?x-expires=1696672800&x-signature=XKIEbV4sdDpjYgKlW7r1zXeWdx4%3D
+author_link=https://www.tiktok.com/@tiu.tiu70
+author=Tiêu Tiêu
+link=
+time_crawl=1696586999.280472
+type=tiktok comment
+id=tt_7281606806173827841
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Tôi dặn lòng là không được khóc, nhưng vẫn khóc.
+created_time=1695315600
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/68bf29a75d31c75cb8a0e05053613531.jpg?x-expires=1696672800&x-signature=rQowL1vDeXaDJudl4OOWjMXyONs%3D
+author_link=https://www.tiktok.com/@t.x.d_81
+author=Lắng
+link=
+time_crawl=1696586999.442339
+type=tiktok comment
+id=tt_7281601028683891458
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mo a di da phat
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2052f28d2f508052dca480495305ea75.jpg?x-expires=1696672800&x-signature=dXua4oOSLZOVzvb9NekE8vyr1ho%3D
+author_link=https://www.tiktok.com/@vthng8034
+author=vthng8034
+link=
+time_crawl=1696586999.60391
+type=tiktok comment
+id=tt_7281289591885366023
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=adidaphat. thương quá
+created_time=1695229200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/52995cac3aac48b82fee0323cf765f15~c5_100x100.jpg?x-expires=1696672800&x-signature=559DXBg1gtnQEL%2FQ7m%2FDegYIiII%3D
+author_link=https://www.tiktok.com/@minh.ha.126
+author=Minh Hà
+link=
+time_crawl=1696586999.762496
+type=tiktok comment
+id=tt_7281252943239283457
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nghe gới e bé mất t nghẹn quá 🥺
+created_time=1695229200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d460bcd06a582911e4aee0f981c56364~c5_100x100.jpg?x-expires=1696672800&x-signature=9wtxeWcoo%2FvNHyrunNeb2qEYsTc%3D
+author_link=https://www.tiktok.com/@binho09120912
+author=Bi ☑️
+link=
+time_crawl=1696586999.93604
+type=tiktok comment
+id=tt_7281243393086341889
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương xót
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/17df0696ed806bf1fe39dece2e256cd3.jpg?x-expires=1696672800&x-signature=gzjCEu3e8c0xdIEH8d0WMRbAAbA%3D
+author_link=https://www.tiktok.com/@usern77fhi1me7
+author=ALan Gâu Kiss
+link=
+time_crawl=1696587000.11556
+type=tiktok comment
+id=tt_7281227274703356673
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà phật 🙏🙏🙏🙏
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7281198205223501826.jpg?x-expires=1696672800&x-signature=vztTn7FB%2Fq9GQPdrbx3XXgeecws%3D
+author_link=https://www.tiktok.com/@okanh467
+author=OK Anh
+link=
+time_crawl=1696587000.281116
+type=tiktok comment
+id=tt_7281190854851822337
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=mn ơi mình o pit nhưng sẽ tốt hơn một chút nếu ta quấn gối chăn quanh đầu
+created_time=1695229200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ba42b764ebfb1447ca91576ad0862d8d~c5_100x100.jpg?x-expires=1696672800&x-signature=bD5b0xvyFuNl0CJdp%2Fv5A2bR2S4%3D
+author_link=https://www.tiktok.com/@kanna.haha
+author=whyuinthemood
+link=
+time_crawl=1696587000.45166
+type=tiktok comment
+id=tt_7281184654266155778
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương qá
+created_time=1695142800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/19021aa30231a91eedada57c4b65fa46.jpg?x-expires=1696672800&x-signature=8fGeAdtEHgvvQKqx3beokSG%2BC2o%3D
+author_link=https://www.tiktok.com/@huongem993
+author=huongem
+link=
+time_crawl=1696587000.616219
+type=tiktok comment
+id=tt_7280911685145641746
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mo a di da phat
+created_time=1695142800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8773d70d6d3e714074b3275d87287e45~c5_100x100.jpg?x-expires=1696672800&x-signature=SCxeH60XtTG3IXaCBXIn%2BtqQK48%3D
+author_link=https://www.tiktok.com/@haphan5316
+author=haphan5316
+link=
+time_crawl=1696587000.894524
+type=tiktok comment
+id=tt_7280876249365676802
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=🙏Nam Mô A Di Đà Phật🙏
+created_time=1695142800
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/deca98cf37931faa6ce447dd386aabc6.jpg?x-expires=1696672800&x-signature=Xb%2BSbdafubI7PwCjN7rlygGIhWg%3D
+author_link=https://www.tiktok.com/@phuoctinhcusy
+author=Cư Sỹ Phước Tịnh
+link=
+time_crawl=1696587001.063071
+type=tiktok comment
+id=tt_7280680426196108033
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Quá đau lòng
+created_time=1695142800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9a331bb05900d8326313021108dd293f~c5_100x100.jpg?x-expires=1696672800&x-signature=taRtpR4dYO8deoheW37PwZ5g2Hw%3D
+author_link=https://www.tiktok.com/@hellokitty7755
+author=Hello Kitty
+link=
+time_crawl=1696587001.209852
+type=tiktok comment
+id=tt_7280607356709798664
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nỗi đau ám ảnh cả một đời, đau sót quá cho người ở lại
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/3f606c12689da71f4c98819f275679b6~c5_100x100.jpg?x-expires=1696672800&x-signature=LumbTtmq%2FLp71j981PZJT1Ryofc%3D
+author_link=https://www.tiktok.com/@thuy.trinh92
+author=Áo Dài Ngọc Trang - Chính chủ
+link=
+time_crawl=1696587001.351738
+type=tiktok comment
+id=tt_7280567945343238919
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau lòng quá!!
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1696672800&x-signature=LFsrsKyAUjwWI2BX%2BkFerRSIMuE%3D
+author_link=https://www.tiktok.com/@user5042195485824
+author=Mẹ Cẩm Tú
+link=
+time_crawl=1696587001.499359
+type=tiktok comment
+id=tt_7280562660109730562
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thương con quá
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/77bea876ba1e4e6e922aa6e0285dae0b.jpg?x-expires=1696672800&x-signature=v5UbxwOniTv1eVf7S3Tjqe%2Br3go%3D
+author_link=https://www.tiktok.com/@lanbuithi817
+author=Lan Buithi817
+link=
+time_crawl=1696587001.637502
+type=tiktok comment
+id=tt_7280544385690288914
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô A di đà phật 🙏🙏🙏🙏
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/370d83c334d74c71875c111f4f9d8fc8~c5_100x100.jpg?x-expires=1696672800&x-signature=YqHCyUO8%2FxMZkwSgIGOEUCmh2Y4%3D
+author_link=https://www.tiktok.com/@kim...9999
+author=☘ Kim ☘️
+link=
+time_crawl=1696587001.782624
+type=tiktok comment
+id=tt_7280477915149943553
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Tội nhất những đứa trẻ
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cfd8aa1fb818eb19bf3d456909256afd.jpg?x-expires=1696672800&x-signature=imcDl2J2GjyDdIc4mpnXw9QbXI0%3D
+author_link=https://www.tiktok.com/@hduccovo
+author=Whis 🍷
+link=
+time_crawl=1696587001.93023
+type=tiktok comment
+id=tt_7280473817817662209
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=não lòng
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7ff4309f090e484cc94ded7646594cee.jpg?x-expires=1696672800&x-signature=ME8e77Jbs9WyWlVruZxzW0AeA0A%3D
+author_link=https://www.tiktok.com/@dunghoivisao9x
+author=😻😻Nhớ 💫💫💫
+link=
+time_crawl=1696587002.079372
+type=tiktok comment
+id=tt_7280470072448008961
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=đau lòng quá
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/311cfe0c4d9ada66ed34600d086cfa83~c5_100x100.jpg?x-expires=1696672800&x-signature=WkgkaqG%2FVOwLfms7maprb6MFG1w%3D
+author_link=https://www.tiktok.com/@hoada999999
+author=Hoada999999
+link=
+time_crawl=1696587002.23323
+type=tiktok comment
+id=tt_7280460841954362130
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Dau
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1646281506014209.jpg?x-expires=1696672800&x-signature=FTgt5vNwvLf1QxHCjyeg40d306A%3D
+author_link=https://www.tiktok.com/@kiensoi7
+author=Sói Kiên
+link=
+time_crawl=1696587002.380851
+type=tiktok comment
+id=tt_7280448354167866114
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương quá
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc36b4ce55092c598c9ec1acc32a20ee~c5_100x100.jpg?x-expires=1696672800&x-signature=%2F4IRgRWyLzpmB5giWxjiE5%2BeAJc%3D
+author_link=https://www.tiktok.com/@leehan_yb
+author=Lee Han
+link=
+time_crawl=1696587002.526464
+type=tiktok comment
+id=tt_7280425438421140226
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương quá. Ngày nào xem cũng khóc. Mơ ngủ cũng khóc 😭😭😭
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/4e09dfd4e5b918e3dfdddf4e61c8da29~c5_100x100.jpg?x-expires=1696672800&x-signature=BonQIwEsSu53nShgBOKXN83vvDY%3D
+author_link=https://www.tiktok.com/@winhouse.46
+author=Fb Thanhthuypham(winhouse)
+link=
+time_crawl=1696587002.671076
+type=tiktok comment
+id=tt_7280422705080386306
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=3
+content=bố là tất cả😭😭😭
+created_time=1695056400
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/7026241899912495131.jpg?x-expires=1696672800&x-signature=Hw46XfyTQOPVtEWtKqWA4wUe370%3D
+author_link=https://www.tiktok.com/@dongbui529
+author=Bùi văn đông
+link=
+time_crawl=1696587002.822674
+type=tiktok comment
+id=tt_7280404496916120338
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=hi vọng cuối cùng rồi. thương ❤💔
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/b3a225f2f257ef94f57bac9cb36d1fbb.jpg?x-expires=1696672800&x-signature=MK8CwwV7ubjBK%2BVbf3A2%2BdNORkM%3D
+author_link=https://www.tiktok.com/@titi.bk
+author=Titi Bk
+link=
+time_crawl=1696587002.994846
+type=tiktok comment
+id=tt_7280393936132457217
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà phật
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40a9a3e591aab9f5189e2d4a69517916~c5_100x100.jpg?x-expires=1696672800&x-signature=b8bSfrXu%2BXnp%2FR5aX7YSSrl1aCc%3D
+author_link=https://www.tiktok.com/@hientruong254
+author=Hiền Trương
+link=
+time_crawl=1696587003.142064
+type=tiktok comment
+id=tt_7280355160805606146
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=đau lòng quá
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/dae244d51c8c93338c8c4b0ecb1930ce.jpg?x-expires=1696672800&x-signature=PIIffWoeO7%2BSMC4jVmiYNrse2gY%3D
+author_link=https://www.tiktok.com/@tm.shop49
+author=Tấm shop
+link=
+time_crawl=1696587003.286721
+type=tiktok comment
+id=tt_7280354874713391879
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Không còn gì đâu sót hơn.đau lòng quá ạ
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bc2a111445f55d5aeeb032bcf1c72c75~c5_100x100.jpg?x-expires=1696672800&x-signature=qQc%2Fv4%2BWdP0L5uDoNALnHyJW7dg%3D
+author_link=https://www.tiktok.com/@tm.hailam
+author=Hải Lâm
+link=
+time_crawl=1696587003.444936
+type=tiktok comment
+id=tt_7280349491336381192
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nghe mà đau lòng quá
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/221f46114fd595b18e6d6dced9fc81a2~c5_100x100.jpg?x-expires=1696672800&x-signature=0Z%2FuLkuprIJAxU7MPKYHszDm6K4%3D
+author_link=https://www.tiktok.com/@liensanh6789
+author=♥️ Liên Sành ♥️
+link=
+time_crawl=1696587003.587066
+type=tiktok comment
+id=tt_7280327899176125186
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mo a di da phat
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7082388627757465602.jpg?x-expires=1696672800&x-signature=zbyYCpNsTRqEMyO7uNnak6CmaBg%3D
+author_link=https://www.tiktok.com/@tienphu442
+author=Tien Phu442
+link=
+time_crawl=1696587003.740672
+type=tiktok comment
+id=tt_7280235503369896705
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=adiđaphat
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7136251833021890587~c5_100x100.jpg?x-expires=1696672800&x-signature=ZuPEyN4JvwaiLRbr2l0H61cty1A%3D
+author_link=https://www.tiktok.com/@nhanpham8485
+author=nhanpham8485
+link=
+time_crawl=1696587003.890273
+type=tiktok comment
+id=tt_7280229475077751558
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=tôi wá
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/63e834e2bf5da1e4b80f2c863db2b8dd~c5_100x100.jpg?x-expires=1696672800&x-signature=MHliS2JofGyG8%2BONCyYaAJfMXZg%3D
+author_link=https://www.tiktok.com/@user9288745677955
+author=minh thư
+link=
+time_crawl=1696587004.039871
+type=tiktok comment
+id=tt_7280223637772206866
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Tiếc quá không có phép màu cho cháu bé
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e7d085a4964d7178b76419f09839fd7e.jpg?x-expires=1696672800&x-signature=fIwgPdic%2BA0%2BYvB%2ByB270u0sNUg%3D
+author_link=https://www.tiktok.com/@nguyenhaithen
+author=Hải Then
+link=
+time_crawl=1696587004.190469
+type=tiktok comment
+id=tt_7280210964879983361
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mô a Di Đà Phật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tiktok-gcp-obj-giso/638fa03a7db3a20cadaf298fda14285c~c5_100x100.jpg?x-expires=1696672800&x-signature=0snw6F9HBuplkgaz%2Fq%2FA4PZtrAM%3D
+author_link=https://www.tiktok.com/@10101982haiyen
+author=hải Yến
+link=
+time_crawl=1696587004.335082
+type=tiktok comment
+id=tt_7280203538906350337
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=🙏🙏🙏a di da phật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/444695b5852cac01bddb075bcd01b481~c5_100x100.jpg?x-expires=1696672800&x-signature=OfXJfXbsw2amEwp5mpsmjycj3P8%3D
+author_link=https://www.tiktok.com/@trang_tran226
+author=Trang Trần
+link=
+time_crawl=1696587004.493658
+type=tiktok comment
+id=tt_7280202686623990535
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thương chưa khổ quá con ơi
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8033f7bdd2790cefbabb554dd9753aa0~c5_100x100.jpg?x-expires=1696672800&x-signature=ABCM2BB9qdqS%2BLz337DsKO1JKZo%3D
+author_link=https://www.tiktok.com/@takizawa21t
+author=takizawa21t
+link=
+time_crawl=1696587004.653727
+type=tiktok comment
+id=tt_7280198840560894722
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Kiến thức xử lý tình huống khi hoả hoạn quan trọng lắm
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8bf91c375e7155f1cc614c82aaa7d752~c5_100x100.jpg?x-expires=1696672800&x-signature=dUweZy8rdV9iQZCSUQ1aPTEZqT4%3D
+author_link=https://www.tiktok.com/@ngtudo
+author=✔NgTú_Đỗ ✔ Ba Của Míttt😽
+link=
+time_crawl=1696587004.804331
+type=tiktok comment
+id=tt_7280189385785639681
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau lòng Quá .
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/aa6d42d913ba27c503a1787d8fb1fba5~c5_100x100.jpg?x-expires=1696672800&x-signature=jebyh%2F%2FPcDIPvLhpLdl0X7kU5aI%3D
+author_link=https://www.tiktok.com/@user1575688229513
+author=Mèo...
+link=
+time_crawl=1696587004.952934
+type=tiktok comment
+id=tt_7280188051535692546
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mô a Di Đà Phật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ef5c8e5fbaa4712cf0b5cbcf775aa107~c5_100x100.jpg?x-expires=1696672800&x-signature=0qX6TzTM0Bueg0TIIO52vlhoWrQ%3D
+author_link=https://www.tiktok.com/@binhyen_1987
+author=mèo
+link=
+time_crawl=1696587005.096563
+type=tiktok comment
+id=tt_7280184832591102722
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=mình vẫn thấy em bé trong bv cùng bố mà ạ
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/344771bf96ef2e4ca22359763d389967.jpg?x-expires=1696672800&x-signature=1Wew0JlJlpwngU0mGVyiSO8AuHo%3D
+author_link=https://www.tiktok.com/@nth_hani
+author=𝗪𝗶𝗻𝘁𝗲𝗿 🎄🕯
+link=
+time_crawl=1696587005.252173
+type=tiktok comment
+id=tt_7280181245852992263
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=bố đã cố hết sức rùi con nhé
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7262383284431093768.jpg?x-expires=1696672800&x-signature=5K6nijnWegldE34lGh7sGV1Qco0%3D
+author_link=https://www.tiktok.com/@nam.trn.quang1
+author=sửa tivi -0981703536
+link=
+time_crawl=1696587005.409209
+type=tiktok comment
+id=tt_7280170116938629889
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nghe mà đau lòng quá
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7227889562647658501~c5_100x100.jpg?x-expires=1696672800&x-signature=qnPOQ1ipH9zoh3C8rDTflMUUr1Q%3D
+author_link=https://www.tiktok.com/@hngnguyn3968
+author=hungdung1970
+link=
+time_crawl=1696587005.555818
+type=tiktok comment
+id=tt_7280165580882346753
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Chung cư mà xây như cái nhà tù bí quá k có lối thoát hậu vẩy trời
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/25a88b09c8df3759b273acc031a1fcde~c5_100x100.jpg?x-expires=1696672800&x-signature=0pYp4qEklA%2Frby7hF8lGzZl3uB4%3D
+author_link=https://www.tiktok.com/@user2026874861129
+author=Quý Bùi
+link=
+time_crawl=1696587005.734339
+type=tiktok comment
+id=tt_7280162209723499269
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=chia sẻ nỗi đau này , thương lắm :(
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df73a4a166fd9b3b30c8690fbf7bded2~c5_100x100.jpg?x-expires=1696672800&x-signature=STaUfmdVKTU4cZHT1PwKyAdE1AE%3D
+author_link=https://www.tiktok.com/@hoangththuy15
+author=Bích Thủy
+link=
+time_crawl=1696587005.897902
+type=tiktok comment
+id=tt_7280154718562337538
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà Phật
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ece147abb562bf8610fee10c65899d9c.jpg?x-expires=1696672800&x-signature=zmYsoy0268eq9afZEgssSi1t2bM%3D
+author_link=https://www.tiktok.com/@trn.y.nng.lng
+author=Tràn đầy năng lượng
+link=
+time_crawl=1696587006.036551
+type=tiktok comment
+id=tt_7280123165979788039
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam Mô A Di Đà Phật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/032bb181f55d3e53afd7740bbea14eed~c5_100x100.jpg?x-expires=1696672800&x-signature=H2gaM%2FApDbsTaWKPa3B3NNcy%2Fy8%3D
+author_link=https://www.tiktok.com/@phuongkiss94
+author=Phuong
+link=
+time_crawl=1696587006.180166
+type=tiktok comment
+id=tt_7280120761737708290
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thương quá
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e4e7d8c7040926d443905cc74dfc58e8~c5_100x100.jpg?x-expires=1696672800&x-signature=tUXtgBpd9CBD61hgqyqvYifsPM0%3D
+author_link=https://www.tiktok.com/@thankkiyoshi
+author=Thankkiyoshi
+link=
+time_crawl=1696587006.325486
+type=tiktok comment
+id=tt_7280109001952674562
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thương con
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1690323353531393.jpg?x-expires=1696672800&x-signature=BhDDKBs0CMPSF1ujxjLMrn9Sh5M%3D
+author_link=https://www.tiktok.com/@hongbi1432008
+author=Từ Thủy Thu Hồng
+link=
+time_crawl=1696587006.470608
+type=tiktok comment
+id=tt_7280092945910514450
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau lòng quá😳
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/0c918dcbc07601360a6707bc7c6a75ab~c5_100x100.jpg?x-expires=1696672800&x-signature=4R4or%2FtSc0clqedZ3JG8tYpcZ8Q%3D
+author_link=https://www.tiktok.com/@hung88_
+author=Hưng
+link=
+time_crawl=1696587006.610933
+type=tiktok comment
+id=tt_7280089474012627720
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=xót xa
+created_time=1694970000
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/91637c52bee723dcce0e63bad1254f74.jpg?x-expires=1696672800&x-signature=cHBGJYEofBN7AHVtt2Lgujj2P5Q%3D
+author_link=https://www.tiktok.com/@mocdayc2512
+author=Mộc xinh spa
+link=
+time_crawl=1696587006.759554
+type=tiktok comment
+id=tt_7280076264203338497
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Mô phật
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/86a23099690558d09dfcdbebdf9c8757~c5_100x100.jpg?x-expires=1696672800&x-signature=%2Fd%2FtSqBoSGkIbcm6LBzr2i7sdTM%3D
+author_link=https://www.tiktok.com/@user1185179598769
+author=Mi Nguyễn
+link=
+time_crawl=1696587006.912187
+type=tiktok comment
+id=tt_7280075837785277192
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Trời ơi 😓
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f10aa473bdb6e033d7938bb17122df69.jpg?x-expires=1696672800&x-signature=J2IETBDH907EeppocKHyqhTuoo4%3D
+author_link=https://www.tiktok.com/@minheekim74
+author=Đồ gia dụng tại Korea🐥🏆🍓
+link=
+time_crawl=1696587007.072856
+type=tiktok comment
+id=tt_7280075072994362120
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Còn nỗi đau nào hơn nữa không?
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d59dd75b3779a9b2e26f909960ff1ded~c5_100x100.jpg?x-expires=1696672800&x-signature=heJyogYtw%2F9m5rWEyO5WtBLntS4%3D
+author_link=https://www.tiktok.com/@top1_vanphongxanh
+author=TOP 1 VĂN PHÒNG XANH-TERANIUM✅
+link=
+time_crawl=1696587007.305344
+type=tiktok comment
+id=tt_7280070846453940997
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Khổ quá
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b156c3e3f4a521dff2b58841664cd31~c5_100x100.jpg?x-expires=1696672800&x-signature=s5dfDsruNoNAlAs2OGQFCrwdnZM%3D
+author_link=https://www.tiktok.com/@daugoithaoduocoanhnguyen
+author=Dầu gội Oanh Nguyễn
+link=
+time_crawl=1696587007.474401
+type=tiktok comment
+id=tt_7280070530126922497
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà phật🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/04f3b81f1597db9840aebbe70d45352a~c5_100x100.jpg?x-expires=1696672800&x-signature=vbJ9eW6dW6xW5YKiFt2aBvF39lI%3D
+author_link=https://www.tiktok.com/@william_le88
+author=Từ Anh Lê
+link=
+time_crawl=1696587007.621011
+type=tiktok comment
+id=tt_7280044537938248450
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thuong qua a di da phat
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8fbabc37f1c3eef03c1186d2871e7e0e~c5_100x100.jpg?x-expires=1696672800&x-signature=1Bp%2BuC2Jb1QU6PU4PhvIVAdceuU%3D
+author_link=https://www.tiktok.com/@MS4wLjABAAAA8qItc9-9qTpZRD6huFHAvfiQNmPBeE1f6DZrEKFNv1LVW6nK1rEtPsdkSFXNGPmv
+author=user936184
+link=
+time_crawl=1696587007.767618
+type=tiktok comment
+id=tt_7280041685480211208
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau thật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e7cadd316a705e454fdfd4984505a52d~c5_100x100.jpg?x-expires=1696672800&x-signature=4QmSn%2BOk42DVJafIHFsiPoS0IZs%3D
+author_link=https://www.tiktok.com/@bichphuong2031996
+author=Bích Phương6478
+link=
+time_crawl=1696587007.916226
+type=tiktok comment
+id=tt_7280039834479477505
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mô a di đà phật
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7143855405260046362~c5_100x100.jpg?x-expires=1696672800&x-signature=rQMQ05Sh2iTLtg%2Bz3DCIEgzNNC8%3D
+author_link=https://www.tiktok.com/@usertrffmk8fpd
+author=usertrffmk8fpd
+link=
+time_crawl=1696587008.060835
+type=tiktok comment
+id=tt_7280029897849324289
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương quá
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ebabeb2a647187ccfb219364c0552a55.jpg?x-expires=1696672800&x-signature=k1H3tSxPKeKjOPsofRuaNJfPDu0%3D
+author_link=https://www.tiktok.com/@maipham492
+author=Mai Pham8060
+link=
+time_crawl=1696587008.222403
+type=tiktok comment
+id=tt_7280026980300604167
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=A di đà phật
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6971330041372213249.jpg?x-expires=1696672800&x-signature=NsP30m%2FRivSw7%2BhxM6GId0NG1qs%3D
+author_link=https://www.tiktok.com/@loananhvu
+author=loananhvu
+link=
+time_crawl=1696587008.376993
+type=tiktok comment
+id=tt_7280024546832253704
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=4
+content=người ở lại đau gấp 100 lần
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c490b6d60f96076196e514e4caac4c37.jpg?x-expires=1696672800&x-signature=Rpik19hkV3pqFGocjQdwSZwodCc%3D
+author_link=https://www.tiktok.com/@xun.xiu
+author=xuân xiêu
+link=
+time_crawl=1696587008.54854
+type=tiktok comment
+id=tt_7280013902678131463
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Trời ơi tôi đau lòng quá 😢
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2819cdddf6561f013844cad136eb4e05~c5_100x100.jpg?x-expires=1696672800&x-signature=InFhYej9MK84zl3STO8SdkFumCY%3D
+author_link=https://www.tiktok.com/@nyuamnasvue
+author=Ntxawm vu
+link=
+time_crawl=1696587008.76388
+type=tiktok comment
+id=tt_7280003590823330578
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Minh chiếchiến:🙏🙏🙏🙏Nam Mô a di đà phật mong các linh hồn sớm vãng sinh vào cõi lành
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8627566521cdead2b0e1f679346fc032~c5_100x100.jpg?x-expires=1696672800&x-signature=odSP3Qdvp%2Blkzk0PtmHjPccsc54%3D
+author_link=https://www.tiktok.com/@camonemdaddenbenanh
+author=Minh chiếchiến
+link=
+time_crawl=1696587008.927113
+type=tiktok comment
+id=tt_7280002200172446465
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=mình cô gắng làm ngơ vụ này vì mỏi lần xem mình rất đau long nhưng vẫn tìm để coi ,
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9a3b6a7389b23e69683eb035ff4a5be~c5_100x100.jpg?x-expires=1696672800&x-signature=7HYA6jwYgd0lMPQRORoscUZfLUM%3D
+author_link=https://www.tiktok.com/@phamthingoc201
+author=buca
+link=
+time_crawl=1696587009.074719
+type=tiktok comment
+id=tt_7279977340850094850
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Thương bé quá ,Nam mô a di đà Phật 🙏
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/82295ab6b9dfc882b9526479408dde34.jpg?x-expires=1696672800&x-signature=yrM3rMLuTMHfDfxvXVk73Ma8voU%3D
+author_link=https://www.tiktok.com/@lenga341
+author=Lê Nga 34
+link=
+time_crawl=1696587009.221325
+type=tiktok comment
+id=tt_7279946688809157377
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Thương 🥺
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0edbc197782e3b2fbe5e38b9a107b51f~c5_100x100.jpg?x-expires=1696672800&x-signature=KTRLgyAmV9KSZvXVwRWTqvUbB6Q%3D
+author_link=https://www.tiktok.com/@taquocchinh1995
+author=Lặng thầm
+link=
+time_crawl=1696587009.366977
+type=tiktok comment
+id=tt_7279868376783749895
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nghe lại lời chị kể lại e đau đớn vô cùng ạ
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/2b440f0fe65f50fb56ea920899985125~c5_100x100.jpg?x-expires=1696672800&x-signature=Rugkj4vCLU3skFEB74rSCBWwYP8%3D
+author_link=https://www.tiktok.com/@user65070941451011
+author=user6507094145101, đặng lai
+link=
+time_crawl=1696587009.513584
+type=tiktok comment
+id=tt_7279839621491933970
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=vấn đề là cơ quan chức năng sao vẫn cho ccmn hoạt động.
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/b2c259d51ce9a6dd17601bd0716e40e0~c5_100x100.jpg?x-expires=1696672800&x-signature=tshVIgcNDa98FPs6ftAPzmaRr3s%3D
+author_link=https://www.tiktok.com/@ngochieuphan0
+author=Ngoc Hieu Phan
+link=
+time_crawl=1696587009.657709
+type=tiktok comment
+id=tt_7279844329399616258
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=ủa nghe nói là bé vẫn ổn mà
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29cfc38c8204d46d87c8111590834ea2~c5_100x100.jpg?x-expires=1696672800&x-signature=dSJCanc51ld7qNjAmfWEaw8o%2FRY%3D
+author_link=https://www.tiktok.com/@bichlashop
+author=bichlashop
+link=
+time_crawl=1696587009.79135
+type=tiktok comment
+id=tt_7279835832394842881
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam Mô A Di Đà Phật 🙏
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/9cf23d65bec94c54e6b29775c7200a30~c5_100x100.jpg?x-expires=1696672800&x-signature=BCxU6tyo32fnVmdY0tbuFkBXvPk%3D
+author_link=https://www.tiktok.com/@lienhoa.123
+author=Liên Hoa
+link=
+time_crawl=1696587009.940255
+type=tiktok comment
+id=tt_7279835825315562246
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=cao vây ma nhay sơ thât
+created_time=1694883600
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/51786c8fd55c7a5cb8644aecd4b98b0a.jpg?x-expires=1696672800&x-signature=VBtUyOdOlQ%2B8crTSYa1Jcotrvo0%3D
+author_link=https://www.tiktok.com/@dyrt35lbgrgk
+author=dyrt35lbgrgk
+link=
+time_crawl=1696587010.086864
+type=tiktok comment
+id=tt_7279830918109905682
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà phật, đau xót 😢
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cac4106bcf42cc09b939ce94c040be3f~c5_100x100.jpg?x-expires=1696672800&x-signature=y3m5N4dK%2F%2BvZ08IHmnjs0GLsV6Y%3D
+author_link=https://www.tiktok.com/@nhat.cat
+author=Nhật Cát Home
+link=
+time_crawl=1696587010.223505
+type=tiktok comment
+id=tt_7279830046536811271
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a Di Đà Phật
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/458190544d9001ea5495ea1b99ea89a3.jpg?x-expires=1696672800&x-signature=fGT4NOfbUczq072RSdBIcA9XNlo%3D
+author_link=https://www.tiktok.com/@lanphuong291
+author=Phương đinh
+link=
+time_crawl=1696587010.373158
+type=tiktok comment
+id=tt_7279829993017557762
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đau xót
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/6995403798936027163.jpg?x-expires=1696672800&x-signature=CH9HRvbbYfbigEEWZYgy33Py3yQ%3D
+author_link=https://www.tiktok.com/@cherrylam123
+author=Cherry
+link=
+time_crawl=1696587010.519278
+type=tiktok comment
+id=tt_7279828486088655618
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=sao moi người ko lấy chăn ra
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/dab8c7ea1013be5f561f8416de3d670d~c5_100x100.jpg?x-expires=1696672800&x-signature=SdL9TwQisICfvI4fdhDWIkKVrJM%3D
+author_link=https://www.tiktok.com/@user9500279055180
+author=Hoa Nguyễn
+link=
+time_crawl=1696587010.677852
+type=tiktok comment
+id=tt_7279822251880694529
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=1
+content=Trc khi nhảy tì cuộn nhiều chăn hoặc áo hoặc cầm chăn dang ra như dù bay thì lực tiếp đất sẽ giảm hơn
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/23f293469b1fa4a41b90634c53df2263.jpg?x-expires=1696672800&x-signature=wpao7vw2N63QcpEXbA6AF0DYz%2B0%3D
+author_link=https://www.tiktok.com/@fintan2023
+author=Huỳnh AKa
+link=
+time_crawl=1696587010.831442
+type=tiktok comment
+id=tt_7279815888009839361
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=A di đà phật
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/88467ff8fe319622749f78eb6789fe86~c5_100x100.jpg?x-expires=1696672800&x-signature=g%2FPRY7XgbsZI77HMvYTjj7XxhdM%3D
+author_link=https://www.tiktok.com/@tuyenhn2012
+author=Đặng v Tuyến
+link=
+time_crawl=1696587010.992013
+type=tiktok comment
+id=tt_7279813866694394632
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=đau lòng.
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271638817461764102~c5_100x100.jpg?x-expires=1696672800&x-signature=qzQ4wf5jBVHYJYYF8EoU9OCoVV0%3D
+author_link=https://www.tiktok.com/@titi1994_.5
+author=TiTi
+link=
+time_crawl=1696587011.150944
+type=tiktok comment
+id=tt_7279813163401904904
+
+##################################################################################################################################################################################
+source_id=tt_7278482826616442130
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nam mô a Di Đà Phật
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/f04d1b7f6cba5aa1bc3d2e4ed27fd00f~c5_100x100.jpg?x-expires=1696672800&x-signature=2NTAyBdiAeVH%2BXMzrFSvM2QGrRQ%3D
+author_link=https://www.tiktok.com/@lthihoa966gmail.com
+author=lthahoa1989
+link=
+time_crawl=1696587011.337444
+type=tiktok comment
+id=tt_7279809838502331138
+
+##################################################################################################################################################################################
+source_id=
+view=301500
+duration=15
+title=Trả lời @Nhật Trinh@2002 Bạn nói mới để ý , giống khuôn mặt thật #chungcumini #chaychungcumini
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-LAM-VI%C3%8AN-LAI-Th%C3%A1i-Tuy%E1%BA%BFt-Tr%C3%A2m-7179440684096965403
+hastag=['@Nhật Trinh@2002', '#chungcumini', '#chaychungcumini']
+domain=www.tiktok.com
+share=48
+love=327
+comment=210
+like=3007
+content=
+created_time=1694685909
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20098061641b6aa9d8ecf3d153be6aaa~c5_100x100.jpeg?x-expires=1696759200&x-signature=uuu1L6KSGhTrTGWV3G8LM8xTOgY%3D
+author_link=https://www.tiktok.com/@17111994kimhue
+author=Hi Son
+link=https://www.tiktok.com/@17111994kimhue/video/7278620540829502727
+time_crawl=1696587034.250215
+type=tiktok video
+id=tt_7278620540829502727
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=10
+like=98
+content=trong gương có nhìu lắm 🥺
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ca1dca6ad8bd21051d484a7d8be83d74.jpg?x-expires=1696672800&x-signature=Z%2Fn7jNPcVDF5t%2B58IQkUGPmKfVs%3D
+author_link=https://www.tiktok.com/@xuyenbunnek
+author=Xuyến nèk😘
+link=
+time_crawl=1696587072.827673
+type=tiktok comment
+id=tt_7278995938440807186
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=20
+content=Áo đỏ trg mình luôn kìa
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5cffdf5f4b066476ffe99043099de1a1~c5_100x100.jpg?x-expires=1696672800&x-signature=jHUMJ%2BdaK41xcP8uAfBijH95EHY%3D
+author_link=https://www.tiktok.com/@fan_hat_snow3
+author=...
+link=
+time_crawl=1696587073.077574
+type=tiktok comment
+id=tt_7278714349110444818
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=12
+like=112
+content=mình nói thật nha mình nhìn ra mặt của quỷ dọa xoa á nó giống vậy nè 👹 mà kểu đang tức giận lắm
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23e2ed7f141e8aee28971f16cdba2eab~c5_100x100.jpg?x-expires=1696672800&x-signature=p3VZaqrgL9BmP3iX%2FxEGjSeqjIE%3D
+author_link=https://www.tiktok.com/@motphim_tld
+author=thích là đăng ❤️‍🔥✈️
+link=
+time_crawl=1696587073.23915
+type=tiktok comment
+id=tt_7279680303336964866
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=9
+like=38
+content=Mn phóng to ra để ý chỗ điều hòa nhìn mà hãi quá đúng như đất giữ như quỷ ấy rất nhíu 😭😭😭😭
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ff409f29a514cb4d977f93989457cfd4~c5_100x100.jpg?x-expires=1696672800&x-signature=W2FJwx8X9tRF3uzO9BUrlsrss3E%3D
+author_link=https://www.tiktok.com/@user9278427153700
+author=DUNG EM
+link=
+time_crawl=1696587073.376184
+type=tiktok comment
+id=tt_7279464105181135624
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=5
+content=Cái tòa nhà này trên sân thượng còn xây 2 cái miếu là thấy có gì đó ko ổn rồi,bt có trung cư nào họ xây đâu nhỉ
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/522feb0b928344021240f1a77fa712a7~c5_100x100.jpg?x-expires=1696672800&x-signature=AyCTxyJWaX2ZUm6WfwSlYnRwzMs%3D
+author_link=https://www.tiktok.com/@dungchip_25
+author=Dung Lee 🎀
+link=
+time_crawl=1696587073.517414
+type=tiktok comment
+id=tt_7280021087788909319
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=8
+like=34
+content=Có khuôn mặt ở tren mấy bộ đồ nhìn mới đáng sợ . Quá dữ
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc2eae826569bf9be4da68d9f5b062b4~c5_100x100.jpg?x-expires=1696672800&x-signature=kmA7zOuPc94m1Selv0f0iOkugfs%3D
+author_link=https://www.tiktok.com/@be_chuot_tuoi_con_cop
+author=Ốc Hấp Tiêu
+link=
+time_crawl=1696587073.657041
+type=tiktok comment
+id=tt_7279324501652292359
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=12
+like=293
+content=riêng mình nhìn k phải mặt người mà nhìn như động vật đang nhe răng rất dữ, như con chó hay heo gì á
+created_time=1694710800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50471d39a09c533b307c52f59cd2fe6e~c5_100x100.jpg?x-expires=1696672800&x-signature=TdjL7%2BA0bomd7da%2BIqUjSJyli2Y%3D
+author_link=https://www.tiktok.com/@tie_819
+author=Bé Hảo
+link=
+time_crawl=1696587073.798664
+type=tiktok comment
+id=tt_7278950944481461010
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=6
+like=352
+content=Mình thấy rất nhiều khuôn mặt hung dữ
+created_time=1694624400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9de7452aae34f3fc6566db36e8d59d57~c5_100x100.jpg?x-expires=1696672800&x-signature=6yu0EyQVck1VnrEvPtqg7uD6X%2Bs%3D
+author_link=https://www.tiktok.com/@bk_quockien
+author=Quốc Kiên ( 👻)
+link=
+time_crawl=1696587073.942278
+type=tiktok comment
+id=tt_7278656167751222018
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=7
+content=Cái gương t2 bên dưới giống 1 ng đàn ông
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3716bb416a9ab07d682fcb624b4ca11d.jpg?x-expires=1696672800&x-signature=sjL7YxFyIuL2w6iIapH8c4RJ8iY%3D
+author_link=https://www.tiktok.com/@ckjie._6
+author=jichaeKim
+link=
+time_crawl=1696587074.077864
+type=tiktok comment
+id=tt_7279081845043053320
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=88
+content=Giống gương mặt trẻ con đang tức giận
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2c3f85fd65293ac4939490cab27ebb48.jpg?x-expires=1696672800&x-signature=5jiVRmWe717wvc1RKK4XahXYxzM%3D
+author_link=https://www.tiktok.com/@17032004_ptq
+author=ηɠườίđẹρηɠủτɾσηɠɭòηɠαηɧ 🥀
+link=
+time_crawl=1696587074.224491
+type=tiktok comment
+id=tt_7279104805628445448
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=3
+like=5
+content=Mình lại thấy giống ông Long Vương dưới nước , trong phim tay du ký á
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d2ac60d82b22d0c06bd75974ca16baaa.jpg?x-expires=1696672800&x-signature=xG1u%2FTCIo%2BQKNBmDbZwvma7OIKc%3D
+author_link=https://www.tiktok.com/@thanhhangle659
+author=TườngVy
+link=
+time_crawl=1696587074.36255
+type=tiktok comment
+id=tt_7279445442550924034
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=5
+like=222
+content=t nhìn ra khuông mặt ng đàn ông đang dận dữ
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dbb0c562ef6b20a3bb68beb8edfee40~c5_100x100.jpg?x-expires=1696672800&x-signature=hSyJTysQ5t%2BJsaJ8t9%2FGNNg5RSc%3D
+author_link=https://www.tiktok.com/@kh_vy126
+author=Duc Manh không iu e😠
+link=
+time_crawl=1696587074.497278
+type=tiktok comment
+id=tt_7279408486567772930
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=30
+content=khuôn mặt của những người đã từng trốn tìm nơi tránh khói .là của những người đã khuất ở trong đó đó
+created_time=1694797200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7097217862657376258.jpg?x-expires=1696672800&x-signature=UDWVJ%2Bqv0WtsuMOXangn%2F8aMCVg%3D
+author_link=https://www.tiktok.com/@dat999999910
+author=Nguyen Đạt710
+link=
+time_crawl=1696587074.618956
+type=tiktok comment
+id=tt_7279434098120295170
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=5
+content=mặt người đàn ông như người pháp người tây á
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a58d63b3cb57c9c765bcc5a87c9ee20e.jpg?x-expires=1696672800&x-signature=c0CrUIFSEoHTow129fSq9%2BU%2BS6U%3D
+author_link=https://www.tiktok.com/@123456pthkl
+author=Phạm Thị Hạnh
+link=
+time_crawl=1696587074.744619
+type=tiktok comment
+id=tt_7279791160398349064
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=7
+content=gương mặt rất giữ tóc ngang lưng đàn ông🙏🙏🙏
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3a93635557e1031d6ea27d5b9f2a1b7~c5_100x100.jpg?x-expires=1696672800&x-signature=%2F40drCxHJcClRQC7%2FZRpznfbces%3D
+author_link=https://www.tiktok.com/@thuthuy04121992
+author=thu thủy
+link=
+time_crawl=1696587074.872078
+type=tiktok comment
+id=tt_7279326067163661057
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=có ng đứg sau tấm kinh kia :( mặt cúi xuống nhìn buồn quá 🥺🥺
+created_time=1696554000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/4d3fbbb08c66cdd3e83983143295fd8c.jpg?x-expires=1696672800&x-signature=2z7khL%2FT4xnv2FKCksdougLFhPk%3D
+author_link=https://www.tiktok.com/@tuedan201196
+author=❤Beo ❤
+link=
+time_crawl=1696587075.0068
+type=tiktok comment
+id=tt_7286640569903383304
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=sao nhiều vậy ạ??
+created_time=1696093200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5a6588040227e5a65362ba7a93a5d93f.jpg?x-expires=1696672800&x-signature=Y39numnvVWVIqGMqt%2BqYgj4HrlE%3D
+author_link=https://www.tiktok.com/@thgayxmlil
+author=me may bel☝🤓
+link=
+time_crawl=1696587075.211288
+type=tiktok comment
+id=tt_7284690868911883009
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Chiếc áo đỏ đồng phục trường em…?
+created_time=1696006800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/67c379fcf800fc1cd2f3546c8346e735.jpg?x-expires=1696672800&x-signature=Cn%2FUJcatKXSYJZ4pLKd0rztBh%2BE%3D
+author_link=https://www.tiktok.com/@nguyentulinh_
+author=Linh cutiii
+link=
+time_crawl=1696587075.340487
+type=tiktok comment
+id=tt_7284285599874810625
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Mệt mỏi nhìn mãi k thấy gì😳 chắc có căn mới thấy đc. Nhưng dù sao cũng vô cùng tiếc thương những người xấu số trong vụ cháy. Nammoadidaphat…😔
+created_time=1695574800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c6b63d095148af07b2be844a7cdfff1c.jpg?x-expires=1696672800&x-signature=y84Tl0EGp%2FKiUfpHy3cs%2BlQdidU%3D
+author_link=https://www.tiktok.com/@katagirivan1004
+author=Nguyễn Vân
+link=
+time_crawl=1696587075.460236
+type=tiktok comment
+id=tt_7282758093070435074
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=@moi🥸 tâm linh r m ạ
+created_time=1695488400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fa3fed0219ce4cf327754a58f0c2497a.jpg?x-expires=1696672800&x-signature=BYGELOcXS8hWk8y%2BUhMfitWKI3U%3D
+author_link=https://www.tiktok.com/@hleeee.g
+author=ThuHuong
+link=
+time_crawl=1696587075.596292
+type=tiktok comment
+id=tt_7282340993058226962
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=mệt vs mấy bố mấy mẹ quá cứ có j cái là luận ra đc hết cái này cái nọ
+created_time=1695488400
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1599788743473154.jpg?x-expires=1696672800&x-signature=oMItVT2H0gx1Fg581CiFFniVN4I%3D
+author_link=https://www.tiktok.com/@minhkhoi1193
+author=Minh Khôi
+link=
+time_crawl=1696587075.721363
+type=tiktok comment
+id=tt_7282276750871675650
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=A Di Đà Phật
+created_time=1695402000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5b219408cd84356fd5cf837ea31044e6.jpg?x-expires=1696672800&x-signature=zG%2B9p0pDY%2Bg5BBl%2Fy0QNsqJY2P0%3D
+author_link=https://www.tiktok.com/@hongnham.92
+author=Nhâm Trần
+link=
+time_crawl=1696587075.840941
+type=tiktok comment
+id=tt_7282047744596165378
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=trên cái áo ám khói có nhiều gương mặt đang la hét
+created_time=1695315600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ad11289d6b33d523886688dee2b86fae~c5_100x100.jpg?x-expires=1696672800&x-signature=lwzgfl9YJe3QTYnegXOHfUMO7ro%3D
+author_link=https://www.tiktok.com/@haunguyen22072021
+author=Hậu Nguyễn 2004
+link=
+time_crawl=1696587075.966453
+type=tiktok comment
+id=tt_7281669136869589778
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Áo đồng phục thcs kìa
+created_time=1695315600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bb685a887cf9dce934c7e661a870b913.jpg?x-expires=1696672800&x-signature=xfuG%2Br3AxONjeJ0dG%2BcYsH7KnEI%3D
+author_link=https://www.tiktok.com/@cacsieutokhong_lo
+author=Qtzz
+link=
+time_crawl=1696587076.086133
+type=tiktok comment
+id=tt_7281513657271567122
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=chịu ấy.. ko phải ko tin vào tâm linh nhưng tường nhà tui loang nước mưa tui cũng nhìn ra đầy mặt như vậy
+created_time=1695315600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e7a706ed71e2b9073a1fe03a876febc8.jpg?x-expires=1696672800&x-signature=8BYojv7G%2FvvGfLmxIufmvl%2FPO7Q%3D
+author_link=https://www.tiktok.com/@MS4wLjABAAAATIMYNud2G1HKZWoVqEaKap8tzIZ_DlB0WFw1yKzF337jEGeg03avBXY1kfEw-MI2
+author=..
+link=
+time_crawl=1696587076.214294
+type=tiktok comment
+id=tt_7281435131399095047
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Điều hoà có 2 nửa khuôn mặt
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/b57b80c378f08098ae298f1c5db6ccdf.jpg?x-expires=1696672800&x-signature=rd6VoR%2BoHAAh%2BWPhGmmZbxxhOV8%3D
+author_link=https://www.tiktok.com/@whatalldafuss_abt
+author=lỗ mũi tuyệt trần
+link=
+time_crawl=1696587076.340955
+type=tiktok comment
+id=tt_7281157737651110663
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=tớ thấy các cặp mắt của quỷ với các vong rất sáng, họ giận dữ lắm.
+created_time=1695229200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f79ccaf5e1007000b47b29018cf810c3.jpg?x-expires=1696672800&x-signature=2ew3EmTdQWEgEdc0woSNQyj40EE%3D
+author_link=https://www.tiktok.com/@hin.nguyn290
+author=hêh.
+link=
+time_crawl=1696587076.668904
+type=tiktok comment
+id=tt_7280961636986422034
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Cầu cho các hương linh và oán thân trái chủ của họ sớm siêu thoát, buông bỏ hận thù, tu tập để bớt khổ! Nam Mô A Di Đà Phật!
+created_time=1695142800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/68dad05d4304e5d8f89919166746c0a5~c5_100x100.jpg?x-expires=1696672800&x-signature=eGysF2Re4h0CYTiOMd0ycOPPYSM%3D
+author_link=https://www.tiktok.com/@phuong_thuyaviinxdg39y
+author=Hát vui
+link=
+time_crawl=1696587076.797489
+type=tiktok comment
+id=tt_7280817033267479298
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=phai chang la co điềm j do chang🥺
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2b2875c934eeaf0714e3d9a4b0755590.jpg?x-expires=1696672800&x-signature=yf7JUd3FQfemJ%2BVCOwqqMkWYDDc%3D
+author_link=https://www.tiktok.com/@nhungtuyet14790
+author=pé heo
+link=
+time_crawl=1696587076.925517
+type=tiktok comment
+id=tt_7280544005145592577
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Dưới đáy cục điều hòa nữa nhìn thương thật sự 🙏🏻🥺
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b81fc72cfe63d67bec21ed4a16284d75~c5_100x100.jpg?x-expires=1696672800&x-signature=2NGIShfQJPuZ7ZqbA76aAt1GJvE%3D
+author_link=https://www.tiktok.com/@13_th090
+author=Dcm
+link=
+time_crawl=1696587077.048052
+type=tiktok comment
+id=tt_7280424994839266055
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=mình nhìn thấy khuôn mặt đàn ông nước ngoài giận dữ,mắt trợn ngược sợ quá 😥
+created_time=1695056400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8cd32938917b780692b2ea437db8bee6~c5_100x100.jpg?x-expires=1696672800&x-signature=X2MnOMER2Q4AhuZZ7b0YsaePGlw%3D
+author_link=https://www.tiktok.com/@thanh.pureconsciousness
+author=Giải Ưu 642
+link=
+time_crawl=1696587077.186695
+type=tiktok comment
+id=tt_7280329237968782098
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Khuôn mặt 😳
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d928038cefc0c766f8cae2142aafcce4.jpg?x-expires=1696672800&x-signature=M%2BxLtDQD4B6xAT3p5zVeOGcWl8s%3D
+author_link=https://www.tiktok.com/@nhuhuynh2934
+author=Liêu Như Tâm
+link=
+time_crawl=1696587077.317343
+type=tiktok comment
+id=tt_7280185478422725378
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=luffy gear 4
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6ca5020991fc0d654827f8609d58b2ce.jpg?x-expires=1696672800&x-signature=uxv0kgy8Tt28mYDqyqbfRu2uygE%3D
+author_link=https://www.tiktok.com/@hee5694
+author=động tí là dí
+link=
+time_crawl=1696587077.441017
+type=tiktok comment
+id=tt_7280181326262682375
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=2
+content=M thấy 1 ng đàn ông râu ria đang hằm hằm
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/2a5be11d5dee7f14b3037743807b62ab~c5_100x100.jpg?x-expires=1696672800&x-signature=Z6uUZXwrgqgMBAXkZ3a3GTx6Fvg%3D
+author_link=https://www.tiktok.com/@ruby_spa
+author=YẾN OMC
+link=
+time_crawl=1696587077.577185
+type=tiktok comment
+id=tt_7280132251826963201
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=3
+content=A di đà Phật. Nguyện hồi hướng công Đức cho họ về miền cực lạc
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/35e10b9d01e2c0d9553d18bae72ec327.jpg?x-expires=1696672800&x-signature=6etyOx6sNYUn9iHw9TFp4NDFvns%3D
+author_link=https://www.tiktok.com/@hoatam_6791
+author=Diệu Phước Ngọc
+link=
+time_crawl=1696587077.698862
+type=tiktok comment
+id=tt_7280045233272980225
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=Kiểu như đất này có gì đó k ổn
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c11bd2c1abbf0bd2fa41f5ce8c31acde.jpg?x-expires=1696672800&x-signature=CMZXGVOn%2Bj1%2FSS6%2FgnCSMbH100Y%3D
+author_link=https://www.tiktok.com/@tiok_26
+author=…
+link=
+time_crawl=1696587077.831404
+type=tiktok comment
+id=tt_7280040111826715410
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=😭S mình thấy hình mặt quỷ ở đó rất đáng sợ . Cái hình có cái điều hòa chổ giường mình cũng thấy 😭😭
+created_time=1694970000
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1f5352568f0a4f595225de159fcd2f2e.jpg?x-expires=1696672800&x-signature=0KpjOLTOuy2%2FB6xYCmf%2Fb%2B51IBI%3D
+author_link=https://www.tiktok.com/@94tatuuyen
+author=Tạ Tú Uyên
+link=
+time_crawl=1696587077.957068
+type=tiktok comment
+id=tt_7280035275215061761
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=khói bịu cháy bám lên tạo thành
+created_time=1694970000
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a49c3aad6251a1abca15e105f078e38f.jpg?x-expires=1696672800&x-signature=YmvrUy2HoetfnBLQaRKHmF8o63U%3D
+author_link=https://www.tiktok.com/@siurnd
+author=Thầy Bảy EVENT FIFA MOBILE✍️
+link=
+time_crawl=1696587078.087729
+type=tiktok comment
+id=tt_7279920975934915335
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nam mô a di đà phật ạ❤️
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?x-expires=1696672800&x-signature=LFsrsKyAUjwWI2BX%2BkFerRSIMuE%3D
+author_link=https://www.tiktok.com/@user8055342442123
+author=Kady Hoang
+link=
+time_crawl=1696587078.219365
+type=tiktok comment
+id=tt_7279901564054422273
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=nhìn lên góc trái chổ mấy bộ đồ cũng có 1 khuôn mặt nữa đó
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3c86f6d44a3b331556d74f1348eddfab.jpg?x-expires=1696672800&x-signature=0CoFy3ZI1CFXaqUhK8HnlfkPB14%3D
+author_link=https://www.tiktok.com/@luuminhtam2k
+author=Tâm
+link=
+time_crawl=1696587078.350016
+type=tiktok comment
+id=tt_7279850085411177218
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Ui m thấy rất nhiều những khuôn mặt dữ tợn, rất rõ luôn ạ.
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/75351b5fb0849a313d72e7474b06b5b2~c5_100x100.jpg?x-expires=1696672800&x-signature=yMI5yq%2BdTiNmvGwmOMZtiNvbvfM%3D
+author_link=https://www.tiktok.com/@trang_heo26692
+author=Trang
+link=
+time_crawl=1696587078.472079
+type=tiktok comment
+id=tt_7279843041324745479
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Đọc cmt sỉu ngang 😭😭, sợ quá
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3eaaaaf019804e5bff634f851e4ab7b~c5_100x100.jpg?x-expires=1696672800&x-signature=Rd4qdIgKXWzdIYgwL8DFVE6sEjc%3D
+author_link=https://www.tiktok.com/@dolla_kids
+author=Phúc Anh bookstore
+link=
+time_crawl=1696587078.612703
+type=tiktok comment
+id=tt_7279813789628334866
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Chỉ là tưởng tượng thôi
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8f64170e6bca6d260f0dd60c58404715~c5_100x100.jpg?x-expires=1696672800&x-signature=Sv5fiTUniINSlTlhrR7ZhzSOG3U%3D
+author_link=https://www.tiktok.com/@user8554291257241
+author=user8554291257241
+link=
+time_crawl=1696587078.754325
+type=tiktok comment
+id=tt_7279805294115832578
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=2
+content=Phóng to lên chỗ điều hòa rất nhiều mặt người ôi nổi da gà
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ceb6c1f3eaef73b9cb47ad99bed4b99~c5_100x100.jpg?x-expires=1696672800&x-signature=fFtoLSwkO8tuLik3IH56CPl18Cw%3D
+author_link=https://www.tiktok.com/@user137542251
+author=Kim Ngọc BT
+link=
+time_crawl=1696587078.907524
+type=tiktok comment
+id=tt_7279786267532772104
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=tôi thấy mặt rất nhiều ng và cả mặt con hẹo dận dữ
+created_time=1694883600
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6269f985725bb044d1f31425ea9192aa.jpg?x-expires=1696672800&x-signature=2%2B56fyyRuPrazDjxMhJp%2BGXHFRM%3D
+author_link=https://www.tiktok.com/@tuantao04
+author=🍏TUẤN TÁO🍏
+link=
+time_crawl=1696587079.04316
+type=tiktok comment
+id=tt_7279718616127456007
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=bữa tui cug để ý ma hk dám nói
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e776b4505b47585030239ecb2101777~c5_100x100.jpg?x-expires=1696672800&x-signature=QJ5bFZDJMS16ufvPyvDZbady02I%3D
+author_link=https://www.tiktok.com/@tran.t.mynhung
+author=FB. Nhi Trần
+link=
+time_crawl=1696587079.186894
+type=tiktok comment
+id=tt_7279643783208567553
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=4
+content=@꧁🅙🅘🅝 🅢🅐🅜🅐♏ nhìn thấy mặt chx
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39bf79ed0ecc96c9f981368842973c0c~c5_100x100.jpg?x-expires=1696672800&x-signature=kzn9A7rNPXR1eFw8b285ZfDhOw8%3D
+author_link=https://www.tiktok.com/@hungcayxang
+author=Hoa Hướng Dương 🌻
+link=
+time_crawl=1696587079.317523
+type=tiktok comment
+id=tt_7279405550281179905
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Nichson
+created_time=1694970000
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/35579e6fa1ce4072c665a4e9300ebaf2.jpg?x-expires=1696672800&x-signature=LRz8EHql7YU%2FusMHakhcydJ%2F7zQ%3D
+author_link=https://www.tiktok.com/@kobietdetengi
+author=Phạm kiên
+link=
+time_crawl=1696587079.451167
+type=tiktok comment
+id=tt_7280048144502457089
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Mong ai cũng bình yên,
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ef62e3af5f9c9d4d452c4bd005473faa.jpg?x-expires=1696672800&x-signature=T3vFq1A4fYT7adN0h%2FK6iuKUHu0%3D
+author_link=https://www.tiktok.com/@vetmua888
+author=Bình Yên8686
+link=
+time_crawl=1696587079.613732
+type=tiktok comment
+id=tt_7279779654566511361
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=Tui thấy trog gương có một gương mặt,nhìn góc xéo xéo thấy có một con mắt 🥺
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0ac4447179a743bdccc23ebca8b0a7ed.jpg?x-expires=1696672800&x-signature=9xz296jy5ciMt1jtSWKK045ooq8%3D
+author_link=https://www.tiktok.com/@user2094798160263
+author=thuylinh2k9
+link=
+time_crawl=1696587079.750367
+type=tiktok comment
+id=tt_7279638261768061703
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=a di đà phật
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9d439b318791956ceb1fa08873875e08.jpg?x-expires=1696672800&x-signature=5kln85StJnw5XUtFtgfgmvZJje8%3D
+author_link=https://www.tiktok.com/@vn.nguyn0178
+author=Vân Nguyễn
+link=
+time_crawl=1696587079.882014
+type=tiktok comment
+id=tt_7279435389608542984
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=áo đồng phục đỏ trường tôi😞
+created_time=1694797200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7124083040472530971~c5_100x100.jpg?x-expires=1696672800&x-signature=1tnss4Ars0BAjXozZt04fbMOhFY%3D
+author_link=https://www.tiktok.com/@nammleeee
+author=NamBB
+link=
+time_crawl=1696587080.013661
+type=tiktok comment
+id=tt_7279429211437220610
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=3
+like=0
+content=@🇻🇳Ngọc Hân 96🇰🇷👧👶 하니
+created_time=1696006800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d1549a049772513cbab6702af69c8100.jpg?x-expires=1696672800&x-signature=F8amHmOlatRj31%2FGX%2B26hueoZrU%3D
+author_link=https://www.tiktok.com/@phuongvo_2510
+author=Phương Võ
+link=
+time_crawl=1696587080.153289
+type=tiktok comment
+id=tt_7284513081727501064
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=😥😭😭
+created_time=1695229200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/889d17d15cb56b646f7718a9f44e364f.jpg?x-expires=1696672800&x-signature=Bu6yCRunSYLbossoKOJThnCb37Y%3D
+author_link=https://www.tiktok.com/@moon.moon2k
+author=Hoa Bỉ Ngạn
+link=
+time_crawl=1696587080.361694
+type=tiktok comment
+id=tt_7281305447344308999
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Mẹ ko cho đi chơi quá 10h 🥺
+created_time=1695229200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e32788d9538f1b46799543851986b114.jpg?x-expires=1696672800&x-signature=1jKP1kq7pN5K37UvEh60bk6DWnM%3D
+author_link=https://www.tiktok.com/@duyen_204
+author=Kỳ Duyênnn
+link=
+time_crawl=1696587080.492981
+type=tiktok comment
+id=tt_7281091743138857729
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=👹
+created_time=1695056400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/876d2dccbc45c248eba23d22f0c72072.jpg?x-expires=1696672800&x-signature=3m1HAQhpWx4Xr8jKLJxQa9qMqB8%3D
+author_link=https://www.tiktok.com/@mhieu987
+author=hiếu
+link=
+time_crawl=1696587080.624628
+type=tiktok comment
+id=tt_7280257475092267777
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=🙏🙏🙏
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/535b389f5d9f46d002cc40c12b36f1f2.jpg?x-expires=1696672800&x-signature=EiQHNw82nYsBRLYb9ZBkGA9c7bE%3D
+author_link=https://www.tiktok.com/@dungkoi2017gmail.com
+author=🫶Văn❤️Dũng❤️🫶
+link=
+time_crawl=1696587080.755279
+type=tiktok comment
+id=tt_7280204201062482690
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=😭😭😭😭😭
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5b7b876ac0d299bf4304ab0b12a72e12~c5_100x100.jpg?x-expires=1696672800&x-signature=AOMcnr6pTuNchfcvlek3yrlkvFc%3D
+author_link=https://www.tiktok.com/@thunguyen_nhadatdl
+author=Thu Nguyễn Nhà Đất Đ
+link=
+time_crawl=1696587080.888924
+type=tiktok comment
+id=tt_7280111901798499079
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=🙏🙏🙏
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/365e36d22db6a5a6253417e19fdabd52.jpg?x-expires=1696672800&x-signature=AMof0po8QJwH4uZtSxwX9wEBCAY%3D
+author_link=https://www.tiktok.com/@maihongduy9999
+author=Mai Hồng Duy
+link=
+time_crawl=1696587081.017581
+type=tiktok comment
+id=tt_7280088937593570049
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Nam Thần Chuỗi Khối
+created_time=1694970000
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c571262c19fa1544f8e5fbe8965e4a3c.jpg?x-expires=1696672800&x-signature=nna%2BFcjNtFNq4l3mqvQxmka4aAU%3D
+author_link=https://www.tiktok.com/@chimmy11111110
+author=Lachibolala
+link=
+time_crawl=1696587081.169848
+type=tiktok comment
+id=tt_7280029030144705282
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=🙏🙏🙏
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/81fe426eef5f1b157660f43d2aa9e016~c5_100x100.jpg?x-expires=1696672800&x-signature=V8tlAhilljBw%2F5O3TB5L5Fs7Frw%3D
+author_link=https://www.tiktok.com/@tranhuong959villa
+author=An trung tiên khôi 🐇🔥🐚💚❤
+link=
+time_crawl=1696587081.301496
+type=tiktok comment
+id=tt_7279818257874764546
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Kỳ Kỳ ❤️
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/076b4d11591de120cd0d87b7e5ccdc83~c5_100x100.jpg?x-expires=1696672800&x-signature=fUr1%2FCdxUr%2BJ6lSxHNvo%2FCn%2FIl0%3D
+author_link=https://www.tiktok.com/@032096.vnn
+author=2003_uri
+link=
+time_crawl=1696587081.456082
+type=tiktok comment
+id=tt_7279687332687840007
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=😅
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/299fcd7baa6b2446cfa2a179ab0e9e8b.jpg?x-expires=1696672800&x-signature=ED7UuzQvoU4PfTGOFQCweL6NV7s%3D
+author_link=https://www.tiktok.com/@leeknow0329
+author=Bùi Mạnh Huy 🙄
+link=
+time_crawl=1696587081.595746
+type=tiktok comment
+id=tt_7279643954379195138
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Mua ủng hộ tui đi order China
+created_time=1694797200
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7278611947166924802.jpg?x-expires=1696672800&x-signature=e7zXDuIcLjjWH2bVGPC%2BqhmMXEg%3D
+author_link=https://www.tiktok.com/@tran.huy.duong
+author=Tran Huy Duong
+link=
+time_crawl=1696587081.730385
+type=tiktok comment
+id=tt_7279449735872987905
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Kim Anh
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c2bda5f123f5563be74db285b49c343b.jpg?x-expires=1696672800&x-signature=TdIC6sCefTijePU%2FlFrg1KJkvto%3D
+author_link=https://www.tiktok.com/@empiehaybuonn_06
+author=Baogio hết gầy thì đổi tên😏;)
+link=
+time_crawl=1696587081.864027
+type=tiktok comment
+id=tt_7279119404474139394
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=@@thuỷ🐍 @Trang Kim
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5bd84bb9c6db245e42da88ab81fc4220.jpg?x-expires=1696672800&x-signature=lZov1L7clLkVaxpUkW1r91ciI2k%3D
+author_link=https://www.tiktok.com/@dung10112001
+author=Vương Thị Dung🧸🇻🇳🇯🇵
+link=
+time_crawl=1696587082.020609
+type=tiktok comment
+id=tt_7279074490147259143
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@Kiều Oanh
+created_time=1694710800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/3362337682a1e212d5bdadae1f81cb17~c5_100x100.jpg?x-expires=1696672800&x-signature=OrucIX5teoMbBDRQQDWTxhxoWNc%3D
+author_link=https://www.tiktok.com/@phamthaigiang
+author=Phạm Thái Giang
+link=
+time_crawl=1696587082.168583
+type=tiktok comment
+id=tt_7279041417300099841
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=2
+content=@hgiiang_ @Diễm Hương @Ngfuong
+created_time=1694710800
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e56662d4f8e0fbe6cc51c883eca96af8.jpg?x-expires=1696672800&x-signature=ooAvoMqOVl%2F3se1Z4GR8Tg2sxVc%3D
+author_link=https://www.tiktok.com/@__bicngoc
+author=nbn
+link=
+time_crawl=1696587082.304221
+type=tiktok comment
+id=tt_7279040261639537426
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=1
+like=0
+content=@Dã bộ đẹp trai
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/348bde401900a166d8bfd947547a19c7.jpg?x-expires=1696672800&x-signature=AzV981wzN10ASe%2FEqOVsfaVBysY%3D
+author_link=https://www.tiktok.com/@jajsnnn2
+author=Lý Mạc Sầu
+link=
+time_crawl=1696587082.454044
+type=tiktok comment
+id=tt_7278990993151607553
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@1m van on
+created_time=1694797200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e331ddc2932dbe0f64d162801b2bb124~c5_100x100.jpg?x-expires=1696672800&x-signature=Sl8x85zDhDEDoJpQrMo6fY6Ii14%3D
+author_link=https://www.tiktok.com/@lequanggggg
+author=Lê Quang
+link=
+time_crawl=1696587082.585736
+type=tiktok comment
+id=tt_7279424505553175297
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=4
+content=@Mimii.1996
+created_time=1694624400
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ee65c4f31ae6fb7380f77a379817aba4.jpg?x-expires=1696672800&x-signature=s0POCmf5UXy6da76jF5qjQwv8eA%3D
+author_link=https://www.tiktok.com/@l.........hcs.........l
+author=C.SƠN🧸🎀
+link=
+time_crawl=1696587082.734338
+type=tiktok comment
+id=tt_7278649049749439233
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=Zoom lên ngay kệ kê cái cục nóng của máy lạnh đi. Rõ ràng lắm đó
+created_time=1695056400
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3ec1ce6119ce65aceac3bbcb840c778~c5_100x100.jpg?x-expires=1696672800&x-signature=11I0nr1Voza5pXNYDPwfgtRKfsY%3D
+author_link=https://www.tiktok.com/@mr_nino18
+author=Nino
+link=
+time_crawl=1696587082.870972
+type=tiktok comment
+id=tt_7280242098414600962
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Thực sự rất ám ảnh...🙏🙏🙏🙏🙏 nam mô a di đà Phật
+created_time=1694883600
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6fa6c7cdbfa013c97c16cb36a155b9bd~c5_100x100.jpg?x-expires=1696672800&x-signature=yKjITyg6TVbaiktOtLH86YvXjSA%3D
+author_link=https://www.tiktok.com/@hien24081983
+author=Đồ Gỗ Hiếu Hiền
+link=
+time_crawl=1696587083.020574
+type=tiktok comment
+id=tt_7279713721508135681
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=4
+content=mình thấy như là tao chung cư bị Ma ám rồi
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fcf24da8b53fa061994921744b92949b.jpg?x-expires=1696672800&x-signature=pYqQH%2Bw4nNmADTfA9zcOiaEdG7Y%3D
+author_link=https://www.tiktok.com/@quang20130
+author=quang20130
+link=
+time_crawl=1696587083.152219
+type=tiktok comment
+id=tt_7279077900367266562
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=45
+content=Càng nhìn ảnh này oán khí rất nặng , rất nhiều gương mặt giận giữ trong đây luôn ý mn🥺🥺🥺
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7d77c7e45e11bc3969f6bd7af901c436~c5_100x100.jpg?x-expires=1696672800&x-signature=hrfW3cZmbi7nANJNg8ycjD%2Br350%3D
+author_link=https://www.tiktok.com/@annhboo2
+author=Nhật Trinh@2002
+link=
+time_crawl=1696587083.30581
+type=tiktok comment
+id=tt_7278666386666291969
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=9
+like=21
+content=Tui xem cái nó đập vô mắt lun . 😣😣😢
+created_time=1694624400
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7d77c7e45e11bc3969f6bd7af901c436~c5_100x100.jpg?x-expires=1696672800&x-signature=hrfW3cZmbi7nANJNg8ycjD%2Br350%3D
+author_link=https://www.tiktok.com/@annhboo2
+author=Nhật Trinh@2002
+link=
+time_crawl=1696587083.451446
+type=tiktok comment
+id=tt_7278624063467143937
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=mình cũng thấy trên bức tường có 1guong mặt người đàn ông
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fef1f0b255c66616365f2cf3966637fd.jpg?x-expires=1696672800&x-signature=vuLB4s6uzC9P%2FgcZsfR8Ad%2BH6Zc%3D
+author_link=https://www.tiktok.com/@hoanguyenhoa69
+author=hoanguyenhoa657
+link=
+time_crawl=1696587083.588081
+type=tiktok comment
+id=tt_7281281147023524610
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=thấy rồi
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6cf812c51f8b031b9e7cc5764ce96c3a.jpg?x-expires=1696672800&x-signature=pD3rQENvpF6XJFWpWNhDHiP7Tdc%3D
+author_link=https://www.tiktok.com/@thanhchung23hhh
+author=Thanh chung93
+link=
+time_crawl=1696587083.727711
+type=tiktok comment
+id=tt_7281157385744466690
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=sao mình ko thấy gì ạ
+created_time=1695142800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/da3c7bfa5a7717b36a5dd125b2a17479~c5_100x100.jpg?x-expires=1696672800&x-signature=LkD%2FY0e9OgDp1svlpHioVBPFukg%3D
+author_link=https://www.tiktok.com/@huongthu879
+author=Huong Thu
+link=
+time_crawl=1696587083.868866
+type=tiktok comment
+id=tt_7280916405603123986
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=@KimTiền97 thây gi k?
+created_time=1694970000
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8757b1251e285f17ae346a0ba8f7fd04~c5_100x100.jpg?x-expires=1696672800&x-signature=AyYHZYtHvEAi%2FVzkgIT02gzz0k4%3D
+author_link=https://www.tiktok.com/@nguyenphucdiemchau
+author=Diễm Châu384
+link=
+time_crawl=1696587084.007968
+type=tiktok comment
+id=tt_7280120546036433672
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=S ngoài hik mũi tên mik k nhìn thấy gì nhỉ. Cho dù đã phóng to và xem rất kĩ
+created_time=1694970000
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b25a7a493d4988a6e775e5f286790dae~c5_100x100.jpg?x-expires=1696672800&x-signature=coHX0cwiLEgQmxbi%2Fk%2BAf4qjNts%3D
+author_link=https://www.tiktok.com/@an_khanh789
+author=tony nguyen02
+link=
+time_crawl=1696587084.157568
+type=tiktok comment
+id=tt_7279876896865747714
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=ở trên chữ "phía" cũg có 1 mặt nữa😳
+created_time=1694883600
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1e8547d66ca9c63cffacb31d5864d239.jpg?x-expires=1696672800&x-signature=k65HHmpUWiCPr67AVOAE6uqYbf0%3D
+author_link=https://www.tiktok.com/@hth299
+author=Huệ's..
+link=
+time_crawl=1696587084.303723
+type=tiktok comment
+id=tt_7279800719590638338
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=sao k chạy vô nhà vs bịt kín xả nc nhỉ
+created_time=1694883600
+avatar=https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7106505857323499521.jpg?x-expires=1696672800&x-signature=JwRM49lUCg99fuKHFWNRjSw9twI%3D
+author_link=https://www.tiktok.com/@user5aye23biji
+author=tùng lâm
+link=
+time_crawl=1696587084.446364
+type=tiktok comment
+id=tt_7279791685348623109
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Gương mặt của 1 người đang giận giữ. Như k hài lòng về 1 chuyện gì đó. Xót thương cho các nạn nhân 🥺🥺
+created_time=1694883600
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/d60f6e899c15dbfeb67e4ef86dbaa100~c5_100x100.jpg?x-expires=1696672800&x-signature=sKP73jpGJlPilRPg1GBLE7wZ%2Foo%3D
+author_link=https://www.tiktok.com/@nguyen_12.04
+author=Cat_smile
+link=
+time_crawl=1696587084.584972
+type=tiktok comment
+id=tt_7279790365921133319
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=đz
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cdef2f364aadae0d931ab030683dc967.jpg?x-expires=1696672800&x-signature=CCaRtAEp7hISJeDo2ivG0trGGfw%3D
+author_link=https://www.tiktok.com/@_dieuhuyn_
+author=Ann nhiên 🍀🪷🍀
+link=
+time_crawl=1696587084.717617
+type=tiktok comment
+id=tt_7279425951799329537
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=dạ cháu xin chia buồn cùng mọi người ạ😭😭😭😭😭😭😭😭😭
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/140a983ce74af837d0b14a1fcc91d97c.jpg?x-expires=1696672800&x-signature=f0r4B4INr%2F9jJsnVsp4UO1AxJyA%3D
+author_link=https://www.tiktok.com/@dy8ofh9riujqsim
+author=bùi thanh tâm 740 NỮ 🇻🇳🇻🇳
+link=
+time_crawl=1696587084.857491
+type=tiktok comment
+id=tt_7279415363833217799
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=3
+like=3
+content=mọi người phóng to ở thanh sắt phía trên thấy rõ mặt với ánh mắt luôn🥺
+created_time=1694797200
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d9b2da15e995f93d411f433c13129a6a~c5_100x100.jpg?x-expires=1696672800&x-signature=jN1uWOrRQ4Vblrwaob%2Fg3q%2BLTNo%3D
+author_link=https://www.tiktok.com/@quinquin131003
+author=Quìn Quìn
+link=
+time_crawl=1696587084.997118
+type=tiktok comment
+id=tt_7279401639009534727
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=0
+content=mn ơi em k thấy😇
+created_time=1694797200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/75c027e9632323737f14a60e3338dab8.jpg?x-expires=1696672800&x-signature=bKv7D4DzfACmfPytgoSjMQQktBk%3D
+author_link=https://www.tiktok.com/@betrang220803
+author=ᴛʜᴜ̀ʏ┇ᴛʀᴀɴɢ🌷🥀
+link=
+time_crawl=1696587085.156691
+type=tiktok comment
+id=tt_7279400375143990034
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=@thuongem0256 a oi sợ quá 😟😟😟
+created_time=1694797200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ba65274f6e3f791322645fb6b1618c5e~c5_100x100.jpg?x-expires=1696672800&x-signature=054pMJLrcAAfF%2BGoL4JU15Or7WE%3D
+author_link=https://www.tiktok.com/@_1svbk
+author=svbk
+link=
+time_crawl=1696587085.294334
+type=tiktok comment
+id=tt_7279392100533617426
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=quần áo vẫn còn đó mà người nơi đâu r
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1654713749480450.jpg?x-expires=1696672800&x-signature=BzeZbgjyDgh7a1yNvmuyD5amFXE%3D
+author_link=https://www.tiktok.com/@quyquyet123
+author=user6194527248208
+link=
+time_crawl=1696587085.436952
+type=tiktok comment
+id=tt_7279035687298761473
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=1
+content=Thấy rõ luôn.
+created_time=1694710800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c9c9233ef51847d34d51801fba60e641~c5_100x100.jpg?x-expires=1696672800&x-signature=DP0G1RbCK1gnBTc%2FqQxpvxeF9BU%3D
+author_link=https://www.tiktok.com/@hathinga0802
+author=Tiệm nhà Bình an
+link=
+time_crawl=1696587085.585744
+type=tiktok comment
+id=tt_7278971862170895111
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=3
+content=nhiêu khí nó là bức tranh bị cháy nó còn nguyên hình, đụng vào nó rớt ra hết
+created_time=1694710800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tiktok-gcp-obj-giso/22907500d32fdef9c52f2fb582b9cebe~c5_100x100.jpg?x-expires=1696672800&x-signature=%2BaC%2BFF7%2Bs45FfqRXMYk8H3RhUKM%3D
+author_link=https://www.tiktok.com/@hv271080hv
+author=Nguyen Hong Van43
+link=
+time_crawl=1696587085.719895
+type=tiktok comment
+id=tt_7278958150346179329
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=5
+like=3
+content=Banh mắt chả thấy gì
+created_time=1694710800
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/1e33b18f402525adee3e36b916a7576e~c5_100x100.jpg?x-expires=1696672800&x-signature=OI73aKMnCmr75QlxwQwYtuoh0MU%3D
+author_link=https://www.tiktok.com/@linhnguyen22893
+author=Linh Nguyễn
+link=
+time_crawl=1696587085.860521
+type=tiktok comment
+id=tt_7278817252030612229
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=4
+content=sợ quá
+created_time=1694624400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/06250d412ace31b25ee01e28944656d9.jpg?x-expires=1696672800&x-signature=Xu005t1NSO8%2Fp9UKO0fbYGqnCt4%3D
+author_link=https://www.tiktok.com/@phuongnguyen20743
+author=phượng nguyễn
+link=
+time_crawl=1696587086.002548
+type=tiktok comment
+id=tt_7278678740544488210
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=11
+content=càng nhìn càng thấy nhiều khuôn mặt rất hung dữ..
+created_time=1694624400
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f63bb14b9fb8f055cd9026ec1626a6cd.jpg?x-expires=1696672800&x-signature=XJMp%2BR8O6kvpxzMt8b0VKhFHl3s%3D
+author_link=https://www.tiktok.com/@ng.ngc.km17
+author=Nizm🪷
+link=
+time_crawl=1696587086.13619
+type=tiktok comment
+id=tt_7278684065108411143
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=2
+like=7
+content=Toàn các bác tự tưởng tượng, nó chỉ là trùng hợp giống mặt người thôi, vụ cây bị chặt gần đây cũng thế
+created_time=1694710800
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1e05aa6d594d665b062259ca1296c410.jpg?x-expires=1696672800&x-signature=8Nkbhu57o90czmNXUhPMe9UNoBE%3D
+author_link=https://www.tiktok.com/@d.d.duy291
+author=Duy chuyên cmt dạo
+link=
+time_crawl=1696587086.294768
+type=tiktok comment
+id=tt_7278829554511348481
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nhìn sợ thật ý
+created_time=1695229200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/327b65faa4de37653096785e59862798~c5_100x100.jpg?x-expires=1696672800&x-signature=2wi93l5zbhB3fdIBJLpIDe5ddIQ%3D
+author_link=https://www.tiktok.com/@khanh_rom1990
+author=Khánh Nguyễn7319
+link=
+time_crawl=1696587086.470314
+type=tiktok comment
+id=tt_7281278852872569602
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=khuôn mặt của thần chết 😔😔😔
+created_time=1695229200
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/372dfd7afe588625583246c9df8eeef2.jpg?x-expires=1696672800&x-signature=faSpbUGD1vD8EHC9e7C5NQ%2B6lac%3D
+author_link=https://www.tiktok.com/@ynbinytutri
+author=yunbinvatutri02huỵnhngocnhu73
+link=
+time_crawl=1696587086.624901
+type=tiktok comment
+id=tt_7281208686897316610
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=bên trong cửa mình cũng thấy nhiều ng đứng đó. mặt họ biến dạng trông như giận dữ🥺🥺🥺
+created_time=1695229200
+avatar=https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/37504a7b65482374c9342e2923d43d46~c5_100x100.jpg?x-expires=1696672800&x-signature=tuKiRF%2BSabLrOdy0eVga3DQ5Z30%3D
+author_link=https://www.tiktok.com/@hoa.stores
+author=hoa. stores 🫦
+link=
+time_crawl=1696587086.76353
+type=tiktok comment
+id=tt_7281007362461844225
+
+##################################################################################################################################################################################
+source_id=tt_7278620540829502727
+view=0
+duration=0
+title=
+music=
+hastag=
+domain=www.tiktok.com
+share=0
+love=0
+comment=0
+like=0
+content=nhìn như mưu ma vương.
+created_time=1695142800
+avatar=https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc4f4c06c9b12291693599ea462f215~c5_100x100.jpg?x-expires=1696672800&x-signature=Jcpj99qjdWJJ856NzgatR%2B6pPho%3D
+author_link=https://www.tiktok.com/@thaobongbay341
+author=th thảo. 123.
+link=
+time_crawl=1696587086.919082
+type=tiktok comment
+id=tt_7280914819023209218
+
+##################################################################################################################################################################################
+source_id=
+view=2300000
+duration=126
+title=Xót thương nữ sinh vừa nhập học đã từ biệt giảng đường sau vụ cháy chung cư mini ở Khương Hạ #socialnews #news #vietnamnet #tiktoknews
+music=https://www.tiktok.com/music/nh%E1%BA%A1c-n%E1%BB%81n-B%C3%A1o-VietNamNet-7278893554020403969
+hastag=['#socialnews', '#news', '#vietnamnet', '#tiktoknews']
+domain=www.tiktok.com
+share=1314
+love=3311
+comment=2111
+like=50500
+content=
+created_time=1694749457
+avatar=https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/dc3d61f76301ef9243c255fbe629165e.jpeg?x-expires=1696759200&x-signature=zUs9iEfT%2FAoQtm7yhAFuv6KFqNo%3D
+author_link=https://www.tiktok.com/@vietnamnet.vn
+author=Báo VietNamNet
+link=https://www.tiktok.com/@vietnamnet.vn/video/7278893304358505735
+time_crawl=1696587109.905226
+type=tiktok video
+id=tt_7278893304358505735
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
