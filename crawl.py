@@ -39,6 +39,7 @@ options.add_argument('--disable-save-password-bubble')
 options.add_argument('--disable-translate')
 options.add_argument('--disable-web-security')
 options.add_argument('--disable-extensions')
+options.add_argument(f'--proxy-server={config.proxy}')
 # options.add_experimental_option("excludeSwitches", ["enable-automation"])
 # driver = webdriver.Chrome(options=options)
 
@@ -264,6 +265,7 @@ class CrawlManage(object):
     def run(self):
         posts = []
         count = 0
+        time.sleep(2)
         self.driver.get("https://www.tiktok.com/")
         self.check_login_div()
         print("Start crawl")
@@ -329,10 +331,10 @@ class CrawlManage(object):
         # keyword_dict, option = self.parse_keyword()
         if self.option == "search_post":
             self.driver.get(self.config.search_post_tiktok + keyword)
+            time.sleep(1)
             # captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath=self.XPATH_VIDEO_SEARCH)
         if self.option == "search_post_android":
-
             driver_appium = run_appium(keyword)
             post = 0
             link = None

@@ -26,3 +26,4 @@ number_page = 1
 url_tiktok = "https://tiktok.com"
 config_path = "./dev_config.json"
 count_of_vid = 100
+proxy = "192.168.14.150:4009"
