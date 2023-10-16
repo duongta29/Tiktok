@@ -263,10 +263,6 @@ class PostSearchExtractor:
         except Exception as e:
             print(e)
             
-        
-        
-            
-
 def main():
     # driver.quit()
     driver = webdriver.Chrome(options=options)

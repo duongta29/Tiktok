@@ -13,15 +13,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from puzzle import Puzzle
 import re
 from unidecode import unidecode
-from post_tiktok_etractor import PostTikTokExtractor, PostCommentExtractor
+from post_tiktok_etractor import PostTikTokExtractor, PostCommentExtractor, PostReplyExtractor
 import unicodedata
 from utils.common_utils import CommonUtils
 import config
 import captcha
 import ast
-from get_link_from_android import *
+# from get_link_from_android import *
 # import kafka
-
 from kafka import KafkaProducer
 
 producer = KafkaProducer(bootstrap_servers=["10.11.101.129:9092"])
@@ -58,32 +57,35 @@ class CrawlManage(object):
             data = json.loads(data)
         self.option = data["mode"]["name"]
 
-    def parse_keyword(self) -> List[str]:
+    def parse_keyword(self, option) -> List[str]:
         keyword_list_raw_dict = []
         keyword_list: List[str] = []
         with open(self.config.config_path, "r", encoding='utf-8') as f:
             data = f.read()
             keyword_list_raw = json.loads(data)
-            keyword_list_raw_dict = keyword_list_raw["mode"]["keyword"]
-        try:
-            # Lặp qua mỗi dict trong danh sách
-            for item in keyword_list_raw_dict:
-                dict_search_mainkey = {}
-                dict_search_mainkey["key"] = item["key"]
-                filter_key = []
-                dict_search_mainkey["filter_key"] = item["subKey"]
-                for subkey in item['subKey']:
-                    dict_for_search = {}
-                    dict_for_search["key"] = item["key"] + " " + subkey
-                    filter_key.append(dict_for_search["key"])
-                    dict_for_search["filter_key"] = [item["key"], subkey]
-                    keyword_list.append(dict_for_search)
-                dict_search_mainkey["filter_key"] = dict_search_mainkey["filter_key"] + filter_key
-                keyword_list.append(dict_search_mainkey)
-        except Exception as e:
-            print(e)
-            # keyword_list = [[item] for item in keyword_list_raw_dict]
-        return keyword_list
+            if option == "search_post":
+                keyword_list_raw_dict = keyword_list_raw["mode"]["keyword"]
+            elif option == "search_user":
+                keyword_list_raw_dict = keyword_list_raw["mode"]["list_page"]
+        # try:
+        #     # Lặp qua mỗi dict trong danh sách
+        #     for item in keyword_list_raw_dict:
+        #         dict_search_mainkey = {}
+        #         dict_search_mainkey["key"] = item["key"]
+        #         filter_key = []
+        #         dict_search_mainkey["filter_key"] = item["subKey"]
+        #         for subkey in item['subKey']:
+        #             dict_for_search = {}
+        #             dict_for_search["key"] = item["key"] + " " + subkey
+        #             filter_key.append(dict_for_search["key"])
+        #             dict_for_search["filter_key"] = [item["key"], subkey]
+        #             keyword_list.append(dict_for_search)
+        #         dict_search_mainkey["filter_key"] = dict_search_mainkey["filter_key"] + filter_key
+        #         keyword_list.append(dict_search_mainkey)
+        # except Exception as e:
+        #     print(e)
+        #     keyword_list = [[item] for item in keyword_list_raw_dict]
+        return keyword_list_raw_dict
 
     def filter_post(self, content, keyword_dict):
         print("Check to filter post ...")
@@ -93,40 +95,42 @@ class CrawlManage(object):
         content = content.replace("\n", " ")
         content = content.lower()
         main_key = unicodedata.normalize('NFKD', main_key).encode(
-                'ASCII', 'ignore').decode('utf-8')
+            'ASCII', 'ignore').decode('utf-8')
         content = unicodedata.normalize('NFKD', content).encode(
-                'ASCII', 'ignore').decode('utf-8')
+            'ASCII', 'ignore').decode('utf-8')
         hashtag = "#" + main_key.replace(" ", "")
         if (main_key in content) or (hashtag in content) or (accented_hashtags in content):
             for key in keyword_dict["filter_key"]:
-                    accented_hashtags = "#" + key.replace(" ", "")
-                    key = key.lower()
-                    key = unicodedata.normalize('NFKD', key).encode(
-                        'ASCII', 'ignore').decode('utf-8')
-                    if key in content:
+                accented_hashtags = "#" + key.replace(" ", "")
+                key = key.lower()
+                key = unicodedata.normalize('NFKD', key).encode(
+                    'ASCII', 'ignore').decode('utf-8')
+                if key in content:
+                    check = 1
+                    break
+                else:
+                    hashtag = "#" + key.replace(" ", "")
+                    if (hashtag in content) or (accented_hashtags in content):
                         check = 1
                         break
                     else:
-                        hashtag = "#" + key.replace(" ", "")
-                        if (hashtag in content) or (accented_hashtags in content):
-                            check = 1
-                            break
-                        else:
-                            continue
+                        continue
         if check == 0:
-                return False
+            return False
         elif check == 1:
-                return True
-        else: 
+            return True
+        else:
             return False
 
     def check_login_div(self):
         print("Check login div")
         try:
-            try: 
-                button = self.driver.find_element(By.XPATH, '//*[@data-e2e="modal-close-inner-button"]')
-            except: 
-                button = self.driver.find_element(By.XPATH, '//*[@id="login-modal"]/div[2]')
+            try:
+                button = self.driver.find_element(
+                    By.XPATH, '//*[@data-e2e="modal-close-inner-button"]')
+            except:
+                button = self.driver.find_element(
+                    By.XPATH, '//*[@id="login-modal"]/div[2]')
             button.click()
         except:
             print("No login div")
@@ -136,11 +140,33 @@ class CrawlManage(object):
         numbers = re.findall(pattern, string)
         number = int(numbers[0])
         return number
+    
+    def clickViewmore(self,cmt):
+        BOOL = True
+        wait = WebDriverWait(cmt, 5)
+        for i in range(3):
+            try:
+                rep1 = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@data-e2e="view-more-1"]')))
+                rep1.click()
+                time.sleep(2)
+                while(BOOL):
+                    try:
+                        # Chờ tối đa 10 giây cho phần tử "view-more-2" xuất hiện
+                        rep2 = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@data-e2e="view-more-2"]')))
+                        # Nhấp vào phần tử
+                        rep2.click()
+                    except Exception as e:
+                        # print("No Rep2")
+                        BOOL = False
+                        # Tìm các thẻ div của Reply
+            except Exception as e:
+                # print(e)
+                # print("No Rep 1")
+                pass
 
     def crawl_comment(self, link):
         comments = []
-
-        def scroll_comment():
+        def scroll_comment(option):
             cmts = []
             check = 1
             while((len(cmts) < 100) & (len(cmts) != check)):
@@ -153,7 +179,7 @@ class CrawlManage(object):
                     By.XPATH, '//*[contains(@class, "DivCommentItemContainer")]')
                 time.sleep(2)
                 buttons = (self.driver.find_elements(
-                    By.XPATH, '//*[@data-e2e="comment-hide"]'))
+                    By.XPATH, f'//*[@data-e2e={option}]'))
             try:
                 self.driver.execute_script("window.scrollTo(0, 0);")
             except:
@@ -166,16 +192,28 @@ class CrawlManage(object):
                 pass
             return cmts
         try:
-            list_cmt = scroll_comment()
+            list_cmt = scroll_comment("hide-comment")
             print(">>> Crawling comment of post ...")
             for cmt in list_cmt:
                 comment_id = cmt.find_element(
                     By.TAG_NAME, 'div').get_attribute('id')
                 try:
-                    div = cmt.find_elements(By.TAG_NAME, 'div')
-                    count_reply = div[6].text
-                    # count_reply = int(self.extract_numbers_from_string(count_reply)[0])
-                    count_reply = self.extract_numbers_from_string(count_reply)
+                    self.clickViewmore(cmt)
+                    div_cmt = cmt.find_elements(By.TAG_NAME, 'div')
+                    id_list = []
+                    for div in div_cmt:
+                        try:
+                            id = div.get_attribute('id')
+                        except:
+                            continue
+                        id_list.append(id)
+                    id_list = [x for x in id_list if x != '']
+                    if comment_id in id_list:
+                        id_list.remove(comment_id)
+                    count_reply = len(id_list)
+                    # count_reply = div[6].text
+                    # # count_reply = int(self.extract_numbers_from_string(count_reply)[0])
+                    # count_reply = self.extract_numbers_from_string(count_reply)
                 except:
                     count_reply = 0
                 comment_extractor: PostCommentExtractor = PostCommentExtractor(
@@ -192,13 +230,31 @@ class CrawlManage(object):
                     else:
                         file.write(
                             f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+                if count_reply != 0:
+                    for id in id_list:
+                        reply_extractor: PostReplyExtractor = PostReplyExtractor(driver=self.driver,source_id = comment_id, post_id=id)
+                        reply = reply_extractor.extract()
+                        with open("result.txt", "a", encoding="utf-8") as file:
+                            file.write(f"{str(reply)}\n")
+                            # NguyenNH: in màu cho dễ debug
+                            if comment.is_valid:
+                                file.write(
+                                    f"##################################################################################################################################################################################\n")
+                            else:
+                                file.write(
+                                    f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+                    pass
         except Exception as e:
             print(e)
         return comments
 
+    def crawl_reply(self):
+        pass
+        
+
     def crawl_post(self, link, keyword_list):
         posts = []
-        check=False
+        check = False
         try:
             self.driver.get(link)
             self.driver.implicitly_wait(5)
@@ -206,50 +262,49 @@ class CrawlManage(object):
             # time.sleep(30)
             print(f" >>> Crawling: {link} ...")
             captcha.check_captcha(self.driver)
-            if self.option == 'search_post':
-                content = self.driver.find_element(
-                    By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
-                check = self.filter_post(content, keyword_list)
-            if check or self.option != "search_post":
-                    post_extractor: PostTikTokExtractor = PostTikTokExtractor(
-                        driver=self.driver, link=link)
-                    # data[vid] = self.CrawlVideo(vid)
-                    post = post_extractor.extract()
-                    retry_time = 0
+            # if self.option == 'search_post':
+            #     content = self.driver.find_element(
+            #         By.XPATH, '//*[@data-e2e="browse-video-desc"]').text
+            #     check = self.filter_post(content, keyword_list)
+            # if check or self.option != "search_post":
+            post_extractor: PostTikTokExtractor = PostTikTokExtractor(
+                driver=self.driver, link=link)
+            # data[vid] = self.CrawlVideo(vid)
+            post = post_extractor.extract()
+            retry_time = 0
 
-                    def retry_extract(post, retry_time):
-                        while not post.is_valid():
-                            post = post_extractor.extract()
-                            if retry_time > 0:
-                                print(
-                                    f"Try to extract post {retry_time} times {str(post)}")
-                                slept_time = CommonUtils.sleep_random_in_range(1, 5)
-                                print(f"Slept {slept_time}")
-                            retry_time = retry_time + 1
-                            if retry_time > 20:
-                                print("Retried 20 times, skip post")
-                                break
-                        return
-                    retry_extract(post, retry_time)
-                    posts.append(post)
-                    with open('dataCrawled.txt', 'a') as f:
-                        f.write(f"{link}\n")
-                    with open("result.txt", "a", encoding="utf-8") as file:
-                        file.write(f"{str(post)}\n")
-                        if post.is_valid:
-                            file.write(f"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷\n")
-                        else:
-                            file.write(
-                                f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
-                    return posts
-            else:
-                    print(f"Filter out link {link}")
-                    return []
+            def retry_extract(post, retry_time):
+                while not post.is_valid():
+                    post = post_extractor.extract()
+                    if retry_time > 0:
+                        print(
+                            f"Try to extract post {retry_time} times {str(post)}")
+                        slept_time = CommonUtils.sleep_random_in_range(1, 5)
+                        print(f"Slept {slept_time}")
+                    retry_time = retry_time + 1
+                    if retry_time > 20:
+                        print("Retried 20 times, skip post")
+                        break
+                return
+            retry_extract(post, retry_time)
+            posts.append(post)
+            with open('dataCrawled.txt', 'a') as f:
+                f.write(f"{link}\n")
+            with open("result.txt", "a", encoding="utf-8") as file:
+                file.write(f"{str(post)}\n")
+                if post.is_valid:
+                    file.write(f"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷\n")
+                else:
+                    file.write(
+                        f"🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈\n")
+                return posts
+
+            # else:
+            #         print(f"Filter out link {link}")
+            #         return []
         except Exception as e:
             print(e)
             return []
-                    
-
 
     def push_kafka(self, posts, comments):
         if len(posts) > 0:
@@ -270,9 +325,9 @@ class CrawlManage(object):
         self.check_login_div()
         print("Start crawl")
         # time.sleep(3)
-        keywords = self.parse_keyword()
+        keywords = self.parse_keyword(self.option)
         for keyword in keywords:
-            link_list = self.get_link_list(keyword["key"])
+            link_list = self.get_link_list(keyword)
             for link in link_list:
                 count += 1
                 start = time.time()
@@ -331,7 +386,7 @@ class CrawlManage(object):
         # keyword_dict, option = self.parse_keyword()
         if self.option == "search_post":
             self.driver.get(self.config.search_post_tiktok + keyword)
-            time.sleep(1)
+            # time.sleep(1)
             # captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath=self.XPATH_VIDEO_SEARCH)
         if self.option == "search_post_android":
@@ -362,8 +417,7 @@ class CrawlManage(object):
                 # with open("link_list_android.txt", "r") as f:
                 #     vidList = [line.strip() for line in f.readlines()]
         elif self.option == "search_user":
-            self.driver.get(self.config.search_page_tiktok +
-                            self.config.user_id)
+            self.driver.get(keyword)
             # captcha.check_captcha(self.driver)
             vidList = self.scroll(xpath=self.XPATH_VIDEO_USER)
         elif self.option == "tag":

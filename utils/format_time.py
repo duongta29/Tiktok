@@ -25,10 +25,11 @@ def format_time(option):
     else:
             try:
                 if '-' in option:
-                    new_time = datetime.strptime(option, '%m-%d')
-                    new_time = new_time.replace(year=current_time.year)
-                else:
-                    new_time = datetime.strptime(option, '%m-%d-%Y')
+                        try:
+                                new_time = datetime.strptime(option, '%m-%d')
+                                new_time = new_time.replace(year=current_time.year)
+                        except:
+                                new_time = datetime.strptime(option, '%Y-%m-%d')
             except ValueError:
                 pass
 # Định dạng thời gian mới
