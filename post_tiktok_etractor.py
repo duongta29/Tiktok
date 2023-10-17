@@ -19,12 +19,9 @@ from utils.format_time import format_time
 
 class PostTikTokExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
-    def __init__(self, driver: WebDriver, link):
+    def __init__(self, driver: WebDriver, link, source_id):
         super().__init__(driver=driver)
-        getIDvid = self.driver.find_element(
-            By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
-        id = ((getIDvid.get_attribute('id')).split('-'))[2]
-        self.id = id
+        self.source_id = source_id
         try:
             infor_text = self.driver.find_element(
                 By.XPATH, '//*[@id="__UNIVERSAL_DATA_FOR_REHYDRATION__"]').get_attribute('text')
@@ -35,7 +32,7 @@ class PostTikTokExtractor(PostExtractor):
             infor_text = self.driver.find_element(
                 By.XPATH, '//*[@id="SIGI_STATE"]').get_attribute('text')
             infor_text = json.loads(infor_text)
-            infor_text = infor_text["ItemModule"][self.id]
+            infor_text = infor_text["ItemModule"][self.source_id]
         self.infor_text = infor_text
         self.link = link
 
@@ -43,7 +40,7 @@ class PostTikTokExtractor(PostExtractor):
         return self.link
 
     def extract_post_id(self):
-        id = "tt_" + self.id
+        id = "tt_" + self.source_id
         return id
 
     def extract_post_time_crawl(self):
@@ -130,12 +127,12 @@ class PostTikTokExtractor(PostExtractor):
 
 class PostCommentExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
-    def __init__(self, driver: WebDriver, link, post_id, comment):
+    def __init__(self, driver: WebDriver,  source_id, comment_id, count_reply):
         super().__init__(driver=driver)
-        self.link = link
-        self.post_id = post_id
-        self.comment = comment
-        # self.source_id = source_id
+        # self.link = link
+        self.source_id = source_id
+        self.comment = count_reply
+        self.comment_id = comment_id
 
         # infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
         # infor_text = json.loads(infor_text)
@@ -145,7 +142,7 @@ class PostCommentExtractor(PostExtractor):
         return ""
 
     def extract_post_id(self):
-        id = "tt_" + self.post_id
+        id = "tt_" + self.comment_id
         return id
 
     def extract_post_time_crawl(self):
@@ -155,7 +152,7 @@ class PostCommentExtractor(PostExtractor):
 
     def extract_post_author(self):
         author = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/a/span').text
+            By.XPATH, f'//*[@id={self.comment_id}]/div[1]/a/span').text
         return author
     
     def extract_post_title(self):
@@ -163,27 +160,27 @@ class PostCommentExtractor(PostExtractor):
 
     def extract_post_author_link(self):
         author_link = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/a').get_attribute('href')
+            By.XPATH, f'//*[@id={self.comment_id}]/a').get_attribute('href')
         return author_link
 
     def extract_post_author_avatar(self):
         avatar = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/a/span/img').get_attribute('src')
+            By.XPATH, f'//*[@id={self.comment_id}]/a/span/img').get_attribute('src')
         return avatar
 
     def extract_post_created_time(self):
-        createTime = self.driver.find_element(By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/span[1]').text
+        createTime = self.driver.find_element(By.XPATH, f'//*[@id={self.comment_id}]/div[1]/p[2]/span[1]').text
         createTime = format_time(createTime)
         return createTime
 
     def extract_post_content(self):
         content = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[1]').text
+            By.XPATH, f'//*[@id={self.comment_id}]/div[1]/p[1]').text
         return content
 
     def extract_post_like(self):
         like = int(self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/div/span').text)
+            By.XPATH, f'//*[@id={self.comment_id}]/div[1]/p[2]/div/span').text)
         return like
 
     def extract_post_love(self):
@@ -217,16 +214,21 @@ class PostCommentExtractor(PostExtractor):
         return type
 
     def extract_post_source_id(self):
-        getIDvid = self.driver.find_element(
-            By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
-        source_id = "tt_" + ((getIDvid.get_attribute('id')).split('-'))[2]
-        return source_id
+        # getIDvid = self.driver.find_element(
+        #     By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
+        # source_id = "tt_" + ((getIDvid.get_attribute('id')).split('-'))[2]
+        # sed = self.link.split('/')
+        # source_id = sed[-1]
+        source_id = "tt_" + self.source_id
+        return self.source_id
 
 class PostReplyExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
-    def __init__(self, driver: WebDriver,source_id, post_id):
+    def __init__(self, driver: WebDriver,source_id, comment_id, reply_id):
+        # self.link = link
         super().__init__(driver=driver)
-        self.post_id = post_id
+        self.reply_id = reply_id
+        self.comment_id = comment_id
         self.source_id = source_id
 
         # infor_text = self.driver.find_element(By.XPATH,'//*[@id="SIGI_STATE"]').get_attribute('text')
@@ -237,7 +239,7 @@ class PostReplyExtractor(PostExtractor):
         return ""
 
     def extract_post_id(self):
-        id = "tt_" + self.source_id + "." + self.post_id
+        id = "tt_" + self.comment_id + "." + self.reply_id
         return id
 
     def extract_post_time_crawl(self):
@@ -247,7 +249,7 @@ class PostReplyExtractor(PostExtractor):
 
     def extract_post_author(self):
         author = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/a/span').text
+            By.XPATH, f'//*[@id={self.reply_id}]/div[1]/a/span').text
         return author
     
     def extract_post_title(self):
@@ -255,28 +257,28 @@ class PostReplyExtractor(PostExtractor):
 
     def extract_post_author_link(self):
         author_link = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/a').get_attribute('href')
+            By.XPATH, f'//*[@id={self.reply_id}]/a').get_attribute('href')
         return author_link
 
     def extract_post_author_avatar(self):
         avatar = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/a/span/img').get_attribute('src')
+            By.XPATH, f'//*[@id={self.reply_id}]/a/span/img').get_attribute('src')
         return avatar
 
     def extract_post_created_time(self):
         createTime = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/span[1]').text
+            By.XPATH, f'//*[@id={self.reply_id}]/div[1]/p[2]/span[1]').text
         createTime = format_time(createTime)
         return createTime
 
     def extract_post_content(self):
         content = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[1]').text
+            By.XPATH, f'//*[@id={self.reply_id}]/div[1]/p[1]').text
         return content
 
     def extract_post_like(self):
         like = int(self.driver.find_element(
-            By.XPATH, f'//*[@id={self.post_id}]/div[1]/p[2]/div/span').text)
+            By.XPATH, f'//*[@id={self.reply_id}]/div[1]/p[2]/div/span').text)
         return like
 
     def extract_post_love(self):
@@ -310,7 +312,10 @@ class PostReplyExtractor(PostExtractor):
         return type
 
     def extract_post_source_id(self):
-        getIDvid = self.driver.find_element(
-            By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
-        source_id = "tt_" + ((getIDvid.get_attribute('id')).split('-'))[2]
-        return source_id
+        # getIDvid = self.driver.find_element(
+        #     By.XPATH, '//*[@class="tiktok-web-player no-controls"]')
+        # source_id = "tt_" + ((getIDvid.get_attribute('id')).split('-'))[2]
+        # sed = self.link.split('/')
+        # source_id = sed[-1]
+        source_id = "tt_" + self.source_id
+        return self.source_id

@@ -16,7 +16,7 @@
     "mode": {
         "id": 1,
         "name": "search_user",
-        "keyword": [
+        "keyword_utils": [
             {
                 "key": "cháy",
                 "subKey": [
@@ -337,7 +337,48 @@
                 ]
             }
         ],
-        "list_page":["https://www.tiktok.com/@vnch94?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@vnchmuomnam?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@kocotailhoan10877?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@kocotailhoan10877?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@nhayow?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@giaidapthacmac?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@nguyenngoclapofficial?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@1981.son?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@userpi7dx1h0pg?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@toimuonbaucu?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@nhayuue?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@bsnguyenvanha?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@iel8974482a?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@tangthanhcut?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@amnhac7777?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@amnhac7777?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@zxo94829dj2?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@fbs23954bia?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@peaceful_9333?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@theanhsn06?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@chumeocakhia?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@phanbiene?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@tri.nguyen.ong.tam?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@epicbaitman78?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@vietnamese115?is_from_webapp=1&sender_device=pc", "https://www.tiktok.com/@shinjiasian?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@bc.h.l.thng.no?is_from_webapp=1&sender_device=pc","https://www.tiktok.com/@vv1hjb?is_from_webapp=1&sender_device=pc" ],
+        "keyword":["cháy","tổng thống mỹ","Trọng lú","Nguyễn Phú Trọng","Ông Trọng","Trọng Lẫn","Tổng Trọng","Chủ Bí Trọng","tổng bí thư","Thủ tướng","Phạm Minh Chính","Thủ tướng Chính","Vương Đình Huệ","Chủ tịch quốc hội"
+        ],
+        "list_page1": [
+            "https://www.tiktok.com/@vnch94",
+            "https://www.tiktok.com/@vnchmuomnam",
+            "https://www.tiktok.com/@kocotailhoan10877",
+            "https://www.tiktok.com/@nhayow",
+            "https://www.tiktok.com/@giaidapthacmac",
+            "https://www.tiktok.com/@nguyenngoclapofficial",
+            "https://www.tiktok.com/@1981.son"
+        ],
+        "list_page2":[
+            "https://www.tiktok.com/@bsnguyenvanha",
+            "https://www.tiktok.com/@iel8974482a",
+            "https://www.tiktok.com/@tangthanhcut",
+            "https://www.tiktok.com/@amnhac7777",
+            "https://www.tiktok.com/@zxo94829dj2",
+            "https://www.tiktok.com/@fbs23954bia"
+            ],
+        "list_page3":[
+            "https://www.tiktok.com/@toimuonbaucu",
+            "https://www.tiktok.com/@nhayuue",
+            "https://www.tiktok.com/@chumeocakhia",
+            "https://www.tiktok.com/@peaceful_9333",
+            "https://www.tiktok.com/@theanhsn06"
+            
+        ],
+        "list_page4": [
+            "https://www.tiktok.com/@userpi7dx1h0pg",
+            "https://www.tiktok.com/@nhayuue",
+            "https://www.tiktok.com/@phanbiene",
+            "https://www.tiktok.com/@tri.nguyen.ong.tam",
+            "https://www.tiktok.com/@epicbaitman78",
+            "https://www.tiktok.com/@vietnamese115",
+            "https://www.tiktok.com/@shinjiasian",
+            "https://www.tiktok.com/@bc.h.l.thng.no",
+            "https://www.tiktok.com/@vv1hjb",
+            "https://www.tiktok.com/@vietnamese115",
+            "https://www.tiktok.com/@shinjiasian",
+            "https://www.tiktok.com/@bc.h.l.thng.no",
+            "https://www.tiktok.com/@vv1hjb"
+        ],
         "link_page": "https://www.tiktok.com/@ojw86308hkp",
         "count_post": 20,
         "link_post": "https://www.tiktok.com/@ojw86308hkp/video/7279822529307430176",
