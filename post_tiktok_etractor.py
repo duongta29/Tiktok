@@ -164,9 +164,12 @@ class PostCommentExtractor(PostExtractor):
         return author_link
 
     def extract_post_author_avatar(self):
-        avatar = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.comment_id}]/a/span/img').get_attribute('src')
-        return avatar
+        try:
+            avatar = self.driver.find_element(
+                By.XPATH, f'//*[@id={self.comment_id}]/a/span/img').get_attribute('src')
+            return avatar
+        except:
+            return ""
 
     def extract_post_created_time(self):
         createTime = self.driver.find_element(By.XPATH, f'//*[@id={self.comment_id}]/div[1]/p[2]/span[1]').text
@@ -220,7 +223,7 @@ class PostCommentExtractor(PostExtractor):
         # sed = self.link.split('/')
         # source_id = sed[-1]
         source_id = "tt_" + self.source_id
-        return self.source_id
+        return source_id
 
 class PostReplyExtractor(PostExtractor):
     # POST_AUTHOR_XPATH: str = './/a[not(contains(@href, "group")) and not(@href="#")]'
@@ -261,9 +264,14 @@ class PostReplyExtractor(PostExtractor):
         return author_link
 
     def extract_post_author_avatar(self):
-        avatar = self.driver.find_element(
-            By.XPATH, f'//*[@id={self.reply_id}]/a/span/img').get_attribute('src')
-        return avatar
+        try:
+            avatar = self.driver.find_element(
+                By.XPATH, f'//*[@id={self.reply_id}]/a/span/img').get_attribute('src')
+            return avatar
+        except:
+            return ""
+            
+        
 
     def extract_post_created_time(self):
         createTime = self.driver.find_element(
@@ -318,4 +326,4 @@ class PostReplyExtractor(PostExtractor):
         # sed = self.link.split('/')
         # source_id = sed[-1]
         source_id = "tt_" + self.source_id
-        return self.source_id
+        return source_id
